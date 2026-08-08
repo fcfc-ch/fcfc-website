@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-07T00:00:00Z",
+  "items": [
+    {
+      "date": "2026-08-07",
+      "tag": "CTRM",
+      "headline": "This feed updates itself",
+      "summary": "This is placeholder content. Once the update-news GitHub Action runs on its schedule, this section will refresh automatically with short notes on commodity trading technology, financing, logistics, and CTRM."
+    },
+    {
+      "date": "2026-08-07",
+      "tag": "OPS",
+      "headline": "Trade lifecycle, in brief",
+      "summary": "Real entries will summarize developments across deal capture, settlement, and the systems that connect them — written and refreshed by an automated Claude API call."
+    },
+    {
+      "date": "2026-08-07",
+      "tag": "REG",
+      "headline": "Compliance notes, on schedule",
+      "summary": "EMIR/REMIT and related regulatory updates relevant to commodity trading desks will appear here as they happen."
+    }
+  ]
+}
