@@ -171,6 +171,29 @@ a { color: inherit; }
   max-width: 46ch;
   margin: 0;
 }
+.about-video {
+  position: relative;
+  padding: 100px 0;
+  overflow: hidden;
+  isolation: isolate;
+}
+.about-bg-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.about-scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(100deg, rgba(10,47,82,0.88) 0%, rgba(10,47,82,0.6) 55%, rgba(10,47,82,0.35) 100%);
+  z-index: 1;
+}
+.about-video .wrap { position: relative; z-index: 2; }
+.about-text.light { color: #fff; }
+.section-label.light { color: rgba(255,255,255,0.65); }
 
 .news {
   background: var(--blue-deep);
