@@ -12,7 +12,11 @@
     const data = await res.json();
 
     renderUpdated(data.generated_at);
-    renderItems(Array.isArray(data.items) ? data.items : []);
+    var items = Array.isArray(data.items) ? data.items.slice() : [];
+    items.sort(function (a, b) {
+      return (b.date || '').localeCompare(a.date || '');
+    });
+    renderItems(items);
   } catch (err) {
     updatedEl.textContent = 'Notes unavailable';
     listEl.innerHTML = '<p class="ledger-empty">Trade desk notes could not be loaded right now. Please check back shortly.</p>';
