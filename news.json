@@ -1,23 +1,47 @@
 {
-  "generated_at": "2026-08-07T00:00:00Z",
+  "generated_at": "2026-08-09T12:00:00Z",
   "items": [
     {
-      "date": "2026-08-07",
-      "tag": "CTRM",
-      "headline": "This feed updates itself",
-      "summary": "This is placeholder content. Once the update-news GitHub Action runs on its schedule, this section will refresh automatically with short notes on commodity trading technology, financing, logistics, and CTRM."
+      "date": "2026-08-06",
+      "tag": "NRG",
+      "headline": "European gas eases but storage lags",
+      "summary": "European TTF gas prices slipped to around \u20ac52/MWh this week, the lowest in three weeks, as markets weighed a possible Strait of Hormuz de-escalation \u2014 though EU storage sits near 58% full, the lowest seasonal level in nearly two decades."
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-07-30",
+      "tag": "NRG",
+      "headline": "Refined product margins hit record highs",
+      "summary": "Diesel and gasoline crack spreads pushed to record levels even as crude oil pulled back, with refinery outages across the Gulf region and Russia's diesel export ban keeping fuel supply tighter than crude supply alone would suggest."
+    },
+    {
+      "date": "2026-03-30",
+      "tag": "NRG",
+      "headline": "US biofuel blending mandates jump for 2026",
+      "summary": "New US blend requirements push biomass-based diesel mandates over 60% above last year's targets, the largest single-year increase in the program's history, as elevated fuel costs boost interest in biodiesel alternatives."
+    },
+    {
+      "date": "2026-08-08",
+      "tag": "NUTS",
+      "headline": "California pistachio crop set to fall sharply",
+      "summary": "Early estimates put the 2026 California pistachio crop down by as much as half versus last year after excessive heat during bloom, with processors rationing exports and prices climbing since June as buyers compete for supply."
+    },
+    {
+      "date": "2026-08-08",
+      "tag": "NUTS",
+      "headline": "Almond supply holds steady into harvest",
+      "summary": "USDA pegs the 2026 California almond crop at 2.7 billion pounds, down just 1% year-on-year; export demand stayed strong into harvest, led by Western Europe with South/Central Asia and the Middle East close behind."
+    },
+    {
+      "date": "2026-08-08",
+      "tag": "MACRO",
+      "headline": "Food inflation risk building for late 2026",
+      "summary": "Reuters reports FAO's chief economist expects conflict-related and El Ni\u00f1o-linked crop pressures to reach retail food prices within three to six months, compounding elevated fertilizer and freight input costs."
+    },
+    {
+      "date": "2026-08-08",
       "tag": "OPS",
-      "headline": "Trade lifecycle, in brief",
-      "summary": "Real entries will summarize developments across deal capture, settlement, and the systems that connect them — written and refreshed by an automated Claude API call."
-    },
-    {
-      "date": "2026-08-07",
-      "tag": "REG",
-      "headline": "Compliance notes, on schedule",
-      "summary": "EMIR/REMIT and related regulatory updates relevant to commodity trading desks will appear here as they happen."
+      "headline": "Pistachio tightness bears watching for margin",
+      "summary": "Expect continued price pressure and supplier allocation discipline on pistachios; almond exposure looks more manageable, making freight and FX the bigger consideration there rather than sourcing risk."
     }
   ]
 }
