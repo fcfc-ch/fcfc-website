@@ -2,24 +2,6 @@
   "generated_at": "2026-08-09T12:00:00Z",
   "items": [
     {
-      "date": "2026-08-06",
-      "tag": "NRG",
-      "headline": "European gas eases but storage lags",
-      "summary": "European TTF gas prices slipped to around \u20ac52/MWh this week, the lowest in three weeks, as markets weighed a possible Strait of Hormuz de-escalation \u2014 though EU storage sits near 58% full, the lowest seasonal level in nearly two decades."
-    },
-    {
-      "date": "2026-07-30",
-      "tag": "NRG",
-      "headline": "Refined product margins hit record highs",
-      "summary": "Diesel and gasoline crack spreads pushed to record levels even as crude oil pulled back, with refinery outages across the Gulf region and Russia's diesel export ban keeping fuel supply tighter than crude supply alone would suggest."
-    },
-    {
-      "date": "2026-03-30",
-      "tag": "NRG",
-      "headline": "US biofuel blending mandates jump for 2026",
-      "summary": "New US blend requirements push biomass-based diesel mandates over 60% above last year's targets, the largest single-year increase in the program's history, as elevated fuel costs boost interest in biodiesel alternatives."
-    },
-    {
       "date": "2026-08-08",
       "tag": "NUTS",
       "headline": "California pistachio crop set to fall sharply",
@@ -35,13 +17,31 @@
       "date": "2026-08-08",
       "tag": "MACRO",
       "headline": "Food inflation risk building for late 2026",
-      "summary": "Reuters reports FAO's chief economist expects conflict-related and El Ni\u00f1o-linked crop pressures to reach retail food prices within three to six months, compounding elevated fertilizer and freight input costs."
+      "summary": "Reuters reports FAO's chief economist expects conflict-related and El Niño-linked crop pressures to reach retail food prices within three to six months, compounding elevated fertilizer and freight input costs."
     },
     {
       "date": "2026-08-08",
       "tag": "OPS",
       "headline": "Pistachio tightness bears watching for margin",
       "summary": "Expect continued price pressure and supplier allocation discipline on pistachios; almond exposure looks more manageable, making freight and FX the bigger consideration there rather than sourcing risk."
+    },
+    {
+      "date": "2026-08-06",
+      "tag": "NRG",
+      "headline": "European gas eases but storage lags",
+      "summary": "European TTF gas prices slipped to around €52/MWh this week, the lowest in three weeks, as markets weighed a possible Strait of Hormuz de-escalation — though EU storage sits near 58% full, the lowest seasonal level in nearly two decades."
+    },
+    {
+      "date": "2026-07-30",
+      "tag": "NRG",
+      "headline": "Refined product margins hit record highs",
+      "summary": "Diesel and gasoline crack spreads pushed to record levels even as crude oil pulled back, with refinery outages across the Gulf region and Russia's diesel export ban keeping fuel supply tighter than crude supply alone would suggest."
+    },
+    {
+      "date": "2026-03-30",
+      "tag": "NRG",
+      "headline": "US biofuel blending mandates jump for 2026",
+      "summary": "New US blend requirements push biomass-based diesel mandates over 60% above last year's targets, the largest single-year increase in the program's history, as elevated fuel costs boost interest in biodiesel alternatives."
     }
   ]
 }
