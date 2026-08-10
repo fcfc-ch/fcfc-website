@@ -1,47 +1,29 @@
 {
-  "generated_at": "2026-08-09T12:00:00Z",
+  "generated_at": "2026-08-10T15:36:53Z",
   "items": [
     {
-      "date": "2026-08-08",
-      "tag": "NUTS",
-      "headline": "California pistachio crop set to fall sharply",
-      "summary": "Early estimates put the 2026 California pistachio crop down by as much as half versus last year after excessive heat during bloom, with processors rationing exports and prices climbing since June as buyers compete for supply."
+      "date": "2026-08-03",
+      "tag": "CTRM",
+      "headline": "Gen10 launches conversational AI layer for CTRM",
+      "summary": "Gen10 introduced NaNi, a chat-driven AI interface, and Conductor.AI, a governance layer, letting trading and ops teams book trades and query positions in natural language within its CommOS platform."
     },
     {
-      "date": "2026-08-08",
-      "tag": "NUTS",
-      "headline": "Almond supply holds steady into harvest",
-      "summary": "USDA pegs the 2026 California almond crop at 2.7 billion pounds, down just 1% year-on-year; export demand stayed strong into harvest, led by Western Europe with South/Central Asia and the Middle East close behind."
+      "date": "2026-08-05",
+      "tag": "FIN",
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodities traders and signaled plans to significantly scale up this lending activity, per ICC Trade Finance reporting."
     },
     {
-      "date": "2026-08-08",
-      "tag": "MACRO",
-      "headline": "Food inflation risk building for late 2026",
-      "summary": "Reuters reports FAO's chief economist expects conflict-related and El Niño-linked crop pressures to reach retail food prices within three to six months, compounding elevated fertilizer and freight input costs."
+      "date": "2026-08-05",
+      "tag": "LOG",
+      "headline": "Sanctioned carrier SeaLead Shipping halts operations",
+      "summary": "Singapore-based liner SeaLead Shipping ceased trading and filed for insolvency after US OFAC sanctions disrupted its operations, per The Loadstar, underscoring sanctions-screening risk for charterers."
     },
     {
-      "date": "2026-08-08",
-      "tag": "OPS",
-      "headline": "Pistachio tightness bears watching for margin",
-      "summary": "Expect continued price pressure and supplier allocation discipline on pistachios; almond exposure looks more manageable, making freight and FX the bigger consideration there rather than sourcing risk."
-    },
-    {
-      "date": "2026-08-06",
-      "tag": "NRG",
-      "headline": "European gas eases but storage lags",
-      "summary": "European TTF gas prices slipped to around €52/MWh this week, the lowest in three weeks, as markets weighed a possible Strait of Hormuz de-escalation — though EU storage sits near 58% full, the lowest seasonal level in nearly two decades."
-    },
-    {
-      "date": "2026-07-30",
-      "tag": "NRG",
-      "headline": "Refined product margins hit record highs",
-      "summary": "Diesel and gasoline crack spreads pushed to record levels even as crude oil pulled back, with refinery outages across the Gulf region and Russia's diesel export ban keeping fuel supply tighter than crude supply alone would suggest."
-    },
-    {
-      "date": "2026-03-30",
-      "tag": "NRG",
-      "headline": "US biofuel blending mandates jump for 2026",
-      "summary": "New US blend requirements push biomass-based diesel mandates over 60% above last year's targets, the largest single-year increase in the program's history, as elevated fuel costs boost interest in biodiesel alternatives."
+      "date": "2026-05-08",
+      "tag": "REG",
+      "headline": "ACER flags gaps in REMIT trade surveillance",
+      "summary": "ACER's annual reports found trading intermediaries' REMIT compliance structures are improving, but called for strengthened, more professionalized market-abuse surveillance and better suspicious transaction reporting."
     }
   ]
 }
