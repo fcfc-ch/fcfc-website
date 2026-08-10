@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-10T15:36:53Z",
+  "generated_at": "2026-08-10T23:07:35Z",
   "items": [
     {
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "tag": "CTRM",
-      "headline": "Gen10 launches conversational AI layer for CTRM",
-      "summary": "Gen10 introduced NaNi, a chat-driven AI interface, and Conductor.AI, a governance layer, letting trading and ops teams book trades and query positions in natural language within its CommOS platform."
+      "headline": "Gen10 launches chat-driven CTRM assistant",
+      "summary": "Gen10 introduced a chat-driven CTRM feature called NaNi, reflecting a broader push toward conversational AI interfaces in commodity trading software, per CTRM Center coverage."
     },
     {
-      "date": "2026-08-05",
-      "tag": "FIN",
-      "headline": "Tether expands into commodity trade lending",
-      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodities traders and signaled plans to significantly scale up this lending activity, per ICC Trade Finance reporting."
-    },
-    {
-      "date": "2026-08-05",
-      "tag": "LOG",
-      "headline": "Sanctioned carrier SeaLead Shipping halts operations",
-      "summary": "Singapore-based liner SeaLead Shipping ceased trading and filed for insolvency after US OFAC sanctions disrupted its operations, per The Loadstar, underscoring sanctions-screening risk for charterers."
-    },
-    {
-      "date": "2026-05-08",
+      "date": "2026-07-16",
       "tag": "REG",
-      "headline": "ACER flags gaps in REMIT trade surveillance",
-      "summary": "ACER's annual reports found trading intermediaries' REMIT compliance structures are improving, but called for strengthened, more professionalized market-abuse surveillance and better suspicious transaction reporting."
+      "headline": "ACER opens REMIT II reporting consultation",
+      "summary": "ACER launched a public consultation on an annex to its REMIT transaction reporting guideline covering energy derivative contracts, part of the phased rollout of REMIT II obligations that entered into force on 29 April 2026."
+    },
+    {
+      "date": "2026-08-06",
+      "tag": "LOG",
+      "headline": "Red Sea diversions and blockade risk widen",
+      "summary": "Flexport's weekly update flagged a Saudi-linked blockade as a distinct risk from ongoing Red Sea diversions, with blank sailings on some lanes expected to jump sharply and Cape of Good Hope routing still advised through Q3."
+    },
+    {
+      "date": "2026-07-07",
+      "tag": "FIN",
+      "headline": "Commodity trade finance market seen doubling by 2030",
+      "summary": "A new market report projects commodity trade finance growing from about $59.7bn in 2026 to $81.45bn by 2030, driven by blockchain-based settlement and real-time risk monitoring adoption, per GlobeNewswire."
     }
   ]
 }
