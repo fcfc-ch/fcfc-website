@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-11T04:51:35Z",
+  "generated_at": "2026-08-11T20:23:03Z",
   "items": [
     {
-      "date": "2026-08-05",
+      "date": "2026-08-11",
       "tag": "CTRM",
-      "headline": "Gen10 launches chat-driven AI for CTRM",
-      "summary": "Gen10 unveiled NaNi, a conversational AI layer for its CommOS platform, plus Conductor.AI for governance, letting desks book trades and check positions via natural language with full audit controls."
+      "headline": "EU ETS reform seen reshaping ETRM requirements",
+      "summary": "Industry analysts discussed how proposed European Commission reforms to the EU Emissions Trading System could require ETRM vendors to adapt allowance tracking and compliance workflows."
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-08-10",
+      "tag": "CTRM",
+      "headline": "AI reporting tools gain traction in commodity trading",
+      "summary": "CTRM analysts note AI-driven reporting has become one of the most adopted AI use cases among commodity trading firms, particularly for data management and risk reporting tasks."
+    },
+    {
+      "date": "2026-07-16",
       "tag": "REG",
-      "headline": "EMIR Active Account Requirement reporting live",
-      "summary": "Firms subject to EMIR's Active Account Requirement must now file semi-annual AAR reports to national regulators under technical standards that entered into force in February 2026, with France's AMF confirming July submission deadlines."
+      "headline": "ACER opens REMIT reporting annex consultation",
+      "summary": "ACER launched a public consultation (16 July–11 September) on a new Annex to REMIT transaction reporting guidelines for energy derivatives, clarifying overlap with EMIR reporting exemptions."
     },
     {
       "date": "2026-08-06",
       "tag": "LOG",
-      "headline": "Red Sea and Saudi-linked blockade risks widen",
-      "summary": "Flexport's latest update flags a Saudi-linked blockade as a distinct new disruption layered on existing Red Sea diversions, alongside Cape of Good Hope transit delays expected to persist through Q3."
-    },
-    {
-      "date": "2026-08-10",
-      "tag": "FIN",
-      "headline": "Commodity trade finance market keeps growing",
-      "summary": "Standard Chartered's Global Head of Commodity Trade Finance says the sector is being reshaped by trading-desk relocations and diversification of corridors, with the CTF market projected to reach USD 135 billion by 2030."
+      "headline": "Hapag-Lloyd suspends Odessa calls on security risk",
+      "summary": "Hapag-Lloyd temporarily halted vessel calls to Ukraine's Odessa region amid ongoing Black Sea security concerns, while Red Sea disruptions continue to raise routing and insurance costs for traders."
     }
   ]
 }
