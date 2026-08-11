@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-11T20:23:03Z",
+  "generated_at": "2026-08-11T23:23:08Z",
   "items": [
     {
+      "date": "2026-08-05",
+      "tag": "LOG",
+      "headline": "Typhoon disruption pushes dry bulk rates higher",
+      "summary": "The Baltic Dry Index climbed to a three-week high after Typhoon Dolphin tightened Capesize vessel availability in the Pacific, per Bloomberg, lifting rates for iron ore, coal and grain cargoes."
+    },
+    {
       "date": "2026-08-11",
-      "tag": "CTRM",
-      "headline": "EU ETS reform seen reshaping ETRM requirements",
-      "summary": "Industry analysts discussed how proposed European Commission reforms to the EU Emissions Trading System could require ETRM vendors to adapt allowance tracking and compliance workflows."
+      "tag": "REG",
+      "headline": "EU ETS reform proposals could reshape ETRM needs",
+      "summary": "ComTech Advisory published an interview on the European Commission's proposed EU ETS reforms, noting the cap-and-trade scheme's declining allowance cap will push firms toward cleaner alternatives or scarcer allowance purchases, with implications for ETRM vendors."
+    },
+    {
+      "date": "2026-08-06",
+      "tag": "FIN",
+      "headline": "Commodity trade finance seen growing to $135bn",
+      "summary": "Standard Chartered's commodity trade finance head highlighted market consolidation, digitisation and supply-chain diversification driving the sector, projected to reach roughly $135 billion by 2030."
     },
     {
       "date": "2026-08-10",
       "tag": "CTRM",
-      "headline": "AI reporting tools gain traction in commodity trading",
-      "summary": "CTRM analysts note AI-driven reporting has become one of the most adopted AI use cases among commodity trading firms, particularly for data management and risk reporting tasks."
-    },
-    {
-      "date": "2026-07-16",
-      "tag": "REG",
-      "headline": "ACER opens REMIT reporting annex consultation",
-      "summary": "ACER launched a public consultation (16 July–11 September) on a new Annex to REMIT transaction reporting guidelines for energy derivatives, clarifying overlap with EMIR reporting exemptions."
-    },
-    {
-      "date": "2026-08-06",
-      "tag": "LOG",
-      "headline": "Hapag-Lloyd suspends Odessa calls on security risk",
-      "summary": "Hapag-Lloyd temporarily halted vessel calls to Ukraine's Odessa region amid ongoing Black Sea security concerns, while Red Sea disruptions continue to raise routing and insurance costs for traders."
+      "headline": "AI-driven reporting gains traction in CTRM tools",
+      "summary": "Per ComTech Advisory's CTRM Center, AI-powered reporting has become one of the most sought-after use cases for artificial intelligence among commodity trading businesses this year."
     }
   ]
 }
