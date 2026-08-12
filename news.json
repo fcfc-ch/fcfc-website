@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-11T23:23:08Z",
+  "generated_at": "2026-08-12T05:47:03Z",
   "items": [
     {
-      "date": "2026-08-05",
-      "tag": "LOG",
-      "headline": "Typhoon disruption pushes dry bulk rates higher",
-      "summary": "The Baltic Dry Index climbed to a three-week high after Typhoon Dolphin tightened Capesize vessel availability in the Pacific, per Bloomberg, lifting rates for iron ore, coal and grain cargoes."
-    },
-    {
       "date": "2026-08-11",
-      "tag": "REG",
-      "headline": "EU ETS reform proposals could reshape ETRM needs",
-      "summary": "ComTech Advisory published an interview on the European Commission's proposed EU ETS reforms, noting the cap-and-trade scheme's declining allowance cap will push firms toward cleaner alternatives or scarcer allowance purchases, with implications for ETRM vendors."
-    },
-    {
-      "date": "2026-08-06",
-      "tag": "FIN",
-      "headline": "Commodity trade finance seen growing to $135bn",
-      "summary": "Standard Chartered's commodity trade finance head highlighted market consolidation, digitisation and supply-chain diversification driving the sector, projected to reach roughly $135 billion by 2030."
-    },
-    {
-      "date": "2026-08-10",
       "tag": "CTRM",
-      "headline": "AI-driven reporting gains traction in CTRM tools",
-      "summary": "Per ComTech Advisory's CTRM Center, AI-powered reporting has become one of the most sought-after use cases for artificial intelligence among commodity trading businesses this year."
+      "headline": "EU ETS reform proposal raises questions for ETRM vendors",
+      "summary": "The European Commission's 17 July proposal to revise the EU ETS toward its 2040 climate target could expand carbon-market scope into waste incineration, aviation and maritime, per CTRM Center commentary. Analysts say affected industries remain cautious as the plan still requires negotiation."
+    },
+    {
+      "date": "2026-08-05",
+      "tag": "FIN",
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "Stablecoin issuer Tether Holdings has moved into commodity trade finance, reportedly extending roughly $1.5 billion in credit to commodity traders with plans to scale further, per ICC Trade Finance reporting."
+    },
+    {
+      "date": "2026-08-08",
+      "tag": "LOG",
+      "headline": "Transpacific ocean rates ease from July peaks",
+      "summary": "Transpacific ocean freight rates have softened from July's historic highs though costs stay elevated, with West Coast capacity improving while East Coast and Gulf Coast space remains tight, per J.M. Rodgers' August update. Panama Canal restrictions and South China weather disruptions continue affecting reliability."
+    },
+    {
+      "date": "2026-05-29",
+      "tag": "REG",
+      "headline": "UK FCA advances EMIR clearing threshold changes",
+      "summary": "The FCA has published amended UK EMIR technical standards, applicable from 26 January 2026, alongside updated validation rules and XML schemas to support implementation. A related consultation proposed raising the non-financial counterparty clearing threshold for commodities to €5 billion."
     }
   ]
 }
