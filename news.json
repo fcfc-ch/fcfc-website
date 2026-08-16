@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-13T09:47:14Z",
+  "generated_at": "2026-08-16T07:21:14Z",
   "items": [
     {
-      "date": "2026-08-13",
-      "tag": "LOG",
-      "headline": "US rail freight volumes rise, metals lead gains",
-      "summary": "AAR reported US rail traffic up 2.4% year-on-year for the week ending August 1, with metallic ores and metals up 9.1% and petroleum products up 5.9%, per FreightWaves."
-    },
-    {
-      "date": "2026-08-11",
-      "tag": "CTRM",
-      "headline": "EU ETS reform discussed with ETRM industry expert",
-      "summary": "CTRM Center published a discussion with an ETRMServices markets expert on the European Commission's proposed EU Emissions Trading System reforms and their implications for trading desks."
-    },
-    {
-      "date": "2026-07-16",
+      "date": "2026-08-10",
       "tag": "REG",
-      "headline": "ACER opens consultation on REMIT reporting annex",
-      "summary": "Europe's energy regulator ACER launched a public consultation on a new annex to its REMIT transaction reporting guideline covering energy derivative contracts, following REMIT II's entry into force in April."
+      "headline": "CFTC launches new Innovation Advisory Committee",
+      "summary": "CFTC Commissioner Michael Selig announced the renamed Innovation Advisory Committee will hold its inaugural meeting on August 20 in Washington, D.C., per a Lowenstein Sandler client alert, to advise on technology, law and market-structure issues."
     },
     {
       "date": "2026-07-07",
       "tag": "FIN",
-      "headline": "Trade finance report flags fintech, blockchain growth",
-      "summary": "A new commodity trade finance market forecast highlighted fintech-driven platforms and blockchain adoption reshaping letters of credit and structured trade finance, with Asia-Pacific tipped as the fastest-growing region."
+      "headline": "Commodity trade finance market forecast to $81bn",
+      "summary": "A newly published market report projects commodity trade finance growing from $59.7bn in 2026 to $81.45bn by 2030, driven by blockchain-based settlement and real-time risk monitoring adoption, per GlobeNewswire/ResearchAndMarkets."
+    },
+    {
+      "date": "2026-08-13",
+      "tag": "LOG",
+      "headline": "US rail freight volumes extend 2026 gains",
+      "summary": "Weekly US rail traffic for the week ending August 1 rose 2.4% year-on-year to 526,410 carloads and intermodal units, with metallic ores/metals and petroleum-related shipments leading commodity gains, per FreightWaves/AAR data."
+    },
+    {
+      "date": "2026-08-02",
+      "tag": "CTRM",
+      "headline": "Advisor-led CTRM deployments cut go-live times",
+      "summary": "Industry guidance notes that while in-house CTRM builds can take 12-24+ months and licensed platforms 3-9 months, advisor-led systems can go live in days to weeks, per Mobius Risk Group, reshaping vendor-selection priorities for trading desks."
     }
   ]
 }
