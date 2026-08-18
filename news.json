@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-16T07:21:14Z",
+  "generated_at": "2026-08-18T07:58:51Z",
   "items": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-17",
+      "tag": "LOG",
+      "headline": "Hormuz tanker traffic slows amid Iran tensions",
+      "summary": "Reuters reported that tanker traffic through the Strait of Hormuz slowed over the weekend as US-Iran talks stalled, keeping oil prices roughly flat and adding freight-routing risk for crude and product traders."
+    },
+    {
+      "date": "2026-06-16",
       "tag": "REG",
-      "headline": "CFTC launches new Innovation Advisory Committee",
-      "summary": "CFTC Commissioner Michael Selig announced the renamed Innovation Advisory Committee will hold its inaugural meeting on August 20 in Washington, D.C., per a Lowenstein Sandler client alert, to advise on technology, law and market-structure issues."
+      "headline": "ACER consults on REMIT-EMIR reporting overlap",
+      "summary": "ACER opened a consultation on guidance for reporting energy derivative transactions under both REMIT and EMIR, aiming to reduce duplicate reporting caused by inconsistent scope definitions across the two regimes."
     },
     {
       "date": "2026-07-07",
       "tag": "FIN",
-      "headline": "Commodity trade finance market forecast to $81bn",
-      "summary": "A newly published market report projects commodity trade finance growing from $59.7bn in 2026 to $81.45bn by 2030, driven by blockchain-based settlement and real-time risk monitoring adoption, per GlobeNewswire/ResearchAndMarkets."
+      "headline": "Commodity trade finance market seen growing sharply",
+      "summary": "A new market report projects the commodity trade finance sector to expand from about $59.7 billion in 2026 to $81.45 billion by 2030, driven by blockchain-based settlement and real-time risk monitoring adoption, particularly in Asia-Pacific."
     },
     {
       "date": "2026-08-13",
-      "tag": "LOG",
-      "headline": "US rail freight volumes extend 2026 gains",
-      "summary": "Weekly US rail traffic for the week ending August 1 rose 2.4% year-on-year to 526,410 carloads and intermodal units, with metallic ores/metals and petroleum-related shipments leading commodity gains, per FreightWaves/AAR data."
-    },
-    {
-      "date": "2026-08-02",
       "tag": "CTRM",
-      "headline": "Advisor-led CTRM deployments cut go-live times",
-      "summary": "Industry guidance notes that while in-house CTRM builds can take 12-24+ months and licensed platforms 3-9 months, advisor-led systems can go live in days to weeks, per Mobius Risk Group, reshaping vendor-selection priorities for trading desks."
+      "headline": "CTRM vendor landscape sees fresh product moves",
+      "summary": "CTRM Center highlighted new vendor activity this month, including testing specialist Trinitatum's outreach on purpose-built CTRM testing tools and further detail on Sinara's proprietary trading platform."
     }
   ]
 }
