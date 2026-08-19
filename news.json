@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-18T07:58:51Z",
+  "generated_at": "2026-08-19T07:58:14Z",
   "items": [
     {
-      "date": "2026-08-17",
-      "tag": "LOG",
-      "headline": "Hormuz tanker traffic slows amid Iran tensions",
-      "summary": "Reuters reported that tanker traffic through the Strait of Hormuz slowed over the weekend as US-Iran talks stalled, keeping oil prices roughly flat and adding freight-routing risk for crude and product traders."
-    },
-    {
-      "date": "2026-06-16",
-      "tag": "REG",
-      "headline": "ACER consults on REMIT-EMIR reporting overlap",
-      "summary": "ACER opened a consultation on guidance for reporting energy derivative transactions under both REMIT and EMIR, aiming to reduce duplicate reporting caused by inconsistent scope definitions across the two regimes."
-    },
-    {
-      "date": "2026-07-07",
-      "tag": "FIN",
-      "headline": "Commodity trade finance market seen growing sharply",
-      "summary": "A new market report projects the commodity trade finance sector to expand from about $59.7 billion in 2026 to $81.45 billion by 2030, driven by blockchain-based settlement and real-time risk monitoring adoption, particularly in Asia-Pacific."
-    },
-    {
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "tag": "CTRM",
-      "headline": "CTRM vendor landscape sees fresh product moves",
-      "summary": "CTRM Center highlighted new vendor activity this month, including testing specialist Trinitatum's outreach on purpose-built CTRM testing tools and further detail on Sinara's proprietary trading platform."
+      "headline": "ComTech Advisory releases 2026 CTRM market report",
+      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, outlining growth trends and structural shifts in the global CTRM/ETRM vendor landscape as legacy platforms near end of support."
+    },
+    {
+      "date": "2026-08-17",
+      "tag": "FIN",
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "Per ICC Trade Finance coverage, stablecoin issuer Tether Holdings has extended roughly $1.5 billion in credit to commodity traders and plans to scale this lending business further."
+    },
+    {
+      "date": "2026-08-14",
+      "tag": "REG",
+      "headline": "REMIT II reporting deadlines near for traders",
+      "summary": "ACER's updated REMIT Manual of Procedures introduces mandatory EIC codes and stricter Urgent Market Message lifecycle reporting, with firms given until December 2026 to adapt systems and processes."
+    },
+    {
+      "date": "2026-08-14",
+      "tag": "LOG",
+      "headline": "Transpacific freight softens, air lanes stay tight",
+      "summary": "C.H. Robinson's August update shows ocean rates easing on some lanes while transpacific air freight remains constrained from Taiwan and Korea due to AI server and semiconductor shipment demand."
     }
   ]
 }
