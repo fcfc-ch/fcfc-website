@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-19T07:58:14Z",
+  "generated_at": "2026-08-23T07:48:05Z",
   "items": [
     {
       "date": "2026-08-18",
       "tag": "CTRM",
-      "headline": "ComTech Advisory releases 2026 CTRM market report",
-      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, outlining growth trends and structural shifts in the global CTRM/ETRM vendor landscape as legacy platforms near end of support."
+      "headline": "New CTRM Market Sizing Report Released",
+      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, examining how the global commodity trading and risk management software market's size and structure are evolving."
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-21",
       "tag": "FIN",
-      "headline": "Tether expands into commodity trade lending",
-      "summary": "Per ICC Trade Finance coverage, stablecoin issuer Tether Holdings has extended roughly $1.5 billion in credit to commodity traders and plans to scale this lending business further."
+      "headline": "Tether Expands Into Commodity Trade Lending",
+      "summary": "Stablecoin issuer Tether has moved into commodity trade lending, reportedly extending roughly $1.5 billion in credit to commodity traders with plans to expand this significantly further."
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-20",
       "tag": "REG",
-      "headline": "REMIT II reporting deadlines near for traders",
-      "summary": "ACER's updated REMIT Manual of Procedures introduces mandatory EIC codes and stricter Urgent Market Message lifecycle reporting, with firms given until December 2026 to adapt systems and processes."
+      "headline": "ESMA Consults On Simplifying Trade Reporting",
+      "summary": "ESMA is consulting on streamlining overlapping EU transaction reporting under EMIR, MiFIR, SFTR and REMIT, aiming to cut duplication and compliance costs for commodity market participants by 19 September."
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-20",
       "tag": "LOG",
-      "headline": "Transpacific freight softens, air lanes stay tight",
-      "summary": "C.H. Robinson's August update shows ocean rates easing on some lanes while transpacific air freight remains constrained from Taiwan and Korea due to AI server and semiconductor shipment demand."
+      "headline": "Canal And Rhine Disruptions Squeeze Shipping",
+      "summary": "Shipping desks face compounding disruptions: Panama Canal draught restrictions are adding to congestion, Rhine barge traffic is impaired, and container rate increases are spreading from spot to contract markets."
     }
   ]
 }
