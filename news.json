@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-23T07:48:05Z",
+  "generated_at": "2026-08-24T08:26:49Z",
   "items": [
     {
       "date": "2026-08-18",
-      "tag": "CTRM",
-      "headline": "New CTRM Market Sizing Report Released",
-      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, examining how the global commodity trading and risk management software market's size and structure are evolving."
-    },
-    {
-      "date": "2026-08-21",
-      "tag": "FIN",
-      "headline": "Tether Expands Into Commodity Trade Lending",
-      "summary": "Stablecoin issuer Tether has moved into commodity trade lending, reportedly extending roughly $1.5 billion in credit to commodity traders with plans to expand this significantly further."
-    },
-    {
-      "date": "2026-08-20",
       "tag": "REG",
-      "headline": "ESMA Consults On Simplifying Trade Reporting",
-      "summary": "ESMA is consulting on streamlining overlapping EU transaction reporting under EMIR, MiFIR, SFTR and REMIT, aiming to cut duplication and compliance costs for commodity market participants by 19 September."
+      "headline": "Italy fines generator €5m for REMIT breach",
+      "summary": "Italian regulator ARERA sanctioned a market participant for withholding generation capacity when profitable, in breach of REMIT Article 5 on market manipulation."
+    },
+    {
+      "date": "2026-08-19",
+      "tag": "CTRM",
+      "headline": "Agentic AI moves into CTRM operations teams",
+      "summary": "Industry analysts note agentic AI is shifting from hype to practical use in commodity trading operations, with vendors targeting workflow automation in reporting and settlement processes."
     },
     {
       "date": "2026-08-20",
       "tag": "LOG",
-      "headline": "Canal And Rhine Disruptions Squeeze Shipping",
-      "summary": "Shipping desks face compounding disruptions: Panama Canal draught restrictions are adding to congestion, Rhine barge traffic is impaired, and container rate increases are spreading from spot to contract markets."
+      "headline": "Record-low Rhine still squeezing chemical shippers",
+      "summary": "Persistent low water at the Kaub chokepoint has pushed chemical majors including BASF to declare force majeure on some products and shift volumes to rail and specialized low-draft barges."
+    },
+    {
+      "date": "2026-08-24",
+      "tag": "FIN",
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "The stablecoin issuer has moved into commodity trade finance, disclosing roughly $1.5 billion in credit extended to commodity traders with plans to scale further."
     }
   ]
 }
