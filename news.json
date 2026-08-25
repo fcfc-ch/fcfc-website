@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-24T08:26:49Z",
+  "generated_at": "2026-08-25T08:08:13Z",
   "items": [
     {
       "date": "2026-08-18",
-      "tag": "REG",
-      "headline": "Italy fines generator €5m for REMIT breach",
-      "summary": "Italian regulator ARERA sanctioned a market participant for withholding generation capacity when profitable, in breach of REMIT Article 5 on market manipulation."
-    },
-    {
-      "date": "2026-08-19",
       "tag": "CTRM",
-      "headline": "Agentic AI moves into CTRM operations teams",
-      "summary": "Industry analysts note agentic AI is shifting from hype to practical use in commodity trading operations, with vendors targeting workflow automation in reporting and settlement processes."
+      "headline": "ComTech publishes 2026 CTRM market sizing report",
+      "summary": "Commodity Technology Advisory released new research on the size, growth outlook and changing structure of the global CTRM/ETRM software market, per its August 18 announcement."
     },
     {
-      "date": "2026-08-20",
-      "tag": "LOG",
-      "headline": "Record-low Rhine still squeezing chemical shippers",
-      "summary": "Persistent low water at the Kaub chokepoint has pushed chemical majors including BASF to declare force majeure on some products and shift volumes to rail and specialized low-draft barges."
+      "date": "2026-08-11",
+      "tag": "REG",
+      "headline": "Italian regulator fines A2A €5m under REMIT",
+      "summary": "ARERA fined utility A2A €5 million for withholding gas-fired generation capacity in 2022 to push up power prices, a REMIT Article 5 economic-withholding breach; A2A plans to appeal."
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-03",
       "tag": "FIN",
-      "headline": "Tether expands into commodity trade lending",
-      "summary": "The stablecoin issuer has moved into commodity trade finance, disclosing roughly $1.5 billion in credit extended to commodity traders with plans to scale further."
+      "headline": "Securitisation structure targets commodity trade finance",
+      "summary": "A new Synthesis-led trade finance securitisation aims to give institutional investors fresh access to commodity financing, as corporate trade finance securitisation activity continues rising per TXF."
+    },
+    {
+      "date": "2026-08-06",
+      "tag": "LOG",
+      "headline": "Red Sea and Black Sea shipping risks persist",
+      "summary": "Ongoing security incidents in the Red Sea keep disrupting vessel routing, insurance costs and transit reliability, while Hapag-Lloyd has paused calls to Ukraine's Odessa region, per Adcom's freight update."
     }
   ]
 }
