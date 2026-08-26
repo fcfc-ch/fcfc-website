@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-25T08:08:13Z",
+  "generated_at": "2026-08-26T08:09:28Z",
   "items": [
     {
-      "date": "2026-08-18",
+      "date": "2026-08-25",
       "tag": "CTRM",
-      "headline": "ComTech publishes 2026 CTRM market sizing report",
-      "summary": "Commodity Technology Advisory released new research on the size, growth outlook and changing structure of the global CTRM/ETRM software market, per its August 18 announcement."
+      "headline": "OrbicTrade adds VaR risk module",
+      "summary": "OrbicTrade expanded its AI-driven commodity trading platform with integrated risk management and Value-at-Risk functionality, extending coverage from deal capture through portfolio risk intelligence."
     },
     {
-      "date": "2026-08-11",
-      "tag": "REG",
-      "headline": "Italian regulator fines A2A €5m under REMIT",
-      "summary": "ARERA fined utility A2A €5 million for withholding gas-fired generation capacity in 2022 to push up power prices, a REMIT Article 5 economic-withholding breach; A2A plans to appeal."
-    },
-    {
-      "date": "2026-08-03",
-      "tag": "FIN",
-      "headline": "Securitisation structure targets commodity trade finance",
-      "summary": "A new Synthesis-led trade finance securitisation aims to give institutional investors fresh access to commodity financing, as corporate trade finance securitisation activity continues rising per TXF."
-    },
-    {
-      "date": "2026-08-06",
+      "date": "2026-08-24",
       "tag": "LOG",
-      "headline": "Red Sea and Black Sea shipping risks persist",
-      "summary": "Ongoing security incidents in the Red Sea keep disrupting vessel routing, insurance costs and transit reliability, while Hapag-Lloyd has paused calls to Ukraine's Odessa region, per Adcom's freight update."
+      "headline": "Houthi missile strike hits Saudi VLCC near Yanbu",
+      "summary": "The Saudi-flagged VLCC Amzan was struck by a Houthi ballistic missile off Yanbu, part of an escalating campaign against Saudi-linked shipping that has already cut Yanbu export volumes and pushed tankers toward longer, costlier Suez routings."
+    },
+    {
+      "date": "2026-04-29",
+      "tag": "REG",
+      "headline": "REMIT II implementing rules now in force",
+      "summary": "The recast REMIT Implementing Regulation and a new Delegated Regulation entered into force in the EU, expanding transparency obligations and introducing faster, forward-looking reporting requirements for energy market participants."
+    },
+    {
+      "date": "2026-08-20",
+      "tag": "FIN",
+      "headline": "Tether scales up commodity trade lending",
+      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodity traders and signalled plans to significantly expand this trade-finance lending activity further."
     }
   ]
 }
