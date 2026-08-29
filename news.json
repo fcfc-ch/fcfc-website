@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-26T08:09:28Z",
+  "generated_at": "2026-08-29T06:03:52Z",
   "items": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-15",
       "tag": "CTRM",
-      "headline": "OrbicTrade adds VaR risk module",
-      "summary": "OrbicTrade expanded its AI-driven commodity trading platform with integrated risk management and Value-at-Risk functionality, extending coverage from deal capture through portfolio risk intelligence."
+      "headline": "Modular ETRM Architectures Gaining Traction in Europe",
+      "summary": "LEAD Consult's CEO told CTRMCenter that firms, especially in the DACH region and Nordics, are increasingly connecting specialist trading modules via middleware instead of relying on monolithic ETRM/CTRM systems, per CTRM Center."
     },
     {
-      "date": "2026-08-24",
-      "tag": "LOG",
-      "headline": "Houthi missile strike hits Saudi VLCC near Yanbu",
-      "summary": "The Saudi-flagged VLCC Amzan was struck by a Houthi ballistic missile off Yanbu, part of an escalating campaign against Saudi-linked shipping that has already cut Yanbu export volumes and pushed tankers toward longer, costlier Suez routings."
-    },
-    {
-      "date": "2026-04-29",
+      "date": "2026-08-11",
       "tag": "REG",
-      "headline": "REMIT II implementing rules now in force",
-      "summary": "The recast REMIT Implementing Regulation and a new Delegated Regulation entered into force in the EU, expanding transparency obligations and introducing faster, forward-looking reporting requirements for energy market participants."
+      "headline": "EU ETS Revision Could Reshape ETRM Requirements",
+      "summary": "The European Commission's 17 July 2026 proposal to revise the EU ETS, expanding scope toward maritime, aviation and waste incineration, remains under negotiation and may prompt new ETRM carbon-tracking needs, per CTRM Center."
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-15",
       "tag": "FIN",
-      "headline": "Tether scales up commodity trade lending",
-      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodity traders and signalled plans to significantly expand this trade-finance lending activity further."
+      "headline": "Fintechs Push Deeper Into Bank Trade Finance Turf",
+      "summary": "PYMNTS reports fintechs are challenging banks on letters of credit and working capital financing as tariffs and shifting shipping routes make trade financing harder to manage, with export credit agencies also expanding mandates."
+    },
+    {
+      "date": "2026-08-27",
+      "tag": "LOG",
+      "headline": "Iran-Oman Near Deal on Hormuz Shipping Corridor",
+      "summary": "Iran and Oman announced progress this week toward a permanent navigational corridor for the Strait of Hormuz, with Iran claiming a revenue-sharing toll agreement, though transit volumes remain subdued per Kpler data cited by Yahoo Finance."
     }
   ]
 }
