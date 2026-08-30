@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-29T06:03:52Z",
+  "generated_at": "2026-08-30T06:03:56Z",
   "items": [
     {
-      "date": "2026-08-15",
-      "tag": "CTRM",
-      "headline": "Modular ETRM Architectures Gaining Traction in Europe",
-      "summary": "LEAD Consult's CEO told CTRMCenter that firms, especially in the DACH region and Nordics, are increasingly connecting specialist trading modules via middleware instead of relying on monolithic ETRM/CTRM systems, per CTRM Center."
-    },
-    {
-      "date": "2026-08-11",
-      "tag": "REG",
-      "headline": "EU ETS Revision Could Reshape ETRM Requirements",
-      "summary": "The European Commission's 17 July 2026 proposal to revise the EU ETS, expanding scope toward maritime, aviation and waste incineration, remains under negotiation and may prompt new ETRM carbon-tracking needs, per CTRM Center."
-    },
-    {
-      "date": "2026-08-15",
+      "date": "2026-08-28",
       "tag": "FIN",
-      "headline": "Fintechs Push Deeper Into Bank Trade Finance Turf",
-      "summary": "PYMNTS reports fintechs are challenging banks on letters of credit and working capital financing as tariffs and shifting shipping routes make trade financing harder to manage, with export credit agencies also expanding mandates."
+      "headline": "Radiant World fallout hits trade finance banks",
+      "summary": "Banks including Mizuho and Incomlend filed Singapore court claims against iron-ore trader Radiant World over alleged falsified documents, per GTR and Reuters, as counterparties keep withdrawing credit lines."
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
+      "tag": "OPS",
+      "headline": "Fraud case exposes cargo-document verification gaps",
+      "summary": "Coverage of the Radiant World scandal highlights that trade finance depends on paperwork proving cargo ownership, and doubts over document validity can quickly freeze credit even while goods are moving."
+    },
+    {
+      "date": "2026-08-30",
+      "tag": "REG",
+      "headline": "ACER consults on REMIT-EMIR derivatives reporting",
+      "summary": "ACER's public consultation on a new Annex clarifying how energy derivatives should be reported under REMIT and EMIR, and how REMIT exemptions apply, runs until 11 September 2026."
+    },
+    {
+      "date": "2026-08-25",
       "tag": "LOG",
-      "headline": "Iran-Oman Near Deal on Hormuz Shipping Corridor",
-      "summary": "Iran and Oman announced progress this week toward a permanent navigational corridor for the Strait of Hormuz, with Iran claiming a revenue-sharing toll agreement, though transit volumes remain subdued per Kpler data cited by Yahoo Finance."
+      "headline": "Panama Canal to cut daily transit slots",
+      "summary": "From mid-September the Panama Canal will reduce booking capacity to 32 ships per day amid rainfall deficits, tightening Panamax availability and pushing up auction slot prices, per Seven Oceans."
     }
   ]
 }
