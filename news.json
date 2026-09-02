@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-30T06:03:56Z",
+  "generated_at": "2026-09-02T06:07:33Z",
   "items": [
     {
-      "date": "2026-08-28",
-      "tag": "FIN",
-      "headline": "Radiant World fallout hits trade finance banks",
-      "summary": "Banks including Mizuho and Incomlend filed Singapore court claims against iron-ore trader Radiant World over alleged falsified documents, per GTR and Reuters, as counterparties keep withdrawing credit lines."
+      "date": "2026-08-18",
+      "tag": "CTRM",
+      "headline": "CTRM software market sizing report released",
+      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, estimating the global market at $2.138bn in 2026, growing to $2.452bn by 2030 at a 3.6% CAGR."
     },
     {
-      "date": "2026-08-28",
-      "tag": "OPS",
-      "headline": "Fraud case exposes cargo-document verification gaps",
-      "summary": "Coverage of the Radiant World scandal highlights that trade finance depends on paperwork proving cargo ownership, and doubts over document validity can quickly freeze credit even while goods are moving."
-    },
-    {
-      "date": "2026-08-30",
+      "date": "2026-08-26",
       "tag": "REG",
-      "headline": "ACER consults on REMIT-EMIR derivatives reporting",
-      "summary": "ACER's public consultation on a new Annex clarifying how energy derivatives should be reported under REMIT and EMIR, and how REMIT exemptions apply, runs until 11 September 2026."
+      "headline": "UK EMIR Phase II reconciliation deadline nears",
+      "summary": "UK EMIR Phase II reconciliation, adding numerous new fields and matching tolerances, is now scheduled to begin around September 28, 2026, following an April technical update from the Bank of England and FCA."
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-09-01",
       "tag": "LOG",
-      "headline": "Panama Canal to cut daily transit slots",
-      "summary": "From mid-September the Panama Canal will reduce booking capacity to 32 ships per day amid rainfall deficits, tightening Panamax availability and pushing up auction slot prices, per Seven Oceans."
+      "headline": "Diesel supply strain lifts freight cost pressure",
+      "summary": "Global diesel supplies have tightened since renewed US-Israel-Iran conflict, pushing Brent crude up sharply on September 1 and adding cost pressure across trucking and freight operations, per Transport Topics."
+    },
+    {
+      "date": "2026-09-01",
+      "tag": "LOG",
+      "headline": "Carriers plan phased return to Suez Canal",
+      "summary": "A major container alliance is reportedly running ad-hoc Suez Canal sailings through the rest of 2026 as part of a risk assessment, with regular transits planned from January 2027, per Journal of Commerce."
     }
   ]
 }
