@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-02T06:07:33Z",
+  "generated_at": "2026-09-03T06:09:17Z",
   "items": [
+    {
+      "date": "2026-09-02",
+      "tag": "LOG",
+      "headline": "Hormuz tanker traffic rebounds but stays subdued",
+      "summary": "Reuters-tracked data cited by Trading Economics show oil transiting the Strait of Hormuz climbing to a wartime high, yet Kpler reported tanker crossings remaining below the 10-day average, a key freight-risk signal for crude desks."
+    },
+    {
+      "date": "2026-07-15",
+      "tag": "REG",
+      "headline": "EMIR reconciliation deadline set for late September",
+      "summary": "Per Regnology, the EMIR data-reconciliation start date has been fixed at 28 September 2026 for previously open fields, while the underlying-index-name reconciliation requirement has been dropped, easing one compliance burden for commodity derivatives reporters."
+    },
+    {
+      "date": "2026-02-18",
+      "tag": "FIN",
+      "headline": "Trade-finance DLT platforms attempt a second wave",
+      "summary": "Espeo Software notes that first-generation blockchain trade-finance networks such as TradeLens, we.trade, Marco Polo and Contour have wound down, even though pilots had shown letter-of-credit processing cut from days to hours, prompting a more focused 'second wave' of tools."
+    },
     {
       "date": "2026-08-18",
       "tag": "CTRM",
-      "headline": "CTRM software market sizing report released",
-      "summary": "Commodity Technology Advisory published its 2026 CTRM Software Market Sizing Report, estimating the global market at $2.138bn in 2026, growing to $2.452bn by 2030 at a 3.6% CAGR."
-    },
-    {
-      "date": "2026-08-26",
-      "tag": "REG",
-      "headline": "UK EMIR Phase II reconciliation deadline nears",
-      "summary": "UK EMIR Phase II reconciliation, adding numerous new fields and matching tolerances, is now scheduled to begin around September 28, 2026, following an April technical update from the Bank of England and FCA."
-    },
-    {
-      "date": "2026-09-01",
-      "tag": "LOG",
-      "headline": "Diesel supply strain lifts freight cost pressure",
-      "summary": "Global diesel supplies have tightened since renewed US-Israel-Iran conflict, pushing Brent crude up sharply on September 1 and adding cost pressure across trucking and freight operations, per Transport Topics."
-    },
-    {
-      "date": "2026-09-01",
-      "tag": "LOG",
-      "headline": "Carriers plan phased return to Suez Canal",
-      "summary": "A major container alliance is reportedly running ad-hoc Suez Canal sailings through the rest of 2026 as part of a risk assessment, with regular transits planned from January 2027, per Journal of Commerce."
+      "headline": "New CTRM software market sizing report published",
+      "summary": "Commodity Technology Advisory released its 2026 CTRM Software Market Sizing Report, examining the size, growth outlook and changing structure of the global commodity trading and risk management software market."
     }
   ]
 }
