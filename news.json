@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-03T06:09:17Z",
+  "generated_at": "2026-09-05T06:06:54Z",
   "items": [
     {
       "date": "2026-09-02",
       "tag": "LOG",
-      "headline": "Hormuz tanker traffic rebounds but stays subdued",
-      "summary": "Reuters-tracked data cited by Trading Economics show oil transiting the Strait of Hormuz climbing to a wartime high, yet Kpler reported tanker crossings remaining below the 10-day average, a key freight-risk signal for crude desks."
-    },
-    {
-      "date": "2026-07-15",
-      "tag": "REG",
-      "headline": "EMIR reconciliation deadline set for late September",
-      "summary": "Per Regnology, the EMIR data-reconciliation start date has been fixed at 28 September 2026 for previously open fields, while the underlying-index-name reconciliation requirement has been dropped, easing one compliance burden for commodity derivatives reporters."
-    },
-    {
-      "date": "2026-02-18",
-      "tag": "FIN",
-      "headline": "Trade-finance DLT platforms attempt a second wave",
-      "summary": "Espeo Software notes that first-generation blockchain trade-finance networks such as TradeLens, we.trade, Marco Polo and Contour have wound down, even though pilots had shown letter-of-credit processing cut from days to hours, prompting a more focused 'second wave' of tools."
+      "headline": "German and Dutch ports hit by strikes",
+      "summary": "German dockworkers began a 48-hour ver.di warning strike on September 2 after rejecting a 5.1% wage offer, while Dutch unions struck at Rotterdam, Amsterdam and Zeeland on September 4, compounding North European port congestion."
     },
     {
       "date": "2026-08-18",
       "tag": "CTRM",
-      "headline": "New CTRM software market sizing report published",
-      "summary": "Commodity Technology Advisory released its 2026 CTRM Software Market Sizing Report, examining the size, growth outlook and changing structure of the global commodity trading and risk management software market."
+      "headline": "CTRM software market sizing report released",
+      "summary": "Commodity Technology Advisory's new report estimates the global CTRM software market reached $2.138 billion in 2026, forecasting growth to $2.452 billion by 2030 at a 3.6% CAGR."
+    },
+    {
+      "date": "2026-04-01",
+      "tag": "REG",
+      "headline": "ACER updates REMIT inside-information reporting rules",
+      "summary": "ACER revised its Manual of Procedures on Article 4 inside-information disclosure, introducing mandatory EIC codes and immutable UMM lifecycle updates, with firms given until December 2026 to adapt systems and processes."
+    },
+    {
+      "date": "2026-07-01",
+      "tag": "FIN",
+      "headline": "Trade finance blockchain adoption gains ground",
+      "summary": "A Holland & Knight legal update notes blockchain, electronic transferable records, tokenized deposits and stablecoins are increasingly reducing fraud and paperwork in cross-border trade finance, though banks are favoring hybrid models over full replacement of legacy systems."
     }
   ]
 }
