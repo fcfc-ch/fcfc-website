@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-05T06:06:54Z",
+  "generated_at": "2026-09-07T06:08:03Z",
   "items": [
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "tag": "LOG",
-      "headline": "German and Dutch ports hit by strikes",
-      "summary": "German dockworkers began a 48-hour ver.di warning strike on September 2 after rejecting a 5.1% wage offer, while Dutch unions struck at Rotterdam, Amsterdam and Zeeland on September 4, compounding North European port congestion."
+      "headline": "Container rates diverge sharply by trade lane",
+      "summary": "Per Seatrade Maritime, transpacific and Atlantic spot rates are surging toward pandemic-era highs even as Asia-Europe rates soften, while carrier schedule reliability continues to deteriorate."
     },
     {
-      "date": "2026-08-18",
-      "tag": "CTRM",
-      "headline": "CTRM software market sizing report released",
-      "summary": "Commodity Technology Advisory's new report estimates the global CTRM software market reached $2.138 billion in 2026, forecasting growth to $2.452 billion by 2030 at a 3.6% CAGR."
-    },
-    {
-      "date": "2026-04-01",
+      "date": "2026-06-16",
       "tag": "REG",
-      "headline": "ACER updates REMIT inside-information reporting rules",
-      "summary": "ACER revised its Manual of Procedures on Article 4 inside-information disclosure, introducing mandatory EIC codes and immutable UMM lifecycle updates, with firms given until December 2026 to adapt systems and processes."
+      "headline": "ACER consults on REMIT/EMIR reporting overlap",
+      "summary": "ACER opened a public consultation on guidance for reporting energy derivative transactions under both REMIT and EMIR, aiming to reduce duplicate filings caused by inconsistent scope definitions across frameworks."
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-07",
       "tag": "FIN",
-      "headline": "Trade finance blockchain adoption gains ground",
-      "summary": "A Holland & Knight legal update notes blockchain, electronic transferable records, tokenized deposits and stablecoins are increasingly reducing fraud and paperwork in cross-border trade finance, though banks are favoring hybrid models over full replacement of legacy systems."
+      "headline": "Commodity trade finance market forecast raised again",
+      "summary": "A new market report projects the commodity trade finance sector growing from about $59.7bn in 2026 to $81.45bn by 2030, citing blockchain-based settlement and real-time risk monitoring as key growth drivers."
+    },
+    {
+      "date": "2026-07-22",
+      "tag": "CTRM",
+      "headline": "CTRM vendor Previse Systems reports strong growth",
+      "summary": "Industry analyst coverage highlighted Previse Systems' continued expansion in the CTRM space, based on comments from the vendor's Chief Revenue Officer on its recent commercial momentum."
     }
   ]
 }
