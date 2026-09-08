@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-07T06:08:03Z",
+  "generated_at": "2026-09-08T10:22:47Z",
   "items": [
+    {
+      "date": "2026-09-03",
+      "tag": "CTRM",
+      "headline": "Quoreka expands AI document-verification tool Doccurate",
+      "summary": "Per CTRM Center, Quoreka reported its Doccurate AI invoice-verification tool is now live at a major agricultural trading firm and a second metals-sector client, alongside broader API and risk-integration updates."
+    },
+    {
+      "date": "2026-09-06",
+      "tag": "REG",
+      "headline": "EUDR compliance data eyed for CTRM systems",
+      "summary": "CTRM Center argues the EU Deforestation Regulation, applying from 30 December 2026 to large operators, could push environmental due-diligence data into core CTRM platforms rather than staying a standalone compliance task."
+    },
     {
       "date": "2026-09-04",
       "tag": "LOG",
-      "headline": "Container rates diverge sharply by trade lane",
-      "summary": "Per Seatrade Maritime, transpacific and Atlantic spot rates are surging toward pandemic-era highs even as Asia-Europe rates soften, while carrier schedule reliability continues to deteriorate."
-    },
-    {
-      "date": "2026-06-16",
-      "tag": "REG",
-      "headline": "ACER consults on REMIT/EMIR reporting overlap",
-      "summary": "ACER opened a public consultation on guidance for reporting energy derivative transactions under both REMIT and EMIR, aiming to reduce duplicate filings caused by inconsistent scope definitions across frameworks."
+      "headline": "Capesize rates hit multi-year highs on disruptions",
+      "summary": "The Baltic Dry Index jumped sharply this month as Pacific typhoons, strong iron ore and coal demand, and longer geopolitically-rerouted voyages tightened Capesize vessel supply, per Trading Economics and Reuters-sourced data."
     },
     {
       "date": "2026-07-07",
       "tag": "FIN",
-      "headline": "Commodity trade finance market forecast raised again",
-      "summary": "A new market report projects the commodity trade finance sector growing from about $59.7bn in 2026 to $81.45bn by 2030, citing blockchain-based settlement and real-time risk monitoring as key growth drivers."
-    },
-    {
-      "date": "2026-07-22",
-      "tag": "CTRM",
-      "headline": "CTRM vendor Previse Systems reports strong growth",
-      "summary": "Industry analyst coverage highlighted Previse Systems' continued expansion in the CTRM space, based on comments from the vendor's Chief Revenue Officer on its recent commercial momentum."
+      "headline": "Commodity trade finance market leans into blockchain",
+      "summary": "A new market report projects commodity trade finance growing from $59.7bn to $81.45bn by 2030, driven by blockchain settlement and fintech players like MineHub bridging liquidity gaps for traders."
     }
   ]
 }
