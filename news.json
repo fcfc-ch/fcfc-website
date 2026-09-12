@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-08T10:22:47Z",
+  "generated_at": "2026-09-12T09:53:16Z",
   "items": [
     {
-      "date": "2026-09-03",
-      "tag": "CTRM",
-      "headline": "Quoreka expands AI document-verification tool Doccurate",
-      "summary": "Per CTRM Center, Quoreka reported its Doccurate AI invoice-verification tool is now live at a major agricultural trading firm and a second metals-sector client, alongside broader API and risk-integration updates."
-    },
-    {
       "date": "2026-09-06",
-      "tag": "REG",
-      "headline": "EUDR compliance data eyed for CTRM systems",
-      "summary": "CTRM Center argues the EU Deforestation Regulation, applying from 30 December 2026 to large operators, could push environmental due-diligence data into core CTRM platforms rather than staying a standalone compliance task."
+      "tag": "CTRM",
+      "headline": "EUDR seen as major compliance driver for traders",
+      "summary": "Industry analysts argue the EU Deforestation Regulation is becoming more than an environmental rule, pushing commodity traders toward tighter supply-chain data and CTRM integration, according to CTRM Center commentary."
     },
     {
-      "date": "2026-09-04",
-      "tag": "LOG",
-      "headline": "Capesize rates hit multi-year highs on disruptions",
-      "summary": "The Baltic Dry Index jumped sharply this month as Pacific typhoons, strong iron ore and coal demand, and longer geopolitically-rerouted voyages tightened Capesize vessel supply, per Trading Economics and Reuters-sourced data."
-    },
-    {
-      "date": "2026-07-07",
+      "date": "2026-09-12",
       "tag": "FIN",
-      "headline": "Commodity trade finance market leans into blockchain",
-      "summary": "A new market report projects commodity trade finance growing from $59.7bn to $81.45bn by 2030, driven by blockchain settlement and fintech players like MineHub bridging liquidity gaps for traders."
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "Stablecoin issuer Tether Holdings has moved into commodity trade finance, reportedly extending roughly $1.5 billion in credit to traders with plans to scale further, per ICC trade finance reporting."
+    },
+    {
+      "date": "2026-09-12",
+      "tag": "REG",
+      "headline": "EMIR Phase II reconciliation reaches UK regime",
+      "summary": "Phase II trade repository reconciliation, already live under EU EMIR since April, is scheduled to begin under UK EMIR this September, adding dozens of new data-matching fields for reporting firms to manage."
+    },
+    {
+      "date": "2026-09-10",
+      "tag": "LOG",
+      "headline": "Hormuz tensions squeeze commodity shipping routes",
+      "summary": "Attacks on shipping in the Middle East pushed Brent above $105 a barrel, with vessel-tracking data showing sharply reduced tanker transits through the Strait of Hormuz and continued pressure near the Red Sea corridor."
     }
   ]
 }
