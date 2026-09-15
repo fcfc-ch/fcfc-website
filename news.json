@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-12T09:53:16Z",
+  "generated_at": "2026-09-15T10:46:44Z",
   "items": [
     {
-      "date": "2026-09-06",
+      "date": "2026-09-08",
       "tag": "CTRM",
-      "headline": "EUDR seen as major compliance driver for traders",
-      "summary": "Industry analysts argue the EU Deforestation Regulation is becoming more than an environmental rule, pushing commodity traders toward tighter supply-chain data and CTRM integration, according to CTRM Center commentary."
+      "headline": "Molecule adds physical gas via acquisition",
+      "summary": "Molecule Software acquired Trilogy Energy Solutions, strengthening its cloud ETRM/CTRM platform's capabilities in physical gas operations, according to CTRM Center reporting."
     },
     {
-      "date": "2026-09-12",
-      "tag": "FIN",
-      "headline": "Tether expands into commodity trade lending",
-      "summary": "Stablecoin issuer Tether Holdings has moved into commodity trade finance, reportedly extending roughly $1.5 billion in credit to traders with plans to scale further, per ICC trade finance reporting."
-    },
-    {
-      "date": "2026-09-12",
+      "date": "2026-09-11",
       "tag": "REG",
-      "headline": "EMIR Phase II reconciliation reaches UK regime",
-      "summary": "Phase II trade repository reconciliation, already live under EU EMIR since April, is scheduled to begin under UK EMIR this September, adding dozens of new data-matching fields for reporting firms to manage."
+      "headline": "ACER consults on REMIT-EMIR reporting overlap",
+      "summary": "ACER's public consultation on a new Annex clarifying how energy derivative transactions should be reported under REMIT versus EMIR closed September 11, with a finalized version expected by October 2026."
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "tag": "LOG",
-      "headline": "Hormuz tensions squeeze commodity shipping routes",
-      "summary": "Attacks on shipping in the Middle East pushed Brent above $105 a barrel, with vessel-tracking data showing sharply reduced tanker transits through the Strait of Hormuz and continued pressure near the Red Sea corridor."
+      "headline": "Tanker freight costs hit record highs",
+      "summary": "Reuters reported that shipping costs for the largest oil tankers reached record highs this week, adding pressure to crude trading and physical delivery economics amid ongoing conflict-related supply concerns."
+    },
+    {
+      "date": "2026-07-07",
+      "tag": "FIN",
+      "headline": "Commodity trade finance market set for growth",
+      "summary": "A new market report projects the global commodity trade finance sector to expand from roughly $59.7bn in 2026 to $81.45bn by 2030, driven by fintech, blockchain settlement and structured finance innovation, particularly in Asia-Pacific."
     }
   ]
 }
