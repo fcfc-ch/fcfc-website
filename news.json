@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-15T10:46:44Z",
+  "generated_at": "2026-09-16T10:35:21Z",
   "items": [
     {
-      "date": "2026-09-08",
-      "tag": "CTRM",
-      "headline": "Molecule adds physical gas via acquisition",
-      "summary": "Molecule Software acquired Trilogy Energy Solutions, strengthening its cloud ETRM/CTRM platform's capabilities in physical gas operations, according to CTRM Center reporting."
-    },
-    {
-      "date": "2026-09-11",
+      "date": "2026-09-28",
       "tag": "REG",
-      "headline": "ACER consults on REMIT-EMIR reporting overlap",
-      "summary": "ACER's public consultation on a new Annex clarifying how energy derivative transactions should be reported under REMIT versus EMIR closed September 11, with a finalized version expected by October 2026."
+      "headline": "UK EMIR Phase II reconciliation deadline approaches",
+      "summary": "UK EMIR Phase II reconciliation is set to begin September 28, 2026, adding numerous new fields including valuation updates that firms must match with counterparties and trade repositories."
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-08-26",
+      "tag": "CTRM",
+      "headline": "Molecule acquires physical gas specialist Trilogy",
+      "summary": "CTRM vendor Molecule has acquired Trilogy Energy Solutions, adding deeper physical natural gas operations capability to its platform, per CTRM Center."
+    },
+    {
+      "date": "2026-09-09",
       "tag": "LOG",
-      "headline": "Tanker freight costs hit record highs",
-      "summary": "Reuters reported that shipping costs for the largest oil tankers reached record highs this week, adding pressure to crude trading and physical delivery economics amid ongoing conflict-related supply concerns."
+      "headline": "Container port rankings shift amid Hormuz disruption",
+      "summary": "Ningbo-Zhoushan overtook Singapore as the world's second-busiest container port in H1 2026, while Dubai's Jebel Ali fell sharply on Strait of Hormuz disruption, reshaping trade-lane routing decisions."
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-09-15",
       "tag": "FIN",
-      "headline": "Commodity trade finance market set for growth",
-      "summary": "A new market report projects the global commodity trade finance sector to expand from roughly $59.7bn in 2026 to $81.45bn by 2030, driven by fintech, blockchain settlement and structured finance innovation, particularly in Asia-Pacific."
+      "headline": "Transpacific freight surge pressures trade finance terms",
+      "summary": "Shanghai-Los Angeles container rates climbed to roughly $7,185 per FEU as carriers cut about 20% of capacity via blank sailings, tightening working-capital and LC timing assumptions for commodity shippers ahead of GRIs."
     }
   ]
 }
