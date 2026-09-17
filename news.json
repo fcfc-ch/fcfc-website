@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-16T10:35:21Z",
+  "generated_at": "2026-09-17T10:45:09Z",
   "items": [
     {
-      "date": "2026-09-28",
-      "tag": "REG",
-      "headline": "UK EMIR Phase II reconciliation deadline approaches",
-      "summary": "UK EMIR Phase II reconciliation is set to begin September 28, 2026, adding numerous new fields including valuation updates that firms must match with counterparties and trade repositories."
-    },
-    {
-      "date": "2026-08-26",
+      "date": "2026-09-03",
       "tag": "CTRM",
-      "headline": "Molecule acquires physical gas specialist Trilogy",
-      "summary": "CTRM vendor Molecule has acquired Trilogy Energy Solutions, adding deeper physical natural gas operations capability to its platform, per CTRM Center."
-    },
-    {
-      "date": "2026-09-09",
-      "tag": "LOG",
-      "headline": "Container port rankings shift amid Hormuz disruption",
-      "summary": "Ningbo-Zhoushan overtook Singapore as the world's second-busiest container port in H1 2026, while Dubai's Jebel Ali fell sharply on Strait of Hormuz disruption, reshaping trade-lane routing decisions."
+      "headline": "Molecule buys Trilogy Energy Solutions",
+      "summary": "Molecule's ETRM platform expanded its physical gas operations capability through the acquisition of Trilogy Energy Solutions, according to CTRM Center, deepening functionality for gas-focused trading desks."
     },
     {
       "date": "2026-09-15",
+      "tag": "LOG",
+      "headline": "Carriers restore Red Sea routes amid Houthi risk",
+      "summary": "Per FreightWaves, container lines are resuming Red Sea services even as Houthi-linked security risks deepen, leaving trans-Pacific spot rates elevated near peak-season levels and adding routing uncertainty for physical cargo desks."
+    },
+    {
+      "date": "2026-09-14",
       "tag": "FIN",
-      "headline": "Transpacific freight surge pressures trade finance terms",
-      "summary": "Shanghai-Los Angeles container rates climbed to roughly $7,185 per FEU as carriers cut about 20% of capacity via blank sailings, tightening working-capital and LC timing assumptions for commodity shippers ahead of GRIs."
+      "headline": "First Brands fallout still reshaping trade finance",
+      "summary": "The unwinding of First Brands' factoring arrangements continues to pressure credit markets; Swiss firm Lalive has compared the off-balance-sheet structuring to the Greensill collapse, prompting renewed scrutiny of supply chain finance disclosures."
+    },
+    {
+      "date": "2026-09-17",
+      "tag": "REG",
+      "headline": "EMIR Phase II reconciliation, REMIT portal changes loom",
+      "summary": "UK EMIR Phase II trade-repository reconciliation is scheduled to begin this month, adding dozens of new matching fields, while ACER has confirmed the REMIT Portal will be retired in November 2026, requiring reporting-workflow updates."
     }
   ]
 }
