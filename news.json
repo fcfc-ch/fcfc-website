@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-17T10:45:09Z",
+  "generated_at": "2026-09-18T10:20:19Z",
   "items": [
     {
-      "date": "2026-09-03",
-      "tag": "CTRM",
-      "headline": "Molecule buys Trilogy Energy Solutions",
-      "summary": "Molecule's ETRM platform expanded its physical gas operations capability through the acquisition of Trilogy Energy Solutions, according to CTRM Center, deepening functionality for gas-focused trading desks."
-    },
-    {
-      "date": "2026-09-15",
-      "tag": "LOG",
-      "headline": "Carriers restore Red Sea routes amid Houthi risk",
-      "summary": "Per FreightWaves, container lines are resuming Red Sea services even as Houthi-linked security risks deepen, leaving trans-Pacific spot rates elevated near peak-season levels and adding routing uncertainty for physical cargo desks."
-    },
-    {
       "date": "2026-09-14",
-      "tag": "FIN",
-      "headline": "First Brands fallout still reshaping trade finance",
-      "summary": "The unwinding of First Brands' factoring arrangements continues to pressure credit markets; Swiss firm Lalive has compared the off-balance-sheet structuring to the Greensill collapse, prompting renewed scrutiny of supply chain finance disclosures."
+      "tag": "LOG",
+      "headline": "Maersk, Hapag-Lloyd add four Suez services",
+      "summary": "Maersk confirmed four more Gemini Cooperation container services (AE5, AE11, AE12, ME2) will shift back to the Suez Canal from the Cape route starting September 19, citing improved Red Sea security."
+    },
+    {
+      "date": "2026-09-11",
+      "tag": "REG",
+      "headline": "ACER closes consultation on REMIT-EMIR overlap annex",
+      "summary": "ACER's public consultation on a new annex clarifying reporting boundaries between REMIT and EMIR for energy derivatives ran through 11 September, aiming to reduce dual-reporting ambiguity for market participants."
+    },
+    {
+      "date": "2026-09-28",
+      "tag": "REG",
+      "headline": "UK EMIR Phase II reconciliation deadline arrives",
+      "summary": "UK EMIR Refit Phase II trade-repository reconciliation begins September 28, adding roughly 61 fields including valuation updates, following the EU's equivalent phase in April."
     },
     {
       "date": "2026-09-17",
-      "tag": "REG",
-      "headline": "EMIR Phase II reconciliation, REMIT portal changes loom",
-      "summary": "UK EMIR Phase II trade-repository reconciliation is scheduled to begin this month, adding dozens of new matching fields, while ACER has confirmed the REMIT Portal will be retired in November 2026, requiring reporting-workflow updates."
+      "tag": "FIN",
+      "headline": "ITFA dissects trade finance lessons from First Brands",
+      "summary": "Commodity Trading Week hosted ITFA advisory board members to examine governance and transparency failures exposed by the First Brands collapse, and their implications for supply-chain and receivables financing controls."
     }
   ]
 }
