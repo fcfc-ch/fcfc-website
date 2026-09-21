@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-18T10:20:19Z",
+  "generated_at": "2026-09-21T11:37:14Z",
   "items": [
     {
-      "date": "2026-09-14",
-      "tag": "LOG",
-      "headline": "Maersk, Hapag-Lloyd add four Suez services",
-      "summary": "Maersk confirmed four more Gemini Cooperation container services (AE5, AE11, AE12, ME2) will shift back to the Suez Canal from the Cape route starting September 19, citing improved Red Sea security."
-    },
-    {
-      "date": "2026-09-11",
-      "tag": "REG",
-      "headline": "ACER closes consultation on REMIT-EMIR overlap annex",
-      "summary": "ACER's public consultation on a new annex clarifying reporting boundaries between REMIT and EMIR for energy derivatives ran through 11 September, aiming to reduce dual-reporting ambiguity for market participants."
+      "date": "2026-09-15",
+      "tag": "CTRM",
+      "headline": "Molecule acquires Trilogy Energy Solutions",
+      "summary": "Molecule's ETRM platform gains deeper physical gas operations capability after acquiring Trilogy Energy Solutions, according to CTRM Center's vendor coverage."
     },
     {
       "date": "2026-09-28",
       "tag": "REG",
-      "headline": "UK EMIR Phase II reconciliation deadline arrives",
-      "summary": "UK EMIR Refit Phase II trade-repository reconciliation begins September 28, adding roughly 61 fields including valuation updates, following the EU's equivalent phase in April."
+      "headline": "EMIR reconciliation deadline shifts to Sept 28",
+      "summary": "Regulators reset the reconciliation start date for certain EMIR fields previously on a two-year timeline to 28 September 2026, while the underlying index name field reconciliation requirement was dropped, per Regnology."
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-15",
+      "tag": "LOG",
+      "headline": "Transpacific spot rates jump, capacity pulled",
+      "summary": "Drewry data cited by J.M. Rodgers shows Shanghai-Los Angeles rates climbing toward $7,185/FEU as carriers cut roughly 20% of capacity via blank sailings ahead of China's National Day peak."
+    },
+    {
+      "date": "2026-09-18",
       "tag": "FIN",
-      "headline": "ITFA dissects trade finance lessons from First Brands",
-      "summary": "Commodity Trading Week hosted ITFA advisory board members to examine governance and transparency failures exposed by the First Brands collapse, and their implications for supply-chain and receivables financing controls."
+      "headline": "First Brands fallout renews trade finance scrutiny",
+      "summary": "ITFA advisory board members are examining governance and transparency gaps in commodity trade finance exposed by the First Brands collapse, according to Commodity Trading Week's coverage."
     }
   ]
 }
