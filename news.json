@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-21T11:37:14Z",
+  "generated_at": "2026-09-22T10:42:23Z",
   "items": [
     {
       "date": "2026-09-15",
       "tag": "CTRM",
-      "headline": "Molecule acquires Trilogy Energy Solutions",
-      "summary": "Molecule's ETRM platform gains deeper physical gas operations capability after acquiring Trilogy Energy Solutions, according to CTRM Center's vendor coverage."
+      "headline": "Molecule details Trilogy gas ETRM integration",
+      "summary": "Following its July acquisition of Trilogy Energy Solutions, Molecule executives outlined plans to merge physical gas scheduling with financial ETRM into one AI-enabled platform for producers and midstream operators."
     },
     {
-      "date": "2026-09-28",
-      "tag": "REG",
-      "headline": "EMIR reconciliation deadline shifts to Sept 28",
-      "summary": "Regulators reset the reconciliation start date for certain EMIR fields previously on a two-year timeline to 28 September 2026, while the underlying index name field reconciliation requirement was dropped, per Regnology."
-    },
-    {
-      "date": "2026-09-15",
-      "tag": "LOG",
-      "headline": "Transpacific spot rates jump, capacity pulled",
-      "summary": "Drewry data cited by J.M. Rodgers shows Shanghai-Los Angeles rates climbing toward $7,185/FEU as carriers cut roughly 20% of capacity via blank sailings ahead of China's National Day peak."
-    },
-    {
-      "date": "2026-09-18",
+      "date": "2026-09-22",
       "tag": "FIN",
-      "headline": "First Brands fallout renews trade finance scrutiny",
-      "summary": "ITFA advisory board members are examining governance and transparency gaps in commodity trade finance exposed by the First Brands collapse, according to Commodity Trading Week's coverage."
+      "headline": "Tether expands into commodity trade lending",
+      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodity traders and signaled plans to scale this trade-finance activity significantly further."
+    },
+    {
+      "date": "2026-09-21",
+      "tag": "LOG",
+      "headline": "Supertanker shortage spikes crude freight costs",
+      "summary": "A severe shortage of supertankers has pushed the cost of shipping crude from Houston to Asia to about $26 per barrel, per Intelligent Audit's shipper briefing."
+    },
+    {
+      "date": "2026-09-22",
+      "tag": "REG",
+      "headline": "EMIR Phase II reconciliation reaches UK regime",
+      "summary": "Phase II trade-repository reconciliation, already live under EU EMIR since April, is scheduled to begin under UK EMIR in September, adding 61 new fields including valuation data, per TRAction."
     }
   ]
 }
