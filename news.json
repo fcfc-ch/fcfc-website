@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-22T10:42:23Z",
+  "generated_at": "2026-09-23T10:33:38Z",
   "items": [
     {
-      "date": "2026-09-15",
+      "date": "2026-07-23",
       "tag": "CTRM",
-      "headline": "Molecule details Trilogy gas ETRM integration",
-      "summary": "Following its July acquisition of Trilogy Energy Solutions, Molecule executives outlined plans to merge physical gas scheduling with financial ETRM into one AI-enabled platform for producers and midstream operators."
+      "headline": "Molecule acquires Trilogy to unify gas ETRM",
+      "summary": "Molecule bought Trilogy Energy Solutions to merge physical natural gas operations with financial ETRM capabilities, targeting a single platform for producers, midstream and trading desks."
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-20",
       "tag": "FIN",
       "headline": "Tether expands into commodity trade lending",
-      "summary": "Stablecoin issuer Tether has extended roughly $1.5 billion in credit to commodity traders and signaled plans to scale this trade-finance activity significantly further."
-    },
-    {
-      "date": "2026-09-21",
-      "tag": "LOG",
-      "headline": "Supertanker shortage spikes crude freight costs",
-      "summary": "A severe shortage of supertankers has pushed the cost of shipping crude from Houston to Asia to about $26 per barrel, per Intelligent Audit's shipper briefing."
+      "summary": "Stablecoin issuer Tether has extended roughly USD 1.5 billion in credit to commodity traders and signaled plans to scale this trade-finance lending further, per ICC Trade Finance Global."
     },
     {
       "date": "2026-09-22",
       "tag": "REG",
-      "headline": "EMIR Phase II reconciliation reaches UK regime",
-      "summary": "Phase II trade-repository reconciliation, already live under EU EMIR since April, is scheduled to begin under UK EMIR in September, adding 61 new fields including valuation data, per TRAction."
+      "headline": "EMIR Phase II reconciliation moves ahead",
+      "summary": "EU EMIR Phase II reconciliation, adding 61 new fields including valuations, started in April 2026 and the UK equivalent begins September 28, 2026, tightening trade-repository matching requirements for reporting desks."
+    },
+    {
+      "date": "2026-09-01",
+      "tag": "LOG",
+      "headline": "Container port rankings shift on Hormuz risk",
+      "summary": "Ningbo-Zhoushan overtook Singapore as the world's second-busiest container port in H1 2026, while Dubai's Jebel Ali fell sharply amid Strait of Hormuz disruption, per U-Freight Group/FreightWaves data."
     }
   ]
 }
