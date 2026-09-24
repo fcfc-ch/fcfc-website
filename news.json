@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-23T10:33:38Z",
+  "generated_at": "2026-09-24T10:52:08Z",
   "items": [
+    {
+      "date": "2026-09-23",
+      "tag": "LOG",
+      "headline": "Dry bulk freight rates hold near multi-year highs",
+      "summary": "The Baltic Dry Index sat around 3,430 points this week, up sharply over the past month and roughly 53% year-on-year, as Pacific weather disruptions and strong export demand keep Capesize tonnage tight."
+    },
+    {
+      "date": "2026-09-28",
+      "tag": "REG",
+      "headline": "EMIR reconciliation deadline arrives for legacy fields",
+      "summary": "A new EMIR reconciliation start date takes effect for fields previously governed by a two-year transition window, while the requirement to reconcile the underlying index name field has been dropped."
+    },
     {
       "date": "2026-07-23",
       "tag": "CTRM",
-      "headline": "Molecule acquires Trilogy to unify gas ETRM",
-      "summary": "Molecule bought Trilogy Energy Solutions to merge physical natural gas operations with financial ETRM capabilities, targeting a single platform for producers, midstream and trading desks."
+      "headline": "Molecule buys Trilogy to merge physical and financial gas",
+      "summary": "ETRM vendor Molecule acquired Trilogy Energy Solutions, combining its API-first financial trading platform with Trilogy's physical gas gathering, nomination and scheduling tools into one operating system."
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-07-07",
       "tag": "FIN",
-      "headline": "Tether expands into commodity trade lending",
-      "summary": "Stablecoin issuer Tether has extended roughly USD 1.5 billion in credit to commodity traders and signaled plans to scale this trade-finance lending further, per ICC Trade Finance Global."
-    },
-    {
-      "date": "2026-09-22",
-      "tag": "REG",
-      "headline": "EMIR Phase II reconciliation moves ahead",
-      "summary": "EU EMIR Phase II reconciliation, adding 61 new fields including valuations, started in April 2026 and the UK equivalent begins September 28, 2026, tightening trade-repository matching requirements for reporting desks."
-    },
-    {
-      "date": "2026-09-01",
-      "tag": "LOG",
-      "headline": "Container port rankings shift on Hormuz risk",
-      "summary": "Ningbo-Zhoushan overtook Singapore as the world's second-busiest container port in H1 2026, while Dubai's Jebel Ali fell sharply amid Strait of Hormuz disruption, per U-Freight Group/FreightWaves data."
+      "headline": "Commodity trade finance market forecast to grow fast",
+      "summary": "A new market report projects the commodity trade finance sector expanding from about $59.7 billion in 2026 to $81.45 billion by 2030, driven by blockchain settlement and real-time risk monitoring adoption, per GlobeNewswire."
     }
   ]
 }
