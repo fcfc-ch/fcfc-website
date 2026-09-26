@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-24T10:52:08Z",
+  "generated_at": "2026-09-26T10:35:46Z",
   "items": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "tag": "LOG",
-      "headline": "Dry bulk freight rates hold near multi-year highs",
-      "summary": "The Baltic Dry Index sat around 3,430 points this week, up sharply over the past month and roughly 53% year-on-year, as Pacific weather disruptions and strong export demand keep Capesize tonnage tight."
+      "headline": "Hormuz tanker transits collapse amid tension",
+      "summary": "Per Port X Logistics, commodity vessel crossings through the Strait of Hormuz dropped sharply in a single day even as Asia-US ocean rates and the Shanghai Containerized Freight Index kept climbing into Golden Week."
     },
     {
-      "date": "2026-09-28",
-      "tag": "REG",
-      "headline": "EMIR reconciliation deadline arrives for legacy fields",
-      "summary": "A new EMIR reconciliation start date takes effect for fields previously governed by a two-year transition window, while the requirement to reconcile the underlying index name field has been dropped."
-    },
-    {
-      "date": "2026-07-23",
-      "tag": "CTRM",
-      "headline": "Molecule buys Trilogy to merge physical and financial gas",
-      "summary": "ETRM vendor Molecule acquired Trilogy Energy Solutions, combining its API-first financial trading platform with Trilogy's physical gas gathering, nomination and scheduling tools into one operating system."
-    },
-    {
-      "date": "2026-07-07",
+      "date": "2026-09-01",
       "tag": "FIN",
-      "headline": "Commodity trade finance market forecast to grow fast",
-      "summary": "A new market report projects the commodity trade finance sector expanding from about $59.7 billion in 2026 to $81.45 billion by 2030, driven by blockchain settlement and real-time risk monitoring adoption, per GlobeNewswire."
+      "headline": "First Brands case converts to Chapter 7 liquidation",
+      "summary": "A Houston bankruptcy judge converted the remaining First Brands cases to Chapter 7, per Nelson Mullins, underscoring ongoing lessons for lenders on receivables and supply-chain-finance controls."
+    },
+    {
+      "date": "2026-09-12",
+      "tag": "CTRM",
+      "headline": "Molecule details Trilogy integration for gas ETRM",
+      "summary": "Following its acquisition of Trilogy Energy Solutions, Molecule executives outlined plans to stream Trilogy's physical gas operations data into its reporting layer to unify physical and financial gas workflows."
+    },
+    {
+      "date": "2026-04-01",
+      "tag": "REG",
+      "headline": "ACER tightens REMIT inside-information reporting rules",
+      "summary": "ACER updated its Manual of Procedures on Article 4 inside-information disclosures, per RegTrail, moving toward mandatory EIC codes and immutable UMM lifecycle updates ahead of a December 2026 deadline."
     }
   ]
 }
