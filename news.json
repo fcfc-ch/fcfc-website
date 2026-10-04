@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-26T10:35:46Z",
+  "generated_at": "2026-10-04T11:36:21Z",
   "items": [
     {
-      "date": "2026-09-24",
-      "tag": "LOG",
-      "headline": "Hormuz tanker transits collapse amid tension",
-      "summary": "Per Port X Logistics, commodity vessel crossings through the Strait of Hormuz dropped sharply in a single day even as Asia-US ocean rates and the Shanghai Containerized Freight Index kept climbing into Golden Week."
-    },
-    {
-      "date": "2026-09-01",
-      "tag": "FIN",
-      "headline": "First Brands case converts to Chapter 7 liquidation",
-      "summary": "A Houston bankruptcy judge converted the remaining First Brands cases to Chapter 7, per Nelson Mullins, underscoring ongoing lessons for lenders on receivables and supply-chain-finance controls."
-    },
-    {
-      "date": "2026-09-12",
+      "date": "2026-09-30",
       "tag": "CTRM",
-      "headline": "Molecule details Trilogy integration for gas ETRM",
-      "summary": "Following its acquisition of Trilogy Energy Solutions, Molecule executives outlined plans to stream Trilogy's physical gas operations data into its reporting layer to unify physical and financial gas workflows."
+      "headline": "Energy One moves to acquire GMSL",
+      "summary": "Energy One's proposed acquisition of GMSL signals further consolidation among European energy and commodity software vendors, alongside Volue's competing strategy, per CTRM Center."
     },
     {
-      "date": "2026-04-01",
+      "date": "2026-10-02",
+      "tag": "FIN",
+      "headline": "Trafigura closes upsized $4.4bn loan facility",
+      "summary": "Trafigura finalized an upsized US$4.4bn syndicated loan package, underscoring continued bank appetite for large commodity trader financing despite earlier sector stress, per GTR."
+    },
+    {
+      "date": "2026-09-29",
       "tag": "REG",
-      "headline": "ACER tightens REMIT inside-information reporting rules",
-      "summary": "ACER updated its Manual of Procedures on Article 4 inside-information disclosures, per RegTrail, moving toward mandatory EIC codes and immutable UMM lifecycle updates ahead of a December 2026 deadline."
+      "headline": "EU EMIR-linked regulation enters into force Oct 15",
+      "summary": "A new EU regulation amending ESMA, EMIR, MiFIR, CSDR and related frameworks to align with the EMIR 3 reform package takes effect on 15 October, per A&O Shearman."
+    },
+    {
+      "date": "2026-10-03",
+      "tag": "LOG",
+      "headline": "CMA CGM completes FedEx Supply Chain deal",
+      "summary": "CMA CGM finalized its roughly $1.4bn acquisition of FedEx Supply Chain, expanding CEVA Logistics' North American warehousing and contract logistics footprint amid port congestion concerns."
     }
   ]
 }
