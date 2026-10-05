@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-04T11:36:21Z",
+  "generated_at": "2026-10-05T13:12:30Z",
   "items": [
     {
-      "date": "2026-09-30",
+      "date": "2026-10-04",
       "tag": "CTRM",
-      "headline": "Energy One moves to acquire GMSL",
-      "summary": "Energy One's proposed acquisition of GMSL signals further consolidation among European energy and commodity software vendors, alongside Volue's competing strategy, per CTRM Center."
+      "headline": "Traders still keep shadow position sheets",
+      "summary": "A CTRM Center analysis found that desks keep parallel spreadsheets not because ETRM calculation engines are weak, but because data pipelines are fragile and errors can go unnoticed until exposure is already real, per CTRM Center."
+    },
+    {
+      "date": "2026-09-28",
+      "tag": "REG",
+      "headline": "UK EMIR reconciliation rules tightened",
+      "summary": "The Bank of England and FCA updated UK EMIR validation rules, setting a new reconciliation start date of 28 September 2026 for previously deferred fields and removing the underlying-index name reconciliation requirement, per Regnology."
     },
     {
       "date": "2026-10-02",
-      "tag": "FIN",
-      "headline": "Trafigura closes upsized $4.4bn loan facility",
-      "summary": "Trafigura finalized an upsized US$4.4bn syndicated loan package, underscoring continued bank appetite for large commodity trader financing despite earlier sector stress, per GTR."
-    },
-    {
-      "date": "2026-09-29",
-      "tag": "REG",
-      "headline": "EU EMIR-linked regulation enters into force Oct 15",
-      "summary": "A new EU regulation amending ESMA, EMIR, MiFIR, CSDR and related frameworks to align with the EMIR 3 reform package takes effect on 15 October, per A&O Shearman."
-    },
-    {
-      "date": "2026-10-03",
       "tag": "LOG",
-      "headline": "CMA CGM completes FedEx Supply Chain deal",
-      "summary": "CMA CGM finalized its roughly $1.4bn acquisition of FedEx Supply Chain, expanding CEVA Logistics' North American warehousing and contract logistics footprint amid port congestion concerns."
+      "headline": "Golden Week, canal limits squeeze ocean capacity",
+      "summary": "October ocean freight conditions vary sharply by lane as Golden Week capacity cuts from China, Suez Canal changes and Panama Canal restrictions constrain usable vessel capacity, according to C.H. Robinson's October freight update."
+    },
+    {
+      "date": "2026-10-01",
+      "tag": "FIN",
+      "headline": "Trafigura closes upsized $4.4bn loan",
+      "summary": "Trading house Trafigura completed an upsized US$4.4 billion syndicated loan facility, underscoring continued bank appetite for financing large commodity traders despite earlier sector stress, per GTR."
     }
   ]
 }
