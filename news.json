@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-05T13:12:30Z",
+  "generated_at": "2026-10-07T12:25:01Z",
   "items": [
     {
       "date": "2026-10-04",
       "tag": "CTRM",
-      "headline": "Traders still keep shadow position sheets",
-      "summary": "A CTRM Center analysis found that desks keep parallel spreadsheets not because ETRM calculation engines are weak, but because data pipelines are fragile and errors can go unnoticed until exposure is already real, per CTRM Center."
-    },
-    {
-      "date": "2026-09-28",
-      "tag": "REG",
-      "headline": "UK EMIR reconciliation rules tightened",
-      "summary": "The Bank of England and FCA updated UK EMIR validation rules, setting a new reconciliation start date of 28 September 2026 for previously deferred fields and removing the underlying-index name reconciliation requirement, per Regnology."
+      "headline": "ETRM shadow spreadsheets persist despite system upgrades",
+      "summary": "A CTRM Center analysis argues traders keep parallel Excel sheets not due to weak engines but fragile data chains, including failed price uploads and late trade bookings. The piece frames shadow books as a governance and transparency gap, not a technology one."
     },
     {
       "date": "2026-10-02",
-      "tag": "LOG",
-      "headline": "Golden Week, canal limits squeeze ocean capacity",
-      "summary": "October ocean freight conditions vary sharply by lane as Golden Week capacity cuts from China, Suez Canal changes and Panama Canal restrictions constrain usable vessel capacity, according to C.H. Robinson's October freight update."
+      "tag": "FIN",
+      "headline": "UK court upholds 'pay when paid' LC clause",
+      "summary": "Per GTR, a UK court ruled in favour of Euro Exim Bank's letter of credit clause making payment conditional on the issuing bank itself being paid, a notable precedent for structuring LC risk in commodity deals."
     },
     {
-      "date": "2026-10-01",
-      "tag": "FIN",
-      "headline": "Trafigura closes upsized $4.4bn loan",
-      "summary": "Trading house Trafigura completed an upsized US$4.4 billion syndicated loan facility, underscoring continued bank appetite for financing large commodity traders despite earlier sector stress, per GTR."
+      "date": "2026-10-05",
+      "tag": "LOG",
+      "headline": "Port congestion ties up global container capacity",
+      "summary": "C.H. Robinson reported that port congestion, vessel bunching and Golden Week sailings are straining schedule reliability, with Trans-Pacific capacity cuts and continued Hormuz and Panama disruptions complicating Q4 freight planning."
+    },
+    {
+      "date": "2026-10-05",
+      "tag": "LOG",
+      "headline": "Suez Canal transits climb as carriers return",
+      "summary": "Drewry data show Suez Canal transits in week 39 running 68% higher year-on-year as more carriers resume the route, adding capacity to Asia-Europe trade even as Red Sea security concerns persist."
     }
   ]
 }
