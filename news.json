@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-07T12:25:01Z",
+  "generated_at": "2026-10-08T12:34:29Z",
   "items": [
     {
-      "date": "2026-10-04",
+      "date": "2026-10-08",
       "tag": "CTRM",
-      "headline": "ETRM shadow spreadsheets persist despite system upgrades",
-      "summary": "A CTRM Center analysis argues traders keep parallel Excel sheets not due to weak engines but fragile data chains, including failed price uploads and late trade bookings. The piece frames shadow books as a governance and transparency gap, not a technology one."
+      "headline": "Citibank commodities head joins Gen10 board",
+      "summary": "Citibank's Global Head of Commodities, Jose Cogolludo, joined the advisory board of agentic CTRM vendor Gen10, lending banking and financing expertise to the platform's development."
     },
     {
       "date": "2026-10-02",
       "tag": "FIN",
-      "headline": "UK court upholds 'pay when paid' LC clause",
-      "summary": "Per GTR, a UK court ruled in favour of Euro Exim Bank's letter of credit clause making payment conditional on the issuing bank itself being paid, a notable precedent for structuring LC risk in commodity deals."
+      "headline": "Trafigura closes upsized $4.4bn loan facility",
+      "summary": "Trafigura closed an upsized US$4.4bn syndicated loan facility, reflecting continued bank appetite for financing large physical commodity traders despite margin pressure in the sector."
     },
     {
       "date": "2026-10-05",
       "tag": "LOG",
-      "headline": "Port congestion ties up global container capacity",
-      "summary": "C.H. Robinson reported that port congestion, vessel bunching and Golden Week sailings are straining schedule reliability, with Trans-Pacific capacity cuts and continued Hormuz and Panama disruptions complicating Q4 freight planning."
+      "headline": "CMA CGM finalises FedEx Supply Chain deal",
+      "summary": "CMA CGM completed its $1.4 billion purchase of FedEx Supply Chain, adding roughly 150 warehouses and establishing a non-exclusive ocean transport tie-up with FedEx."
     },
     {
-      "date": "2026-10-05",
-      "tag": "LOG",
-      "headline": "Suez Canal transits climb as carriers return",
-      "summary": "Drewry data show Suez Canal transits in week 39 running 68% higher year-on-year as more carriers resume the route, adding capacity to Asia-Europe trade even as Red Sea security concerns persist."
+      "date": "2026-10-01",
+      "tag": "REG",
+      "headline": "ACER readies cross-border REMIT investigations",
+      "summary": "ACER confirmed its new cross-border REMIT investigation powers begin in Q4 2026 under a published Rules of Procedure, with completed investigatory reports expected to take several years."
     }
   ]
 }
