@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-08T12:34:29Z",
+  "generated_at": "2026-10-09T12:22:20Z",
   "items": [
     {
       "date": "2026-10-08",
       "tag": "CTRM",
-      "headline": "Citibank commodities head joins Gen10 board",
-      "summary": "Citibank's Global Head of Commodities, Jose Cogolludo, joined the advisory board of agentic CTRM vendor Gen10, lending banking and financing expertise to the platform's development."
-    },
-    {
-      "date": "2026-10-02",
-      "tag": "FIN",
-      "headline": "Trafigura closes upsized $4.4bn loan facility",
-      "summary": "Trafigura closed an upsized US$4.4bn syndicated loan facility, reflecting continued bank appetite for financing large physical commodity traders despite margin pressure in the sector."
-    },
-    {
-      "date": "2026-10-05",
-      "tag": "LOG",
-      "headline": "CMA CGM finalises FedEx Supply Chain deal",
-      "summary": "CMA CGM completed its $1.4 billion purchase of FedEx Supply Chain, adding roughly 150 warehouses and establishing a non-exclusive ocean transport tie-up with FedEx."
+      "headline": "Citi commodities chief advises Gen10 CTRM",
+      "summary": "Citibank's Global Head of Commodities Jose Cogolludo has joined the advisory board of Gen10, a vendor positioning its CommOS platform as an agentic, chat-driven CTRM system for physical commodity traders."
     },
     {
       "date": "2026-10-01",
+      "tag": "FIN",
+      "headline": "Trafigura closes $4.4bn syndicated facility",
+      "summary": "Trafigura closed an upsized, oversubscribed $4.4bn syndicated revolving credit and term loan package spanning USD and CNH tranches, adding a new five-year RCF to lengthen its funding maturity profile."
+    },
+    {
+      "date": "2026-07-16",
       "tag": "REG",
-      "headline": "ACER readies cross-border REMIT investigations",
-      "summary": "ACER confirmed its new cross-border REMIT investigation powers begin in Q4 2026 under a published Rules of Procedure, with completed investigatory reports expected to take several years."
+      "headline": "ACER works to fix REMIT-EMIR reporting overlap",
+      "summary": "ACER's public consultation on a new REMIT transaction-reporting annex addressing the REMIT/EMIR reporting overlap remains a live compliance issue, as firms await updated guidance on avoiding duplicate derivative reporting."
+    },
+    {
+      "date": "2026-10-08",
+      "tag": "LOG",
+      "headline": "Freight rates near post-Hormuz peak, Xeneta says",
+      "summary": "Xeneta data show Far East-to-US spot freight rates have likely peaked after the post-Hormuz disruption, even as Persian Gulf route rates keep climbing amid ongoing regional shipping tensions."
     }
   ]
 }
