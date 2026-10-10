@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-09T12:22:20Z",
+  "generated_at": "2026-10-10T11:41:16Z",
   "items": [
     {
       "date": "2026-10-08",
       "tag": "CTRM",
-      "headline": "Citi commodities chief advises Gen10 CTRM",
-      "summary": "Citibank's Global Head of Commodities Jose Cogolludo has joined the advisory board of Gen10, a vendor positioning its CommOS platform as an agentic, chat-driven CTRM system for physical commodity traders."
+      "headline": "Citibank commodities chief joins Gen10 CTRM board",
+      "summary": "Gen10, vendor of the agentic CommOS CTRM platform, added Citibank's Global Head of Commodities, Jose Cogolludo, to its advisory board, per the company's announcement."
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "tag": "FIN",
-      "headline": "Trafigura closes $4.4bn syndicated facility",
-      "summary": "Trafigura closed an upsized, oversubscribed $4.4bn syndicated revolving credit and term loan package spanning USD and CNH tranches, adding a new five-year RCF to lengthen its funding maturity profile."
+      "headline": "Trafigura closes upsized $4.4bn syndicated loan",
+      "summary": "Trafigura closed an upsized US$4.4bn syndicated loan facility, reinforcing continued bank appetite for large revolving credit lines to major commodity trading houses, per GTR."
     },
     {
-      "date": "2026-07-16",
-      "tag": "REG",
-      "headline": "ACER works to fix REMIT-EMIR reporting overlap",
-      "summary": "ACER's public consultation on a new REMIT transaction-reporting annex addressing the REMIT/EMIR reporting overlap remains a live compliance issue, as firms await updated guidance on avoiding duplicate derivative reporting."
-    },
-    {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "tag": "LOG",
-      "headline": "Freight rates near post-Hormuz peak, Xeneta says",
-      "summary": "Xeneta data show Far East-to-US spot freight rates have likely peaked after the post-Hormuz disruption, even as Persian Gulf route rates keep climbing amid ongoing regional shipping tensions."
+      "headline": "Record tanker rates push Asia away from US crude",
+      "summary": "Reuters reports tanker freight rates hit record highs, making US crude uneconomic for Asian refiners who are shifting purchases to Middle East and Latin American grades instead."
+    },
+    {
+      "date": "2026-10-29",
+      "tag": "REG",
+      "headline": "ACER reporting guidance deadline nears under recast REMIT",
+      "summary": "Under the recast REMIT Implementing Regulation, ACER must issue electronic formats and guidance for exposure and transaction reporting (Articles 3, 4 and 6) by 29 October 2026, affecting energy market participants' reporting builds."
     }
   ]
 }
