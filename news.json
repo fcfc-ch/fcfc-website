@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-10T11:41:16Z",
+  "generated_at": "2026-10-11T11:54:11Z",
   "items": [
     {
-      "date": "2026-10-08",
-      "tag": "CTRM",
-      "headline": "Citibank commodities chief joins Gen10 CTRM board",
-      "summary": "Gen10, vendor of the agentic CommOS CTRM platform, added Citibank's Global Head of Commodities, Jose Cogolludo, to its advisory board, per the company's announcement."
-    },
-    {
-      "date": "2026-10-02",
+      "date": "2026-10-06",
       "tag": "FIN",
-      "headline": "Trafigura closes upsized $4.4bn syndicated loan",
-      "summary": "Trafigura closed an upsized US$4.4bn syndicated loan facility, reinforcing continued bank appetite for large revolving credit lines to major commodity trading houses, per GTR."
+      "headline": "Trafigura closes upsized $4.4bn credit facility",
+      "summary": "Trafigura closed a syndicated revolving credit and term loan package of roughly $4.4bn, upsized from $3.5bn after strong oversubscription from 40 banks, per the company's own announcement."
     },
     {
       "date": "2026-10-09",
       "tag": "LOG",
-      "headline": "Record tanker rates push Asia away from US crude",
-      "summary": "Reuters reports tanker freight rates hit record highs, making US crude uneconomic for Asian refiners who are shifting purchases to Middle East and Latin American grades instead."
+      "headline": "Tanker rates soar, squeeze Asian crude buyers",
+      "summary": "Reuters reports record tanker freight rates are pricing US crude out of reach for Asian refiners, pushing buyers toward Middle East and Latin American barrels instead."
     },
     {
-      "date": "2026-10-29",
-      "tag": "REG",
-      "headline": "ACER reporting guidance deadline nears under recast REMIT",
-      "summary": "Under the recast REMIT Implementing Regulation, ACER must issue electronic formats and guidance for exposure and transaction reporting (Articles 3, 4 and 6) by 29 October 2026, affecting energy market participants' reporting builds."
+      "date": "2026-10-09",
+      "tag": "LOG",
+      "headline": "Tanker attacks spread beyond Strait of Hormuz",
+      "summary": "At least a dozen tankers were attacked in late September and early October, with a chemical tanker hit near Qatar on October 7, cutting Gulf tanker traffic to a two-month low."
+    },
+    {
+      "date": "2026-10-08",
+      "tag": "CTRM",
+      "headline": "Citi's Cogolludo joins Gen10 advisory board",
+      "summary": "ETRM/CTRM vendor Gen10 added Citibank's Jose Cogolludo to its advisory board, per CTRM Center, a move likely aimed at deepening banking and risk-management expertise behind the platform."
     }
   ]
 }
