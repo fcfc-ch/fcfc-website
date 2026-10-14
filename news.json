@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-13T13:16:55Z",
+  "generated_at": "2026-10-14T10:57:09Z",
   "items": [
     {
-      "date": "2026-10-12",
-      "tag": "CTRM",
-      "headline": "AI tops agenda at ION's ConnectION event",
-      "summary": "A new ION Commodities poll found commodity firms want control over AI tools rather than black-box automation, even as interest in applying AI to trading workflows remains high, per CTRM Center."
+      "date": "2026-10-11",
+      "tag": "LOG",
+      "headline": "Tanker shortage pushes freight rates to records",
+      "summary": "Supertanker day rates have hit historic highs as the Iran war disrupts Hormuz routes, forcing longer voyages and tying up vessels, according to gCaptain and Vitol's CEO. Suezmax earnings have reportedly jumped roughly fivefold since the start of the month."
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-13",
+      "tag": "REG",
+      "headline": "EMIR REFIT shifts focus to reporting quality",
+      "summary": "Per EIMF Insights, with EMIR REFIT go-live complete, EU/UK firms are now being pushed to prove their derivatives reports are accurate, timely and properly controlled rather than just successfully transmitted."
+    },
+    {
+      "date": "2026-10-07",
+      "tag": "CTRM",
+      "headline": "Traders still keep manual position sheets, ETRM gaps",
+      "summary": "CTRM Center reports that many commodity trading desks continue to maintain private position spreadsheets alongside functioning ETRM systems, pointing to persistent trust and data-granularity gaps in deployed platforms."
+    },
+    {
+      "date": "2026-10-01",
       "tag": "FIN",
       "headline": "Trafigura closes upsized $4.4bn loan package",
-      "summary": "Trafigura finalized an enlarged syndicated loan facility worth US$4.4 billion, underscoring continued bank appetite for financing large physical commodity traders, according to GTR."
-    },
-    {
-      "date": "2026-10-05",
-      "tag": "LOG",
-      "headline": "CMA CGM completes FedEx Supply Chain buyout",
-      "summary": "CMA CGM finalized its $1.4 billion purchase of FedEx Supply Chain, adding roughly 150 warehouses and over 30 million square feet to its CEVA logistics network in North America, per Intelligent Audit."
-    },
-    {
-      "date": "2026-10-09",
-      "tag": "REG",
-      "headline": "FIA pushes back on ESMA EMIR 7d plan",
-      "summary": "FIA submitted comments to ESMA on the proposed EMIR Article 7d reporting framework, urging a proportionate approach that avoids duplicating existing derivatives reporting obligations for commodity and other market participants."
+      "summary": "Trafigura closed syndicated revolving credit and term loan facilities worth about $4.4 billion, oversubscribed and larger than its initial $3.5bn launch, with 40 banks participating per GTR and Trafigura's own announcement. The deal adds a five-year tranche as part of a shift toward longer-dated funding."
     }
   ]
 }
