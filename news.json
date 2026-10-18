@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-17T09:57:21Z",
+  "generated_at": "2026-10-18T10:10:35Z",
   "items": [
     {
       "date": "2026-10-13",
-      "tag": "CTRM",
-      "headline": "Mitsubishi Electric's PCI deal reshapes ETRM vendors",
-      "summary": "Industry commentary is debating whether Mitsubishi Electric's acquisition of PCI Energy Solutions is resetting valuation and consolidation expectations across the ETRM vendor landscape, per CTRM Center analysis."
+      "tag": "OPS",
+      "headline": "Patent granted for flexible trade confirmations",
+      "summary": "OneCore Global received a US patent for technology that lets commodity trading partners electronically confirm trades across differing data formats, reducing manual fax/email reconciliation workflows."
     },
     {
       "date": "2026-10-12",
       "tag": "FIN",
-      "headline": "Santander digitalises Brazil trade finance via Komgo",
-      "summary": "Banco Santander became the first Brazilian bank to digitalise trade finance workflows using Geneva fintech Komgo's Konsole platform, timed to Brazil's record trade surplus this year."
+      "headline": "Santander digitalizes Brazil trade finance via Komgo",
+      "summary": "Banco Santander became the first Brazilian bank to digitalize trade finance processes using Geneva fintech Komgo's platform, as Brazil heads toward a record trade surplus."
     },
     {
-      "date": "2026-10-12",
-      "tag": "LOG",
-      "headline": "Tanker crunch drives up delivered crude costs",
-      "summary": "JPMorgan flagged that delivered crude prices have returned to spring highs not from a crude shortage but from the rising cost and difficulty of securing vessels, pressuring European refining margins into negative territory."
-    },
-    {
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "tag": "REG",
-      "headline": "FIA pushes back on new EMIR Article 7d reporting",
-      "summary": "FIA submitted comments to ESMA on the proposed EMIR Article 7d reporting framework, urging a targeted, proportionate approach to avoid duplicative derivatives reporting obligations for commodity market participants."
+      "headline": "EMIR REFIT shifts focus to reporting quality",
+      "summary": "With EMIR REFIT go-live complete, EU firms are now being pushed to prove derivatives reports are accurate and properly controlled, not just technically validated by trade repositories."
+    },
+    {
+      "date": "2026-10-16",
+      "tag": "LOG",
+      "headline": "Hormuz attacks and blank sailings disrupt ocean flows",
+      "summary": "Vessel attacks near the Strait of Hormuz and carriers blanking roughly 13% of October sailings have pushed global ocean on-time performance down and delayed US-bound containers by nearly a week."
     }
   ]
 }
