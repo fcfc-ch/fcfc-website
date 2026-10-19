@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-18T10:10:35Z",
+  "generated_at": "2026-10-19T11:44:01Z",
   "items": [
     {
       "date": "2026-10-13",
-      "tag": "OPS",
-      "headline": "Patent granted for flexible trade confirmations",
-      "summary": "OneCore Global received a US patent for technology that lets commodity trading partners electronically confirm trades across differing data formats, reducing manual fax/email reconciliation workflows."
+      "tag": "CTRM",
+      "headline": "OneCore Global patents e-confirmation format tech",
+      "summary": "OneCore Global received a US patent for a dynamic-format electronic confirmation system covering trade confirmations, invoices and settlement documents, aimed at cutting manual processing and improving audit trails in commodity post-trade workflows."
     },
     {
       "date": "2026-10-12",
       "tag": "FIN",
       "headline": "Santander digitalizes Brazil trade finance via Komgo",
-      "summary": "Banco Santander became the first Brazilian bank to digitalize trade finance processes using Geneva fintech Komgo's platform, as Brazil heads toward a record trade surplus."
+      "summary": "Banco Santander became the first Brazilian bank to digitalize trade finance processes using Geneva fintech Komgo's Konsole platform, supporting Brazil's push toward a record trade surplus this year."
+    },
+    {
+      "date": "2026-10-14",
+      "tag": "LOG",
+      "headline": "Houthi attacks revive Red Sea shipping risk",
+      "summary": "Renewed Houthi attacks on Saudi infrastructure have raised the risk of fresh Red Sea shipping disruption just as carriers head into 2027 contract negotiations, adding uncertainty for freight-dependent commodity flows."
     },
     {
       "date": "2026-10-13",
       "tag": "REG",
       "headline": "EMIR REFIT shifts focus to reporting quality",
-      "summary": "With EMIR REFIT go-live complete, EU firms are now being pushed to prove derivatives reports are accurate and properly controlled, not just technically validated by trade repositories."
-    },
-    {
-      "date": "2026-10-16",
-      "tag": "LOG",
-      "headline": "Hormuz attacks and blank sailings disrupt ocean flows",
-      "summary": "Vessel attacks near the Strait of Hormuz and carriers blanking roughly 13% of October sailings have pushed global ocean on-time performance down and delayed US-bound containers by nearly a week."
+      "summary": "Post go-live, EU EMIR REFIT scrutiny is moving from mere technical submission to proving derivatives reports are accurate and properly controlled, with firms urged to clarify internal ownership of reporting duties."
     }
   ]
 }
