@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-19T11:44:01Z",
+  "generated_at": "2026-10-20T10:44:57Z",
   "items": [
+    {
+      "date": "2026-10-19",
+      "tag": "FIN",
+      "headline": "Geneva trader automates trade finance paperwork with AI",
+      "summary": "Centalion (formerly Gunvor) deployed an AI agent that drafts bank guarantees and other trade finance instruments from plain-language instructions, cutting issuance time roughly 55% and amendment time about 80% on its first facility, per PYMNTS."
+    },
     {
       "date": "2026-10-13",
       "tag": "CTRM",
-      "headline": "OneCore Global patents e-confirmation format tech",
-      "summary": "OneCore Global received a US patent for a dynamic-format electronic confirmation system covering trade confirmations, invoices and settlement documents, aimed at cutting manual processing and improving audit trails in commodity post-trade workflows."
+      "headline": "Mitsubishi Electric deal reshapes ETRM vendor landscape",
+      "summary": "Mitsubishi Electric's acquisition of PCI Energy Solutions is prompting ETRM/CTRM vendor owners to reassess valuations and exit strategies, according to CTRM Center analysis, as the deal signals strong strategic interest in specialist energy software."
     },
     {
-      "date": "2026-10-12",
-      "tag": "FIN",
-      "headline": "Santander digitalizes Brazil trade finance via Komgo",
-      "summary": "Banco Santander became the first Brazilian bank to digitalize trade finance processes using Geneva fintech Komgo's Konsole platform, supporting Brazil's push toward a record trade surplus this year."
-    },
-    {
-      "date": "2026-10-14",
+      "date": "2026-10-20",
       "tag": "LOG",
-      "headline": "Houthi attacks revive Red Sea shipping risk",
-      "summary": "Renewed Houthi attacks on Saudi infrastructure have raised the risk of fresh Red Sea shipping disruption just as carriers head into 2027 contract negotiations, adding uncertainty for freight-dependent commodity flows."
+      "headline": "Container freight rates surge on Middle East tensions",
+      "summary": "Global container freight rates have climbed roughly 130% since February, with a Jefferies-cited report showing tracked rates rising from about $2,000-2,500 to $4,000-4,500 as renewed Middle East tensions disrupt shipping routes."
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-09",
       "tag": "REG",
-      "headline": "EMIR REFIT shifts focus to reporting quality",
-      "summary": "Post go-live, EU EMIR REFIT scrutiny is moving from mere technical submission to proving derivatives reports are accurate and properly controlled, with firms urged to clarify internal ownership of reporting duties."
+      "headline": "FIA pushes back on ESMA's EMIR 7d reporting plan",
+      "summary": "FIA submitted comments urging ESMA to adopt a targeted, proportionate approach to the proposed EMIR Article 7d reporting framework, warning against duplicative reporting requirements for market participants including commodity derivatives users."
     }
   ]
 }
