@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T10:44:57Z",
+  "generated_at": "2026-10-21T10:56:37Z",
   "items": [
     {
-      "date": "2026-10-19",
-      "tag": "FIN",
-      "headline": "Geneva trader automates trade finance paperwork with AI",
-      "summary": "Centalion (formerly Gunvor) deployed an AI agent that drafts bank guarantees and other trade finance instruments from plain-language instructions, cutting issuance time roughly 55% and amendment time about 80% on its first facility, per PYMNTS."
+      "date": "2026-10-21",
+      "tag": "CTRM",
+      "headline": "Value Creed launches RADAR analytics tool",
+      "summary": "Value Creed introduced RADAR, a new tool aimed at converting the large data volumes held in E/CTRM, ERP and market systems into actionable trading intelligence, according to CTRM Center."
     },
     {
-      "date": "2026-10-13",
-      "tag": "CTRM",
-      "headline": "Mitsubishi Electric deal reshapes ETRM vendor landscape",
-      "summary": "Mitsubishi Electric's acquisition of PCI Energy Solutions is prompting ETRM/CTRM vendor owners to reassess valuations and exit strategies, according to CTRM Center analysis, as the deal signals strong strategic interest in specialist energy software."
+      "date": "2026-10-21",
+      "tag": "FIN",
+      "headline": "BRAC Bank rolls out digital trade finance platform",
+      "summary": "Bangladesh's BRAC Bank launched a new digital trade finance platform built with Finastra's Trade Innovation and Corporate Channels plus Conpend's Trade AI technology, unifying previously fragmented corporate trade workflows."
     },
     {
       "date": "2026-10-20",
       "tag": "LOG",
-      "headline": "Container freight rates surge on Middle East tensions",
-      "summary": "Global container freight rates have climbed roughly 130% since February, with a Jefferies-cited report showing tracked rates rising from about $2,000-2,500 to $4,000-4,500 as renewed Middle East tensions disrupt shipping routes."
+      "headline": "Red Sea container traffic edges toward full return",
+      "summary": "Freightos reports more container vessels are returning to the Red Sea despite continued Houthi attack risk, with a full normalization of transit expected by Q1, even as oil prices hover near $100/bbl."
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "tag": "REG",
-      "headline": "FIA pushes back on ESMA's EMIR 7d reporting plan",
-      "summary": "FIA submitted comments urging ESMA to adopt a targeted, proportionate approach to the proposed EMIR Article 7d reporting framework, warning against duplicative reporting requirements for market participants including commodity derivatives users."
+      "headline": "EMIR REFIT shifts focus to data quality",
+      "summary": "With EMIR REFIT go-live now complete, EU supervisors are pressing firms to prove derivatives reports are accurate and well-controlled, not just technically accepted by trade repositories, per EIMF."
     }
   ]
 }
