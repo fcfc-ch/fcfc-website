@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-21T10:56:37Z",
+  "generated_at": "2026-10-23T10:48:23Z",
   "items": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-13",
       "tag": "CTRM",
-      "headline": "Value Creed launches RADAR analytics tool",
-      "summary": "Value Creed introduced RADAR, a new tool aimed at converting the large data volumes held in E/CTRM, ERP and market systems into actionable trading intelligence, according to CTRM Center."
+      "headline": "Mitsubishi Electric's PCI deal stirs ETRM M&A",
+      "summary": "Commentary following Mitsubishi Electric's acquisition of PCI Energy Solutions is prompting ETRM and CTRM vendor owners to reassess valuations and consolidation strategy across the sector."
     },
     {
       "date": "2026-10-21",
       "tag": "FIN",
-      "headline": "BRAC Bank rolls out digital trade finance platform",
-      "summary": "Bangladesh's BRAC Bank launched a new digital trade finance platform built with Finastra's Trade Innovation and Corporate Channels plus Conpend's Trade AI technology, unifying previously fragmented corporate trade workflows."
+      "headline": "BRAC Bank goes live with Finastra trade platform",
+      "summary": "BRAC Bank in Bangladesh launched a digital trade finance platform combining Finastra's Trade Innovation and Corporate Channels with Conpend's Trade AI tools to unify previously fragmented corporate trade processes."
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "tag": "LOG",
-      "headline": "Red Sea container traffic edges toward full return",
-      "summary": "Freightos reports more container vessels are returning to the Red Sea despite continued Houthi attack risk, with a full normalization of transit expected by Q1, even as oil prices hover near $100/bbl."
+      "headline": "Container freight rates hit 15-week high",
+      "summary": "Drewry's World Container Index rose to a 15-week high, driven by sharp increases on Asia-Europe lanes, as carriers cancel sailings and tanker traffic near Hormuz faces continued disruption and longer routing."
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-22",
       "tag": "REG",
-      "headline": "EMIR REFIT shifts focus to data quality",
-      "summary": "With EMIR REFIT go-live now complete, EU supervisors are pressing firms to prove derivatives reports are accurate and well-controlled, not just technically accepted by trade repositories, per EIMF."
+      "headline": "ACER updates REMIT-EMIR reporting overlap rules",
+      "summary": "ACER is revising guidance on which energy derivative trades must be reported under REMIT versus EMIR following the 2024 REMIT revision, aiming to cut duplicate reporting and improve EU-wide data consistency."
     }
   ]
 }
