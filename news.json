@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-23T10:48:23Z",
+  "generated_at": "2026-10-26T12:00:12Z",
   "items": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "tag": "CTRM",
-      "headline": "Mitsubishi Electric's PCI deal stirs ETRM M&A",
-      "summary": "Commentary following Mitsubishi Electric's acquisition of PCI Energy Solutions is prompting ETRM and CTRM vendor owners to reassess valuations and consolidation strategy across the sector."
+      "headline": "Energy One recurring revenue climbs in FY2026",
+      "summary": "Energy One reported FY2026 recurring revenue up 17% to roughly A$63.5 million, with larger energy trading implementation projects moving toward go-live, according to CTRM Center coverage."
     },
     {
-      "date": "2026-10-21",
-      "tag": "FIN",
-      "headline": "BRAC Bank goes live with Finastra trade platform",
-      "summary": "BRAC Bank in Bangladesh launched a digital trade finance platform combining Finastra's Trade Innovation and Corporate Channels with Conpend's Trade AI tools to unify previously fragmented corporate trade processes."
-    },
-    {
-      "date": "2026-10-22",
-      "tag": "LOG",
-      "headline": "Container freight rates hit 15-week high",
-      "summary": "Drewry's World Container Index rose to a 15-week high, driven by sharp increases on Asia-Europe lanes, as carriers cancel sailings and tanker traffic near Hormuz faces continued disruption and longer routing."
-    },
-    {
-      "date": "2026-10-22",
+      "date": "2026-10-14",
       "tag": "REG",
-      "headline": "ACER updates REMIT-EMIR reporting overlap rules",
-      "summary": "ACER is revising guidance on which energy derivative trades must be reported under REMIT versus EMIR following the 2024 REMIT revision, aiming to cut duplicate reporting and improve EU-wide data consistency."
+      "headline": "REMIT II reporting duties take effect April 2026",
+      "summary": "REMIT II introduces three reporting tiers with shorter deadlines, including bilateral OTC contracts due within 10 working days instead of a month, plus new exposure reporting above 600 GWh starting Q1 2027."
+    },
+    {
+      "date": "2026-10-25",
+      "tag": "LOG",
+      "headline": "VLCC freight rates now drive crude price spreads",
+      "summary": "VLCC freight rates for US Gulf Coast-to-Asia crude cargoes have jumped to $30-35 per barrel from about $5 in 2025, meaning shipping costs, not supply alone, now shape who profits from crude trades."
+    },
+    {
+      "date": "2026-10-24",
+      "tag": "FIN",
+      "headline": "JPMorgan expands India trade finance partnership",
+      "summary": "JPMorgan Payments is widening its risk-sharing partnership with the Asian Development Bank to improve working capital and trade finance access for businesses across India."
     }
   ]
 }
