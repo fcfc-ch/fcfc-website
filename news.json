@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-26T12:00:12Z",
+  "generated_at": "2026-10-27T11:21:01Z",
   "items": [
     {
       "date": "2026-10-14",
       "tag": "CTRM",
-      "headline": "Energy One recurring revenue climbs in FY2026",
-      "summary": "Energy One reported FY2026 recurring revenue up 17% to roughly A$63.5 million, with larger energy trading implementation projects moving toward go-live, according to CTRM Center coverage."
+      "headline": "Energy One grows as ETRM consolidation accelerates",
+      "summary": "Energy One reported FY2026 recurring revenue up sharply as larger trading platform rollouts reached go-live, while commentators flagged Mitsubishi Electric's acquisition of PCI Energy Solutions as a sign of continued ETRM/CTRM vendor consolidation."
+    },
+    {
+      "date": "2026-10-26",
+      "tag": "FIN",
+      "headline": "BRAC Bank digitises trade finance with Finastra, Conpend",
+      "summary": "Bangladesh's BRAC Bank went live on Finastra's Trade Innovation and Corporate Channels alongside Conpend's Trade AI, letting corporate clients initiate, approve and track trade transactions on one digital channel."
     },
     {
       "date": "2026-10-14",
       "tag": "REG",
-      "headline": "REMIT II reporting duties take effect April 2026",
-      "summary": "REMIT II introduces three reporting tiers with shorter deadlines, including bilateral OTC contracts due within 10 working days instead of a month, plus new exposure reporting above 600 GWh starting Q1 2027."
+      "headline": "REMIT II reporting duties take effect this spring",
+      "summary": "New REMIT II rules applying from 29 April 2026 introduce three reporting tiers, cut the deadline for bilateral OTC contract reports to 10 working days, and extend scope to hydrogen, storage and algorithmic trading, with exposure reporting above 600 GWh planned from Q1 2027."
     },
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "tag": "LOG",
-      "headline": "VLCC freight rates now drive crude price spreads",
-      "summary": "VLCC freight rates for US Gulf Coast-to-Asia crude cargoes have jumped to $30-35 per barrel from about $5 in 2025, meaning shipping costs, not supply alone, now shape who profits from crude trades."
-    },
-    {
-      "date": "2026-10-24",
-      "tag": "FIN",
-      "headline": "JPMorgan expands India trade finance partnership",
-      "summary": "JPMorgan Payments is widening its risk-sharing partnership with the Asian Development Bank to improve working capital and trade finance access for businesses across India."
+      "headline": "Shanghai exchange adds new container freight benchmarks",
+      "summary": "The Shanghai Shipping Exchange officially launched seven additional Shanghai Containerized Freight Index benchmarks covering major trade lanes and rolled out a revised 2026 index-linked container contract template for carriers and cargo owners."
     }
   ]
 }
