@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-27T11:21:01Z",
+  "generated_at": "2026-10-28T11:55:07Z",
   "items": [
     {
-      "date": "2026-10-14",
-      "tag": "CTRM",
-      "headline": "Energy One grows as ETRM consolidation accelerates",
-      "summary": "Energy One reported FY2026 recurring revenue up sharply as larger trading platform rollouts reached go-live, while commentators flagged Mitsubishi Electric's acquisition of PCI Energy Solutions as a sign of continued ETRM/CTRM vendor consolidation."
-    },
-    {
-      "date": "2026-10-26",
+      "date": "2026-10-19",
       "tag": "FIN",
-      "headline": "BRAC Bank digitises trade finance with Finastra, Conpend",
-      "summary": "Bangladesh's BRAC Bank went live on Finastra's Trade Innovation and Corporate Channels alongside Conpend's Trade AI, letting corporate clients initiate, approve and track trade transactions on one digital channel."
+      "headline": "Finastra launches cloud SBLC tool for banks",
+      "summary": "Finastra rolled out StandbyX, a SaaS platform letting regional and mid-sized banks automate standby letter of credit processing without deploying a full trade finance system, per Trade Finance Global."
     },
     {
-      "date": "2026-10-14",
-      "tag": "REG",
-      "headline": "REMIT II reporting duties take effect this spring",
-      "summary": "New REMIT II rules applying from 29 April 2026 introduce three reporting tiers, cut the deadline for bilateral OTC contract reports to 10 working days, and extend scope to hydrogen, storage and algorithmic trading, with exposure reporting above 600 GWh planned from Q1 2027."
+      "date": "2026-10-13",
+      "tag": "CTRM",
+      "headline": "PCI Energy deal stirs ETRM consolidation debate",
+      "summary": "Industry analysts at CTRM Center are questioning whether Mitsubishi Electric's acquisition of PCI Energy Solutions is reshaping valuation and consolidation expectations across the ETRM vendor landscape."
     },
     {
       "date": "2026-10-26",
       "tag": "LOG",
-      "headline": "Shanghai exchange adds new container freight benchmarks",
-      "summary": "The Shanghai Shipping Exchange officially launched seven additional Shanghai Containerized Freight Index benchmarks covering major trade lanes and rolled out a revised 2026 index-linked container contract template for carriers and cargo owners."
+      "headline": "Dry bulk routes shift on grain, iron ore moves",
+      "summary": "A weekly commodity freight briefing flagged reduced Russian and US wheat export availability, Saldanha iron ore loading delays after rail maintenance, and firmer US soybean and corn export activity reshaping bulk carrier deployment."
+    },
+    {
+      "date": "2026-10-09",
+      "tag": "REG",
+      "headline": "FIA pushes for simpler EMIR 7d reporting",
+      "summary": "FIA submitted comments to ESMA on its proposed EMIR Article 7d reporting framework, advocating a targeted, proportionate approach to avoid duplicative derivatives reporting for commodity market participants."
     }
   ]
 }
