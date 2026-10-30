@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-28T11:55:07Z",
+  "generated_at": "2026-10-30T11:56:18Z",
   "items": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-21",
+      "tag": "CTRM",
+      "headline": "Value Creed launches RADAR data analytics tool",
+      "summary": "Value Creed's new RADAR platform targets commodity firms' fragmented ETRM, ERP and market-data systems, aiming to turn accumulated trading data into usable intelligence per CTRM Center."
+    },
+    {
+      "date": "2026-10-23",
       "tag": "FIN",
-      "headline": "Finastra launches cloud SBLC tool for banks",
-      "summary": "Finastra rolled out StandbyX, a SaaS platform letting regional and mid-sized banks automate standby letter of credit processing without deploying a full trade finance system, per Trade Finance Global."
+      "headline": "BRAC Bank overhauls trade finance tech stack",
+      "summary": "BRAC Bank is revamping its trade finance operations using Finastra and Conpend technology, part of a broader push by banks to modernize legacy trade finance infrastructure, per FinTech Futures."
+    },
+    {
+      "date": "2026-10-30",
+      "tag": "LOG",
+      "headline": "Hormuz tanker attack lifts oil, supply risk",
+      "summary": "Reuters reports oil prices rose and were on track for a fourth monthly gain after a tanker attack near the Strait of Hormuz renewed concerns over seaborne supply disruption."
     },
     {
       "date": "2026-10-13",
-      "tag": "CTRM",
-      "headline": "PCI Energy deal stirs ETRM consolidation debate",
-      "summary": "Industry analysts at CTRM Center are questioning whether Mitsubishi Electric's acquisition of PCI Energy Solutions is reshaping valuation and consolidation expectations across the ETRM vendor landscape."
-    },
-    {
-      "date": "2026-10-26",
-      "tag": "LOG",
-      "headline": "Dry bulk routes shift on grain, iron ore moves",
-      "summary": "A weekly commodity freight briefing flagged reduced Russian and US wheat export availability, Saldanha iron ore loading delays after rail maintenance, and firmer US soybean and corn export activity reshaping bulk carrier deployment."
-    },
-    {
-      "date": "2026-10-09",
       "tag": "REG",
-      "headline": "FIA pushes for simpler EMIR 7d reporting",
-      "summary": "FIA submitted comments to ESMA on its proposed EMIR Article 7d reporting framework, advocating a targeted, proportionate approach to avoid duplicative derivatives reporting for commodity market participants."
+      "headline": "EMIR REFIT shifts focus to reporting quality",
+      "summary": "With EMIR REFIT go-live complete, regulators and firms are now scrutinizing whether derivatives reports are accurate and properly controlled, not just successfully transmitted, per EIMF Academy."
     }
   ]
 }
