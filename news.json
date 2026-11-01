@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-30T11:56:18Z",
+  "generated_at": "2026-11-01T12:26:47Z",
   "items": [
     {
       "date": "2026-10-21",
       "tag": "CTRM",
-      "headline": "Value Creed launches RADAR data analytics tool",
-      "summary": "Value Creed's new RADAR platform targets commodity firms' fragmented ETRM, ERP and market-data systems, aiming to turn accumulated trading data into usable intelligence per CTRM Center."
+      "headline": "Value Creed launches RADAR data intelligence tool",
+      "summary": "Value Creed introduced RADAR, a tool aimed at turning the vast data commodity traders generate into actionable intelligence, according to CTRM Center coverage of the vendor's latest release."
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-31",
       "tag": "FIN",
-      "headline": "BRAC Bank overhauls trade finance tech stack",
-      "summary": "BRAC Bank is revamping its trade finance operations using Finastra and Conpend technology, part of a broader push by banks to modernize legacy trade finance infrastructure, per FinTech Futures."
+      "headline": "BRAC Bank goes live on Finastra trade finance stack",
+      "summary": "Bangladesh's BRAC Bank completed a go-live on Finastra's Trade Innovation and Corporate Channels platform, also deploying Conpend's Trade AI orchestration tool to digitise trade finance operations."
     },
     {
       "date": "2026-10-30",
       "tag": "LOG",
-      "headline": "Hormuz tanker attack lifts oil, supply risk",
-      "summary": "Reuters reports oil prices rose and were on track for a fourth monthly gain after a tanker attack near the Strait of Hormuz renewed concerns over seaborne supply disruption."
+      "headline": "LA/Long Beach strike risk threatens import flows",
+      "summary": "A possible watchmen strike at Los Angeles and Long Beach ports could halt terminal operations handling most of the complex's cargo, with no labor deal announced as of October 30, per a logistics industry weekly freight report."
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-09-11",
       "tag": "REG",
-      "headline": "EMIR REFIT shifts focus to reporting quality",
-      "summary": "With EMIR REFIT go-live complete, regulators and firms are now scrutinizing whether derivatives reports are accurate and properly controlled, not just successfully transmitted, per EIMF Academy."
+      "headline": "EACH responds to REMIT-EMIR reporting guideline",
+      "summary": "The European clearinghouse association EACH submitted feedback on ACER's draft guideline aligning REMIT and EMIR transaction reporting, supporting the goal of reducing duplicative compliance burdens while flagging areas needing clarification for CCPs."
     }
   ]
 }
