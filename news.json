@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-01T12:26:47Z",
+  "generated_at": "2026-11-03T13:23:04Z",
   "items": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-15",
       "tag": "CTRM",
-      "headline": "Value Creed launches RADAR data intelligence tool",
-      "summary": "Value Creed introduced RADAR, a tool aimed at turning the vast data commodity traders generate into actionable intelligence, according to CTRM Center coverage of the vendor's latest release."
+      "headline": "OneCore Global patents electronic confirmation format",
+      "summary": "OneCore Global announced a US patent grant covering dynamic-format electronic trade confirmations, per CTRM Center, a step that could affect how CTRM vendors handle automated deal confirmations."
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "tag": "FIN",
-      "headline": "BRAC Bank goes live on Finastra trade finance stack",
-      "summary": "Bangladesh's BRAC Bank completed a go-live on Finastra's Trade Innovation and Corporate Channels platform, also deploying Conpend's Trade AI orchestration tool to digitise trade finance operations."
+      "headline": "Geneva fintech expands commodity trade finance tools",
+      "summary": "Swiss-based FINATRADES Finance SA rolled out three integrated products – FINABRIDGE, FINASWAP and RPAY – covering import financing, gold/commodity-based settlement and cross-border payments, aimed at narrowing the global trade finance gap."
     },
     {
-      "date": "2026-10-30",
-      "tag": "LOG",
-      "headline": "LA/Long Beach strike risk threatens import flows",
-      "summary": "A possible watchmen strike at Los Angeles and Long Beach ports could halt terminal operations handling most of the complex's cargo, with no labor deal announced as of October 30, per a logistics industry weekly freight report."
-    },
-    {
-      "date": "2026-09-11",
+      "date": "2026-10-21",
       "tag": "REG",
-      "headline": "EACH responds to REMIT-EMIR reporting guideline",
-      "summary": "The European clearinghouse association EACH submitted feedback on ACER's draft guideline aligning REMIT and EMIR transaction reporting, supporting the goal of reducing duplicative compliance burdens while flagging areas needing clarification for CCPs."
+      "headline": "ESMA reporting review leaves REMIT scope undecided",
+      "summary": "An ESMA-led holistic review of EU transaction reporting is prioritising fixes to dual-sided EMIR/SFTR reporting, while the option to fold REMIT into a \"report once\" regime has been dropped from the immediate cost-benefit analysis, per KOR Financial."
+    },
+    {
+      "date": "2026-11-02",
+      "tag": "LOG",
+      "headline": "Baltic Dry Index slips on weaker vessel rates",
+      "summary": "The Baltic Exchange's main dry-bulk freight index fell to its lowest level in nearly a week, with Capesize and Panamax rates easing even as iron ore prices stabilised on steadier Chinese demand, per Baird Maritime."
     }
   ]
 }
