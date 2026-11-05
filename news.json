@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-03T13:23:04Z",
+  "generated_at": "2026-11-05T13:48:06Z",
   "items": [
     {
-      "date": "2026-10-15",
+      "date": "2026-11-04",
       "tag": "CTRM",
-      "headline": "OneCore Global patents electronic confirmation format",
-      "summary": "OneCore Global announced a US patent grant covering dynamic-format electronic trade confirmations, per CTRM Center, a step that could affect how CTRM vendors handle automated deal confirmations."
+      "headline": "Zema Global adds OTC energy data via Arrow",
+      "summary": "Zema Global partnered with Arrow Energy Markets to feed AEM's OTC energy market data directly into Zema's Decisioning Infrastructure, giving commodity firms broader market intelligence inside existing workflows."
     },
     {
-      "date": "2026-11-02",
-      "tag": "FIN",
-      "headline": "Geneva fintech expands commodity trade finance tools",
-      "summary": "Swiss-based FINATRADES Finance SA rolled out three integrated products – FINABRIDGE, FINASWAP and RPAY – covering import financing, gold/commodity-based settlement and cross-border payments, aimed at narrowing the global trade finance gap."
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-11-10",
       "tag": "REG",
-      "headline": "ESMA reporting review leaves REMIT scope undecided",
-      "summary": "An ESMA-led holistic review of EU transaction reporting is prioritising fixes to dual-sided EMIR/SFTR reporting, while the option to fold REMIT into a \"report once\" regime has been dropped from the immediate cost-benefit analysis, per KOR Financial."
+      "headline": "EMIR 3 clearing thresholds take effect",
+      "summary": "New EU clearing threshold rules under EMIR 3 enter into force, merging commodity and emission-allowance derivatives into one combined category and shifting NFC calculations to entity level, requiring traders to revisit threshold methodology before the deadline."
+    },
+    {
+      "date": "2026-11-04",
+      "tag": "FIN",
+      "headline": "IFC, Citi launch $2bn trade finance facility",
+      "summary": "IFC and Citi announced a $2bn risk-sharing trade finance facility for emerging-market corporates and SMEs, with IFC guaranteeing up to half the risk on eligible transactions across Africa, Asia and Latin America."
     },
     {
       "date": "2026-11-02",
       "tag": "LOG",
-      "headline": "Baltic Dry Index slips on weaker vessel rates",
-      "summary": "The Baltic Exchange's main dry-bulk freight index fell to its lowest level in nearly a week, with Capesize and Panamax rates easing even as iron ore prices stabilised on steadier Chinese demand, per Baird Maritime."
+      "headline": "Forwarders consolidate as freight market shifts",
+      "summary": "Scan Global Logistics agreed to acquire OIA Global, creating a combined forwarding group with over $3.6bn in gross logistics revenue, part of continued consolidation as shippers face uneven freight demand into 2027."
     }
   ]
 }
