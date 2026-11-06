@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-05T13:48:06Z",
+  "generated_at": "2026-11-06T13:32:00Z",
   "items": [
     {
       "date": "2026-11-04",
       "tag": "CTRM",
-      "headline": "Zema Global adds OTC energy data via Arrow",
-      "summary": "Zema Global partnered with Arrow Energy Markets to feed AEM's OTC energy market data directly into Zema's Decisioning Infrastructure, giving commodity firms broader market intelligence inside existing workflows."
-    },
-    {
-      "date": "2026-11-10",
-      "tag": "REG",
-      "headline": "EMIR 3 clearing thresholds take effect",
-      "summary": "New EU clearing threshold rules under EMIR 3 enter into force, merging commodity and emission-allowance derivatives into one combined category and shifting NFC calculations to entity level, requiring traders to revisit threshold methodology before the deadline."
+      "headline": "capSpire posts strong growth on ETRM demand",
+      "summary": "Per CTRM Center, capSpire is experiencing a strong year of growth, supported by two strategic acquisitions, expanding demand for ETRM services and AI initiatives among trading firms."
     },
     {
       "date": "2026-11-04",
       "tag": "FIN",
-      "headline": "IFC, Citi launch $2bn trade finance facility",
-      "summary": "IFC and Citi announced a $2bn risk-sharing trade finance facility for emerging-market corporates and SMEs, with IFC guaranteeing up to half the risk on eligible transactions across Africa, Asia and Latin America."
+      "headline": "IFC and Citi launch $2bn trade finance facility",
+      "summary": "IFC and Citi announced a $2bn trade finance facility to expand access to financing for companies in Africa, Asia and Latin America, with IFC providing guarantees of up to $1bn matched by Citi over three years."
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-29",
+      "tag": "REG",
+      "headline": "ACER issues updated REMIT reporting manual",
+      "summary": "ACER published TRUM v8.0 and related REMIT reporting guidance, including updated XML schemas and exposure reporting rules, reflecting the revised REMIT II implementing framework."
+    },
+    {
+      "date": "2026-10-10",
       "tag": "LOG",
-      "headline": "Forwarders consolidate as freight market shifts",
-      "summary": "Scan Global Logistics agreed to acquire OIA Global, creating a combined forwarding group with over $3.6bn in gross logistics revenue, part of continued consolidation as shippers face uneven freight demand into 2027."
+      "headline": "Freight forwarder adds AI assistant connector",
+      "summary": "Freight Right launched a Model Context Protocol connector enabling shippers to quote, track, book and manage freight shipments directly through AI assistants such as Claude."
     }
   ]
 }
