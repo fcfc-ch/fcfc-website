@@ -160,6 +160,107 @@ a { color: inherit; }
   line-height: 1.55;
 }
 
+.service-link {
+  display: inline-block;
+  margin-top: 14px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid var(--hairline);
+}
+.service-link:hover { color: var(--red); border-color: var(--red); }
+.service-links { display: flex; flex-wrap: wrap; gap: 0 20px; }
+.region-alt { background: var(--paper-dim); }
+.region-alt .counterparty { border-color: rgba(10,47,82,0.18); }
+
+/* ---------- West Africa desk ---------- */
+.region { padding: 64px 0 56px; }
+.region-title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(26px, 3.4vw, 34px);
+  line-height: 1.15;
+  color: var(--blue);
+  margin: 0 0 14px;
+}
+.region-intro {
+  font-size: 16px;
+  color: var(--graphite-60);
+  max-width: 60ch;
+  margin: 0 0 40px;
+}
+.country { margin-bottom: 40px; }
+.country-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--blue);
+}
+.country-code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--red);
+}
+.country-head h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 22px;
+  margin: 0;
+  color: var(--blue);
+}
+.country-focus {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--gray);
+  margin-left: auto;
+}
+.counterparty {
+  display: grid;
+  grid-template-columns: minmax(0, 300px) 1fr;
+  gap: 8px 32px;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+.cp-name h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 16.5px;
+  line-height: 1.3;
+  margin: 0 0 8px;
+  color: var(--graphite);
+}
+.cp-tag {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--blue);
+  border: 1px solid var(--hairline);
+  padding: 2px 7px;
+  border-radius: 2px;
+}
+.counterparty p {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: var(--graphite-60);
+}
+.region-cta {
+  margin: 8px 0 0;
+  font-size: 15px;
+  color: var(--graphite);
+}
+.region-cta a { color: var(--blue); font-weight: 600; text-decoration-color: var(--hairline); text-underline-offset: 3px; }
+.region-cta a:hover { color: var(--red); }
+
 .about { padding: 56px 0; }
 .about-grid { max-width: 960px; }
 .about-text {
@@ -319,6 +420,9 @@ a { color: inherit; }
 
 @media (max-width: 760px) {
   .services-grid { grid-template-columns: 1fr; }
+  .counterparty { grid-template-columns: 1fr; }
+  .country-focus { margin-left: 0; flex-basis: 100%; }
+  .region { padding: 48px 0 40px; }
   .ledger-row {
     grid-template-columns: auto 1fr;
     grid-template-areas: "tag tag" "date date" "headline headline" "summary summary";
