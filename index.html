@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20261107c">
+<link rel="stylesheet" href="assets/style.css?v=20261107d">
 <link rel="icon" href="assets/favicon/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
@@ -16,21 +16,43 @@
 </head>
 <body>
 
-<header class="hero">
-  <div class="wrap">
-    <div class="hero-top">
-      <div class="brand-row">
-        <img class="logo" src="assets/logo.png" alt="FCFC — FC Finance Consulting GmbH">
-        <span class="logo-caption">FC Finance Consulting GmbH</span>
+<nav class="topbar" aria-label="Main">
+  <div class="wrap topbar-inner">
+    <a class="topbar-brand" href="#top" aria-label="FC Finance Consulting GmbH — home">
+      <img class="topbar-logo" src="assets/logo-mark.png" alt="FCFC" width="480" height="137">
+      <span class="topbar-name">FC Finance Consulting <span>GmbH</span></span>
+    </a>
+    <div class="topbar-links">
+      <a href="#services">Services</a>
+      <a href="#footprint">Where we work</a>
+      <a href="#banks">Trade finance</a>
+      <a href="#news">Desk notes</a>
+    </div>
+    <a class="btn btn-small" href="mailto:info@fcfc.ch">Contact</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <div class="eyebrow"><span class="eyebrow-flag" aria-hidden="true"></span>Zug, Switzerland · Commodity advisory</div>
+      <h1 class="hero-headline">Trade operations &amp; compliance advisory for commodity businesses.</h1>
+      <p class="hero-lede">We work close to the trade desk — building CTRM systems, running the trade lifecycle, keeping regulatory reporting clean, and opening new markets from West Africa to Asia.</p>
+      <div class="hero-actions">
+        <a class="btn" href="mailto:info@fcfc.ch?subject=Enquiry">Discuss a mandate</a>
+        <a class="btn btn-ghost" href="#footprint">Where we work &rarr;</a>
       </div>
-      <h1 class="hero-headline">Trade operations &amp; compliance advisory<br>for commodity businesses.</h1>
     </div>
-    <div class="hero-rule"></div>
-    <div class="hero-meta">
-      <span>ZUG, SWITZERLAND</span>
-      <span class="dot">·</span>
-      <span>DIGITAL · TRADE LIFECYCLE · EMIR/REMIT · BUSINESS DEVELOPMENT · WEST AFRICA · ASIA · TÜRKIYE · CASPIAN</span>
-    </div>
+    <dl class="hero-facts">
+      <div class="fact"><dt>20+</dt><dd>years in physical &amp; financial commodity trading operations</dd></div>
+      <div class="fact"><dt>2</dt><dd>CTRM systems built from the ground up</dd></div>
+      <div class="fact"><dt>10</dt><dd>countries across Europe, West Africa, the Gulf and Asia</dd></div>
+    </dl>
+  </div>
+  <div class="wrap">
+    <ul class="hero-tags" aria-label="Practice areas">
+      <li>CTRM &amp; digital</li><li>Trade lifecycle</li><li>EMIR / REMIT</li><li>Business development</li><li>Trade finance</li>
+    </ul>
   </div>
 </header>
 
