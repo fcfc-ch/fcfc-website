@@ -22,29 +22,51 @@ import anthropic
 
 MODEL = "claude-sonnet-5"
 NEWS_PATH = os.path.join(os.path.dirname(__file__), "..", "news.json")
-NUM_ITEMS = 4
+NUM_ITEMS = 6
+MIN_COMPANY_ITEMS = 3
+
+# Organisations named on fcfc.ch — keep in sync with the West Africa, Asia and banking sections.
+COMPANIES = [
+    "NNPC Ltd", "Afreximbank", "Ghana Gold Board (GoldBod)",
+    "Ghana Ministry of Lands and Natural Resources", "Stanbic Bank Ghana", "Zenith Bank Ghana",
+    "Reliance Industries", "Indian Oil Corporation", "HPCL", "BPCL",
+    "PETRONAS / PETCO", "Pertamina Patra Niaga", "Chandra Asri Pacific",
+    "SOCAR STAR Refinery", "Tüpraş", "Nakkaş Holding", "SOCAR",
+    "BCP Banque de Commerce et de Placements", "Arab Bank (Switzerland)",
+    "Raiffeisen Bank International", "First Abu Dhabi Bank (FAB)",
+]
 
 SYSTEM_PROMPT = f"""You are drafting short "trade desk notes" for the website of a Swiss \
-commodity trading operations & compliance consultancy (FC Finance Consulting GmbH, Zug).
+commodity advisory firm (FC Finance Consulting GmbH, Zug) covering business development, \
+trade finance and trading operations.
 
-Use web search to find genuinely recent developments (last ~7 days where possible) in:
-- commodity trading technology (CTRM/ETRM systems, trading platforms, data/analytics tools)
-- trade financing (commodity trade finance, structured finance, letters of credit, fintech)
-- logistics relevant to commodity trading (freight, shipping, warehousing, supply chain)
-- CTRM implementations, vendors, or regulatory/compliance developments (e.g. EMIR, REMIT)
+Use web search to find genuinely recent developments (last ~7 days where possible).
 
-Then output EXACTLY {NUM_ITEMS} items as a JSON array. For each item:
+PART A — at least {MIN_COMPANY_ITEMS} items about these organisations the firm works with:
+{", ".join(COMPANIES)}.
+Good topics: tenders, supply or offtake deals, financing facilities, refinery or trading news,
+licensing or regulatory decisions, results that matter to commodity flows.
+
+PART B — the remaining items on:
+- commodity trade finance and structured finance
+- commodity trading technology (CTRM/ETRM) and operations
+- logistics and regulation relevant to commodity trading
+
+Output EXACTLY {NUM_ITEMS} items as a JSON array. For each item:
 - "date": the item's date in YYYY-MM-DD format (use today's date if unclear)
-- "tag": ONE short uppercase label, 3-5 characters (e.g. "CTRM", "OPS", "REG", "FIN", "LOG")
-- "headline": under 8 words, plain and specific, no clickbait
-- "summary": 1-2 sentences, under 40 words, written entirely in your own words (never copy
-  wording from a source). If useful, name the source organization in prose (e.g. "per Reuters"),
-  but never quote it directly.
+- "tag": ONE short uppercase label, 2-5 characters (e.g. "NOC", "BANK", "GOLD", "FIN", "CTRM", "LOG", "REG")
+- "company": the organisation from the list above if the item is about one, otherwise ""
+- "headline": under 9 words, plain and specific, no clickbait (English)
+- "summary": 1-2 sentences, under 40 words, entirely in your own words (English). Never copy
+  wording from a source; you may name the source organisation in prose but never quote it.
+- "url": the https URL of the main source you used (a page you actually found), or ""
+- "i18n": translations of headline and summary, in the same neutral business register:
+  {{"de": {{"headline": "...", "summary": "..."}}, "fr": {{...}}, "it": {{...}}}}
+  German uses Swiss spelling (ss instead of ß).
 
 Rules:
-- Do not fabricate specifics (numbers, names, dates) you did not find via search.
-- Prefer substance a commodity trading operations professional would find useful over generic
-  market commentary.
+- Do not fabricate specifics (numbers, names, dates, URLs) you did not find via search.
+- If you cannot find recent news for a listed organisation, skip it; never invent an item.
 - Output ONLY the JSON array. No prose, no markdown code fences, no preamble.
 """
 
@@ -72,10 +94,10 @@ def main():
 
     response = client.messages.create(
         model=MODEL,
-        max_tokens=1500,
+        max_tokens=8000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": USER_PROMPT}],
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 6}],
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 10}],
     )
 
     text_blocks = [b.text for b in response.content if getattr(b, "type", None) == "text"]
@@ -88,11 +110,26 @@ def main():
     for raw in items[:NUM_ITEMS]:
         if not isinstance(raw, dict):
             continue
+        url = str(raw.get("url", "")).strip()
+        if not url.startswith("https://"):
+            url = ""
+        i18n = {}
+        raw_i18n = raw.get("i18n") if isinstance(raw.get("i18n"), dict) else {}
+        for lang in ("de", "fr", "it"):
+            t = raw_i18n.get(lang)
+            if isinstance(t, dict) and t.get("headline") and t.get("summary"):
+                i18n[lang] = {
+                    "headline": str(t["headline"]).strip(),
+                    "summary": str(t["summary"]).strip(),
+                }
         clean_items.append({
             "date": str(raw.get("date", ""))[:10],
             "tag": str(raw.get("tag", "NOTE")).upper()[:6],
+            "company": str(raw.get("company", "")).strip(),
             "headline": str(raw.get("headline", "")).strip(),
             "summary": str(raw.get("summary", "")).strip(),
+            "url": url,
+            "i18n": i18n,
         })
 
     if not clean_items:
