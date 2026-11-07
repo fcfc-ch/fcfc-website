@@ -175,6 +175,81 @@ a { color: inherit; }
 .region-alt { background: var(--paper-dim); }
 .region-alt .counterparty { border-color: rgba(10,47,82,0.18); }
 
+/* ---------- Footprint map ---------- */
+.footprint {
+  background: var(--blue-deep);
+  color: #fff;
+  padding: 64px 0 56px;
+  margin-top: 48px;
+}
+.footprint-title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(24px, 3.2vw, 32px);
+  line-height: 1.18;
+  margin: 0 0 12px;
+  color: #fff;
+  max-width: 24ch;
+}
+.footprint-sub {
+  font-size: 15px;
+  color: rgba(255,255,255,0.68);
+  max-width: 58ch;
+  margin: 0 0 28px;
+}
+.map-frame {
+  border-top: 1px solid var(--hairline-dark);
+  border-bottom: 1px solid var(--hairline-dark);
+  padding: 8px 0;
+}
+.map-svg { display: block; width: 100%; height: auto; overflow: visible; }
+.m-land   { fill: rgba(255,255,255,0.09); stroke: var(--blue-deep); stroke-width: 0.5; }
+.m-active { fill: #1E6BB8; stroke: var(--blue-deep); stroke-width: 0.6; }
+.m-arc    { fill: none; stroke: rgba(255,255,255,0.35); stroke-width: 1; stroke-dasharray: 3 4; }
+.m-dot    { fill: var(--red); stroke: #fff; stroke-width: 1.5; }
+.m-hub .m-dot { fill: #fff; stroke: var(--red); stroke-width: 3; }
+.m-pulse  { fill: var(--red); opacity: 0.5; transform-box: fill-box; transform-origin: center; animation: mpulse 2.6s ease-out infinite; }
+.m-hub .m-pulse { fill: #fff; }
+@keyframes mpulse { 0% { transform: scale(1); opacity: 0.55; } 80%, 100% { transform: scale(3.2); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .m-pulse { animation: none; opacity: 0; } }
+.m-label  { font-family: var(--font-body); font-weight: 600; font-size: 13px; fill: #fff; paint-order: stroke; stroke: var(--blue-deep); stroke-width: 3px; stroke-linejoin: round; }
+.m-sub    { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.02em; fill: rgba(255,255,255,0.7); paint-order: stroke; stroke: var(--blue-deep); stroke-width: 3px; stroke-linejoin: round; }
+.m-pt { cursor: pointer; }
+.m-pt:hover .m-label, .m-pt:focus-visible .m-label { fill: #FF8A8D; }
+.m-pt:focus-visible { outline: none; }
+.m-pt:focus-visible .m-dot { stroke: #FF8A8D; stroke-width: 3; }
+
+.map-legend {
+  list-style: none;
+  margin: 24px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px 20px;
+}
+.map-legend a {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 2px 8px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+}
+.map-legend em {
+  font-style: normal;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 400;
+  color: rgba(255,255,255,0.6);
+  flex-basis: 100%;
+  padding-left: 16px;
+}
+.map-legend a:hover { color: #FF8A8D; }
+.ml-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--red); border: 1.5px solid #fff; flex-shrink: 0; align-self: center; }
+.ml-dot.ml-hub { background: #fff; border-color: var(--red); }
+
 /* ---------- West Africa desk ---------- */
 .region { padding: 64px 0 56px; }
 .region-title {
@@ -421,6 +496,9 @@ a { color: inherit; }
 @media (max-width: 760px) {
   .services-grid { grid-template-columns: 1fr; }
   .counterparty { grid-template-columns: 1fr; }
+  .m-label, .m-sub { display: none; }
+  .map-legend { grid-template-columns: repeat(2, 1fr); }
+  .footprint { padding: 48px 0 40px; }
   .country-focus { margin-left: 0; flex-basis: 100%; }
   .region { padding: 48px 0 40px; }
   .ledger-row {
