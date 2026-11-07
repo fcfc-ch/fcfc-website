@@ -914,3 +914,7 @@ h1, h2, h3, h4, .hero-lede, .practice p, .counterparty p, .fact dd { overflow-wr
 @media (max-width: 560px) { .hero .hero-headline { font-size: 30px; line-height: 1.12; } }
 :lang(de) .counterparty p, :lang(de) .practice p, :lang(de) .fact dd { hyphens: auto; -webkit-hyphens: auto; }
 .ticker-src { max-width: 38%; overflow: hidden; text-overflow: ellipsis; }
+
+/* nav: keep items on one line, collapse links on narrower screens */
+.topbar-links a { white-space: nowrap; }
+@media (max-width: 1120px) { .topbar-links { display: none; } }
