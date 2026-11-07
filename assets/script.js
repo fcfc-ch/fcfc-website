@@ -5,50 +5,55 @@
 (async function loadNews() {
   const listEl = document.getElementById('news-list');
   const updatedEl = document.getElementById('news-updated');
+  if (!listEl || !updatedEl) return;
+
+  const lang = (document.documentElement.lang || 'en').slice(0, 2);
+  const base = (document.querySelector('meta[name="fcfc-base"]') || {}).content || '';
+  const LOC = { en: 'en-GB', de: 'de-CH', fr: 'fr-CH', it: 'it-CH' }[lang] || 'en-GB';
+  const T = ({
+    en: { updated: 'Updated', recently: 'Updated recently', na: 'Notes unavailable', err: 'Trade desk notes could not be loaded right now. Please check back shortly.', none: 'No trade desk notes yet — the first automated update will appear here shortly.', src: 'Source' },
+    de: { updated: 'Aktualisiert', recently: 'Kürzlich aktualisiert', na: 'Notizen nicht verfügbar', err: 'Die Trade Desk Notes konnten gerade nicht geladen werden. Bitte versuchen Sie es später erneut.', none: 'Noch keine Notizen – die erste automatische Aktualisierung erscheint in Kürze.', src: 'Quelle' },
+    fr: { updated: 'Mis à jour le', recently: 'Mis à jour récemment', na: 'Notes indisponibles', err: 'Les notes n’ont pas pu être chargées pour le moment. Merci de réessayer plus tard.', none: 'Pas encore de notes — la première mise à jour automatique apparaîtra ici sous peu.', src: 'Source' },
+    it: { updated: 'Aggiornato il', recently: 'Aggiornato di recente', na: 'Note non disponibili', err: 'Al momento non è stato possibile caricare le note. Riprovi più tardi.', none: 'Ancora nessuna nota — il primo aggiornamento automatico apparirà a breve.', src: 'Fonte' }
+  })[lang] || null;
+  const L = T || { updated: 'Updated', recently: 'Updated recently', na: 'Notes unavailable', err: 'Trade desk notes could not be loaded right now. Please check back shortly.', none: 'No trade desk notes yet.', src: 'Source' };
 
   try {
-    const res = await fetch('news.json', { cache: 'no-store' });
+    const res = await fetch(base + 'news.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('news.json not found (' + res.status + ')');
     const data = await res.json();
-
     renderUpdated(data.generated_at);
-    var items = Array.isArray(data.items) ? data.items.slice() : [];
-    items.sort(function (a, b) {
-      return (b.date || '').localeCompare(a.date || '');
-    });
+    const items = Array.isArray(data.items) ? data.items.slice() : [];
+    items.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
     renderItems(items);
   } catch (err) {
-    updatedEl.textContent = 'Notes unavailable';
-    listEl.innerHTML = '<p class="ledger-empty">Trade desk notes could not be loaded right now. Please check back shortly.</p>';
+    updatedEl.textContent = L.na;
+    listEl.innerHTML = '<p class="ledger-empty">' + escapeHtml(L.err) + '</p>';
     console.error('[fcfc] failed to load news.json:', err);
   }
 
   function renderUpdated(iso) {
-    if (!iso) { updatedEl.textContent = 'Updated recently'; return; }
-    const d = new Date(iso);
-    if (isNaN(d.getTime())) { updatedEl.textContent = 'Updated recently'; return; }
-    updatedEl.textContent = 'Updated ' + d.toLocaleDateString('en-GB', {
-      day: '2-digit', month: 'short', year: 'numeric'
-    });
+    const d = iso ? new Date(iso) : null;
+    if (!d || isNaN(d.getTime())) { updatedEl.textContent = L.recently; return; }
+    updatedEl.textContent = L.updated + ' ' + d.toLocaleDateString(LOC, { day: '2-digit', month: 'short', year: 'numeric' });
   }
 
   function renderItems(items) {
-    if (!items.length) {
-      listEl.innerHTML = '<p class="ledger-empty">No trade desk notes yet — the first automated update will appear here shortly.</p>';
-      return;
-    }
-
+    if (!items.length) { listEl.innerHTML = '<p class="ledger-empty">' + escapeHtml(L.none) + '</p>'; return; }
     listEl.innerHTML = items.map(function (item) {
-      const date = escapeHtml(formatDate(item.date));
-      const tag = escapeHtml(item.tag || 'NOTE');
-      const headline = escapeHtml(item.headline || '');
-      const summary = escapeHtml(item.summary || '');
-
+      const tr = (lang !== 'en' && item.i18n && item.i18n[lang]) || item;
+      const headline = escapeHtml(tr.headline || item.headline || '');
+      const summary = escapeHtml(tr.summary || item.summary || '');
+      const url = /^https:\/\//.test(item.url || '') ? item.url : '';
+      const company = item.company ? '<span class="ledger-company">' + escapeHtml(item.company) + '</span>' : '';
+      const head = url
+        ? '<a class="ledger-link" href="' + escapeHtml(url) + '" target="_blank" rel="noopener nofollow">' + headline + '<span class="ledger-ext" aria-hidden="true">↗</span></a>'
+        : headline;
       return (
         '<div class="ledger-row">' +
-          '<div class="ledger-date">' + date + '</div>' +
-          '<div class="ledger-tag">' + tag + '</div>' +
-          '<div class="ledger-headline">' + headline + '</div>' +
+          '<div class="ledger-date">' + escapeHtml(formatDate(item.date)) + '</div>' +
+          '<div class="ledger-tag">' + escapeHtml(item.tag || 'NOTE') + '</div>' +
+          '<div class="ledger-headline">' + company + head + '</div>' +
           '<p class="ledger-summary">' + summary + '</p>' +
         '</div>'
       );
@@ -59,15 +64,11 @@
     if (!isoDate) return '';
     const d = new Date(isoDate);
     if (isNaN(d.getTime())) return isoDate;
-    return d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short' }).toUpperCase();
+    return d.toLocaleDateString(LOC, { day: '2-digit', month: 'short' }).toUpperCase();
   }
 
   function escapeHtml(str) {
-    return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 })();
 

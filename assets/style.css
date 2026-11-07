@@ -871,3 +871,18 @@ html { scroll-padding-top: 76px; }
 @media (max-width: 900px) {
   .ticker-src { display: none; }
 }
+
+/* news: company label and source links */
+.ledger-company {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #FF8A8D;
+  margin-bottom: 4px;
+}
+.ledger-link { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.25); }
+.ledger-link:hover { border-bottom-color: #FF8A8D; }
+.ledger-ext { font-size: 0.8em; margin-left: 5px; color: rgba(255,255,255,0.5); }
