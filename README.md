@@ -130,3 +130,29 @@ exact figure.
 - **Custom domain not working** — double-check the DNS records above and
   give propagation a few hours; https://dnschecker.org can confirm what's
   actually live.
+
+---
+
+## Language versions (DE / FR / IT)
+
+`index.html` is the English source. The German, French and Italian pages in `de/`, `fr/` and
+`it/` are generated from it by `scripts/build_i18n.py`, using the translations in
+`translations/de.json`, `fr.json` and `it.json` (English text → translation).
+
+- Edit English copy in `index.html` only. The workflow `build-i18n.yml` rebuilds the three
+  language pages automatically on every push.
+- New or changed English text that has no translation yet stays in English on the other
+  language pages and is listed in the workflow log. Add it to the three translation files.
+- Never edit `de/index.html`, `fr/index.html` or `it/index.html` by hand.
+
+## Market ticker
+
+`scripts/update_markets.py` writes `markets.json` every 2 hours on weekdays
+(`update-markets.yml`). FX vs CHF comes from ECB reference rates (no key). Gold, Brent and WTI
+need a free OilPriceAPI key saved as the repo secret `OILPRICE_API_KEY`.
+
+## Rolling back a change
+
+Each change is merged as one pull request. To undo one, open it under **Pull requests →
+Closed** and click **Revert**, then merge the revert pull request. The state before the
+November 2026 redesign is also kept in the branch `backup/before-redesign`.

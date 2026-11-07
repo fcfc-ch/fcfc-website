@@ -107,6 +107,7 @@
     var src = T.ecb + (fxDate ? ' ' + T.asof + ' ' + niceDate(fxDate) : '');
     if (data.commodities && data.commodities.length) src += ' · ' + 'OilPriceAPI';
     srcEl.textContent = src + ' · ' + T.ind;
+    srcEl.title = srcEl.textContent;
     box.classList.add('is-ready');
   } catch (e) {
     box.hidden = true;
