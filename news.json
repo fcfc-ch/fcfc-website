@@ -1,29 +1,137 @@
 {
-  "generated_at": "2026-11-07T12:12:42Z",
+  "generated_at": "2026-11-07T19:50:25Z",
   "items": [
     {
-      "date": "2026-11-04",
-      "tag": "CTRM",
-      "headline": "ETRM modernization wave keeps lifting vendor growth",
-      "summary": "Consultancy capSpire reported strong 2026 growth, attributing momentum to ETRM modernization projects, two strategic acquisitions and rising AI-driven demand across energy and commodity trading desks."
-    },
-    {
-      "date": "2026-11-05",
-      "tag": "FIN",
-      "headline": "IFC and Citi launch $2bn trade finance facility",
-      "summary": "The IFC and Citi unveiled a new $2bn facility aimed at expanding trade financing access for corporates and SMEs across Africa, Asia and Latin America, building on prior IFC programs that have already funded roughly $65bn in emerging-market trade."
+      "date": "2026-11-02",
+      "tag": "GOLD",
+      "company": "Ghana Gold Board (GoldBod)",
+      "headline": "GoldBod generates $1 billion in October forex",
+      "summary": "Ghana's gold marketing board sold $1.011 billion in foreign exchange from artisanal gold trade in October 2026 and projects $1.2 billion for November.",
+      "url": "https://thechronicle.com.gh/goldbod-generates-1bn-from-gold-trade-in-october/",
+      "i18n": {
+        "de": {
+          "headline": "GoldBod erzielte im Oktober 1 Milliarde US-Dollar an Devisen",
+          "summary": "Ghanas Goldbehörde verkaufte im Oktober 2026 Devisen im Wert von 1,011 Milliarden US-Dollar aus dem Handel mit Kleinbergbau-Gold und erwartet für November 1,2 Milliarden."
+        },
+        "fr": {
+          "headline": "GoldBod génère 1 milliard de dollars de devises en octobre",
+          "summary": "L'organisme ghanéen de l'or a vendu 1,011 milliard de dollars de devises issues du commerce de l'or artisanal en octobre 2026 et prévoit 1,2 milliard pour novembre."
+        },
+        "it": {
+          "headline": "GoldBod genera 1 miliardo di dollari in valuta a ottobre",
+          "summary": "L'ente ghanese per l'oro ha venduto 1,011 miliardi di dollari in valuta estera dal commercio dell'oro artigianale a ottobre 2026 e prevede 1,2 miliardi per novembre."
+        }
+      }
     },
     {
       "date": "2026-11-03",
-      "tag": "REG",
-      "headline": "ACER moves to clarify REMIT-EMIR reporting overlap",
-      "summary": "ACER is updating its REMIT guidance following the 2024 REMIT revision and 2026 data-reporting rules, aiming to clarify which energy derivatives remain reportable under REMIT versus EMIR and how to avoid duplicate reporting."
+      "tag": "NOC",
+      "company": "NNPC Ltd",
+      "headline": "NNPC weighs 5-10% stake sale via IPO",
+      "summary": "Nigeria's state oil company NNPC may float 5-10% of its shares domestically, with a possible later listing in London or New York, its CEO said.",
+      "url": "https://www.cnbcafrica.com/2026/nnpc-ipo-will-likely-start-with-5-to-10-listing-ceo-says",
+      "i18n": {
+        "de": {
+          "headline": "NNPC erwägt Verkauf von 5-10% via Börsengang",
+          "summary": "Nigerias Staatsölkonzern NNPC könnte 5 bis 10 Prozent seiner Anteile zunächst im Inland platzieren, mit einer möglichen späteren Zweitnotierung in London oder New York, so der CEO."
+        },
+        "fr": {
+          "headline": "NNPC envisage une cession de 5 à 10% via une IPO",
+          "summary": "La compagnie pétrolière publique nigériane NNPC pourrait introduire 5 à 10% de son capital, principalement sur le marché domestique, avec une cotation ultérieure possible à Londres ou New York."
+        },
+        "it": {
+          "headline": "NNPC valuta cessione del 5-10% tramite IPO",
+          "summary": "La compagnia petrolifera statale nigeriana NNPC potrebbe collocare il 5-10% delle sue azioni sul mercato interno, con una possibile quotazione successiva a Londra o New York."
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "tag": "FIN",
+      "company": "Afreximbank",
+      "headline": "Afreximbank nine-month net income up 24%",
+      "summary": "Afreximbank reported net income of $813.5 million for the nine months to September 2026, a 24% rise, as trade and project financing demand grew.",
+      "url": "https://www.sknvibes.com/news/newsdetails.cfm/128045",
+      "i18n": {
+        "de": {
+          "headline": "Afreximbank steigert Neunmonatsgewinn um 24%",
+          "summary": "Afreximbank meldete für die ersten neun Monate 2026 einen Reingewinn von 813,5 Millionen US-Dollar, ein Plus von 24%, getragen von steigender Handels- und Projektfinanzierung."
+        },
+        "fr": {
+          "headline": "Afreximbank: le bénéfice net bondit de 24% sur neuf mois",
+          "summary": "Afreximbank a enregistré un bénéfice net de 813,5 millions de dollars sur les neuf premiers mois de 2026, en hausse de 24%, porté par la demande de financement du commerce."
+        },
+        "it": {
+          "headline": "Afreximbank: utile netto in crescita del 24% in nove mesi",
+          "summary": "Afreximbank ha registrato un utile netto di 813,5 milioni di dollari nei primi nove mesi del 2026, in aumento del 24%, sostenuto dalla domanda di finanziamento commerciale."
+        }
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "tag": "REF",
+      "company": "Tüpraş",
+      "headline": "Tüpraş raises 2026 refining margin guidance",
+      "summary": "Turkey's largest refiner lifted its 2026 net refining margin outlook to $20-22 per barrel from $13-15, citing strong product margins.",
+      "url": "https://www.tipranks.com/news/company-announcements/tupras-raises-2026-refining-margin-guidance-to-usd-20-22",
+      "i18n": {
+        "de": {
+          "headline": "Tüpraş erhöht Raffineriemargen-Prognose für 2026",
+          "summary": "Die grösste türkische Raffinerie hob ihre Prognose für die Nettoraffineriemarge 2026 von 13-15 auf 20-22 US-Dollar je Barrel an, gestützt auf starke Produktmargen."
+        },
+        "fr": {
+          "headline": "Tüpraş relève ses prévisions de marges de raffinage pour 2026",
+          "summary": "Le plus grand raffineur turc a relevé ses prévisions de marge nette de raffinage 2026 de 13-15 à 20-22 dollars le baril, citant de solides marges sur les produits."
+        },
+        "it": {
+          "headline": "Tüpraş alza le previsioni sui margini di raffinazione 2026",
+          "summary": "Il maggiore raffinatore turco ha innalzato le previsioni sul margine netto di raffinazione 2026 da 13-15 a 20-22 dollari al barile, citando forti margini sui prodotti."
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "tag": "FIN",
+      "company": "",
+      "headline": "IFC and Citi launch $2bn trade finance facility",
+      "summary": "The IFC and Citi announced a combined facility of up to $2 billion to expand trade financing for corporates and SMEs across Africa, Asia and Latin America.",
+      "url": "https://www.gtreview.com/news/global/ifc-and-citi-launch-us2bn-trade-finance-facility-for-emerging-markets/",
+      "i18n": {
+        "de": {
+          "headline": "IFC und Citi lancieren Handelsfinanzierung über 2 Mrd. $",
+          "summary": "Die IFC und Citi kündigten eine kombinierte Fazilität von bis zu 2 Milliarden US-Dollar an, um Handelsfinanzierung für Unternehmen und KMU in Afrika, Asien und Lateinamerika auszuweiten."
+        },
+        "fr": {
+          "headline": "IFC et Citi lancent une facilité de 2 milliards $ pour le commerce",
+          "summary": "L'IFC et Citi ont annoncé une facilité combinée pouvant atteindre 2 milliards de dollars pour élargir le financement du commerce aux entreprises et PME d'Afrique, d'Asie et d'Amérique latine."
+        },
+        "it": {
+          "headline": "IFC e Citi lanciano una facility di 2 miliardi di dollari",
+          "summary": "IFC e Citi hanno annunciato una facility combinata fino a 2 miliardi di dollari per ampliare il finanziamento al commercio per aziende e PMI in Africa, Asia e America Latina."
+        }
+      }
     },
     {
       "date": "2026-11-05",
-      "tag": "LOG",
-      "headline": "Tanker attacks jolt oil freight and shipping routes",
-      "summary": "Brent crude settled over $3 a barrel higher after new tanker attacks disrupted flows, a development operations teams should watch for its knock-on effects on freight rates, voyage insurance and routing decisions."
+      "tag": "CTRM",
+      "company": "",
+      "headline": "AI and ETRM modernization drive trading tech",
+      "summary": "Industry analysts report rising AI adoption and strong demand for ETRM modernization among commodity trading firms, with vendors such as capSpire seeing growth.",
+      "url": "https://www.ctrmcenter.com/",
+      "i18n": {
+        "de": {
+          "headline": "KI und ETRM-Modernisierung prägen Handelstechnologie",
+          "summary": "Branchenanalysten berichten von zunehmender KI-Nutzung und wachsender Nachfrage nach ETRM-Modernisierung bei Rohstoffhändlern; Anbieter wie capSpire verzeichnen starkes Wachstum."
+        },
+        "fr": {
+          "headline": "L'IA et la modernisation ETRM transforment la techno du trading",
+          "summary": "Les analystes du secteur constatent une adoption croissante de l'IA et une forte demande de modernisation ETRM chez les négociants de matières premières; des fournisseurs comme capSpire enregistrent une croissance soutenue."
+        },
+        "it": {
+          "headline": "IA e modernizzazione ETRM trainano la tecnologia di trading",
+          "summary": "Gli analisti del settore segnalano una crescente adozione dell'IA e una forte domanda di modernizzazione ETRM tra i trader di materie prime; fornitori come capSpire registrano una forte crescita."
+        }
+      }
     }
   ]
 }
