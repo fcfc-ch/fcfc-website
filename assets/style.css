@@ -510,3 +510,9 @@ a { color: inherit; }
   .brand-row { flex-wrap: wrap; }
   .logo { height: 44px; }
 }
+
+/* external links on counterparty names */
+.cp-link { color: inherit; text-decoration: none; border-bottom: 1px solid var(--hairline); }
+.cp-link:hover { color: var(--blue); border-color: var(--blue); }
+.cp-ext { font-size: 0.8em; margin-left: 4px; color: var(--gray-light); }
+.cp-link:hover .cp-ext { color: var(--blue); }
