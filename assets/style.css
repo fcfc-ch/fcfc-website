@@ -171,6 +171,9 @@ a { color: inherit; }
   border-bottom: 1px solid var(--hairline);
 }
 .service-link:hover { color: var(--red); border-color: var(--red); }
+.service-links { display: flex; flex-wrap: wrap; gap: 0 20px; }
+.region-alt { background: var(--paper-dim); }
+.region-alt .counterparty { border-color: rgba(10,47,82,0.18); }
 
 /* ---------- West Africa desk ---------- */
 .region { padding: 64px 0 56px; }
