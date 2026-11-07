@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20261107c">
+<link rel="stylesheet" href="assets/style.css?v=20261107e">
 <link rel="icon" href="assets/favicon/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
@@ -16,21 +16,43 @@
 </head>
 <body>
 
-<header class="hero">
-  <div class="wrap">
-    <div class="hero-top">
-      <div class="brand-row">
-        <img class="logo" src="assets/logo.png" alt="FCFC — FC Finance Consulting GmbH">
-        <span class="logo-caption">FC Finance Consulting GmbH</span>
+<nav class="topbar" aria-label="Main">
+  <div class="wrap topbar-inner">
+    <a class="topbar-brand" href="#top" aria-label="FC Finance Consulting GmbH — home">
+      <img class="topbar-logo" src="assets/logo-mark.png" alt="FCFC" width="480" height="137">
+      <span class="topbar-name">FC Finance Consulting <span>GmbH</span></span>
+    </a>
+    <div class="topbar-links">
+      <a href="#services">Advisory</a>
+      <a href="#footprint">Markets</a>
+      <a href="#banks">Trade finance</a>
+      <a href="#news">Desk notes</a>
+    </div>
+    <a class="topbar-mail" href="mailto:info@fcfc.ch">info@fcfc.ch</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <div class="eyebrow"><span class="eyebrow-flag" aria-hidden="true"></span>Zug, Switzerland · Commodity advisory</div>
+      <h1 class="hero-headline">Business development, finance and operations advisory for commodity businesses.</h1>
+      <p class="hero-lede">We open markets and counterparties from West Africa to Asia, structure the trade finance behind each flow, and build the operations and systems that let it run — from first introduction to the cargo that settles.</p>
+      <div class="hero-actions">
+        <a class="link-cta" href="mailto:info@fcfc.ch?subject=Introductory%20conversation">Arrange an introductory conversation<span aria-hidden="true">&rarr;</span></a>
+        <a class="link-cta link-cta-quiet" href="#services">Our advisory practice<span aria-hidden="true">&rarr;</span></a>
       </div>
-      <h1 class="hero-headline">Trade operations &amp; compliance advisory<br>for commodity businesses.</h1>
     </div>
-    <div class="hero-rule"></div>
-    <div class="hero-meta">
-      <span>ZUG, SWITZERLAND</span>
-      <span class="dot">·</span>
-      <span>DIGITAL · TRADE LIFECYCLE · EMIR/REMIT · BUSINESS DEVELOPMENT · WEST AFRICA · ASIA · TÜRKIYE · CASPIAN</span>
-    </div>
+    <dl class="hero-facts">
+      <div class="fact"><dt>20+</dt><dd>years in physical &amp; financial commodity trading operations</dd></div>
+      <div class="fact"><dt>10</dt><dd>countries across Europe, West Africa, the Gulf and Asia</dd></div>
+      <div class="fact"><dt>20+</dt><dd>state agencies, refiners and trade finance banks we engage with</dd></div>
+    </dl>
+  </div>
+  <div class="wrap">
+    <ul class="hero-tags" aria-label="Practice areas">
+      <li>Business development</li><li>Trade &amp; corporate finance</li><li>Trade operations</li><li>CTRM &amp; digital</li><li>Regulatory compliance</li>
+    </ul>
   </div>
 </header>
 
@@ -38,38 +60,61 @@
 
   <section class="services" id="services">
     <div class="wrap">
-      <div class="section-label">What we do</div>
-      <div class="services-grid">
+      <div class="section-label">Our advisory practice</div>
+      <h2 class="services-title">Two lead practices, built on deep operational expertise.</h2>
 
-        <article class="service">
-          <span class="service-tag">DIGITAL</span>
-          <h2>CTRM systems</h2>
-          <p>We design and implement commodity trading &amp; risk management systems from scratch, or fix ones that no longer fit how your desk actually trades.</p>
+      <div class="practice-grid">
+        <article class="practice">
+          <span class="practice-num">01</span>
+          <span class="practice-tag">Business development</span>
+          <h3>Market entry &amp; counterparty development</h3>
+          <p>We open new markets and counterparties for traders, producers and investors: identifying the right state agencies, refiners and buyers, securing counterparty registration and accreditation, and coordinating the logistics that get a first shipment moving.</p>
+          <ul class="practice-list">
+            <li>Market and counterparty mapping</li>
+            <li>Tender participation and supplier registration</li>
+            <li>Introductions to state agencies, NOCs and refiners</li>
+            <li>First-shipment coordination</li>
+          </ul>
+          <div class="practice-links">
+            <a href="#west-africa">West Africa desk<span aria-hidden="true">&rarr;</span></a>
+            <a href="#asia">Asia, Türkiye &amp; Caspian desk<span aria-hidden="true">&rarr;</span></a>
+          </div>
         </article>
 
+        <article class="practice">
+          <span class="practice-num">02</span>
+          <span class="practice-tag">Financial advisory</span>
+          <h3>Trade &amp; corporate finance advisory</h3>
+          <p>We structure the financing behind physical commodity flows and prepare the credit, KYC and transaction files that banks and development finance institutions expect — then stay alongside the client until the facility is in place.</p>
+          <ul class="practice-list">
+            <li>Prepayment, pre-export and transactional facilities</li>
+            <li>Letters of credit, guarantees and payment structures</li>
+            <li>Bank selection, credit and KYC packages</li>
+            <li>Ongoing bank relationship management</li>
+          </ul>
+          <div class="practice-links">
+            <a href="#banks">Trade finance &amp; banking<span aria-hidden="true">&rarr;</span></a>
+          </div>
+        </article>
+      </div>
+
+      <div class="section-label core-label">Operational foundation</div>
+      <div class="services-grid core-grid">
         <article class="service">
           <span class="service-tag">OPS</span>
           <h2>Trade lifecycle management</h2>
-          <p>From deal capture to settlement — we build the operational backbone that keeps physical and financial positions moving without breaking.</p>
+          <p>From deal capture to settlement — the operational backbone that keeps physical and financial positions moving without breaking.</p>
         </article>
-
+        <article class="service">
+          <span class="service-tag">DIGITAL</span>
+          <h2>CTRM systems</h2>
+          <p>Commodity trading &amp; risk management systems designed and implemented from scratch, or fixed when they no longer fit how the desk trades.</p>
+        </article>
         <article class="service">
           <span class="service-tag">REG</span>
-          <h2>EMIR / REMIT compliance</h2>
-          <p>Regulatory reporting and compliance advisory for commodity trading operations, so audits don't become fire drills.</p>
+          <h2>Regulatory compliance</h2>
+          <p>EMIR / REMIT reporting and compliance advisory for commodity trading operations, so audits don't become fire drills.</p>
         </article>
-
-        <article class="service">
-          <span class="service-tag">BD</span>
-          <h2>Business development &amp; market entry</h2>
-          <p>We open new markets and counterparties — structuring trade finance with banking partners, securing corporate accreditation with buyers, and coordinating the logistics that get a first shipment moving.</p>
-          <span class="service-links">
-            <a class="service-link" href="#west-africa">West Africa desk &rarr;</a>
-            <a class="service-link" href="#asia">Asia, Türkiye &amp; Caspian desk &rarr;</a>
-            <a class="service-link" href="#banks">Trade finance &amp; banking &rarr;</a>
-          </span>
-        </article>
-
       </div>
     </div>
   </section>
