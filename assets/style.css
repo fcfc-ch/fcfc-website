@@ -694,3 +694,133 @@ html { scroll-padding-top: 76px; }
   .hero-tags { margin-top: 40px; }
   .hero-actions .btn { flex: 1 1 auto; }
 }
+
+/* ---------- refined CTAs (replace buttons) ---------- */
+.topbar-mail {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  color: var(--blue-deep);
+  text-decoration: none;
+  padding-left: 24px;
+  border-left: 1px solid var(--hairline);
+  line-height: 28px;
+}
+.topbar-mail:hover { color: var(--red); }
+
+.hero-actions { gap: 14px 36px; align-items: center; }
+.link-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--blue-deep);
+  text-decoration: none;
+  padding: 10px 0;
+  border-bottom: 2px solid var(--red);
+  transition: color .15s ease, gap .15s ease;
+}
+.link-cta span { color: var(--red); transition: transform .15s ease; }
+.link-cta:hover { color: var(--blue); }
+.link-cta:hover span { transform: translateX(4px); }
+.link-cta-quiet { font-weight: 500; color: var(--graphite-60); border-bottom-color: var(--hairline); }
+.link-cta-quiet span { color: var(--gray-light); }
+.link-cta-quiet:hover { color: var(--blue-deep); border-bottom-color: var(--blue); }
+
+/* ---------- lead practices ---------- */
+.services-title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(24px, 3vw, 32px);
+  line-height: 1.2;
+  color: var(--blue-deep);
+  margin: 0 0 32px;
+  max-width: 26ch;
+}
+.practice-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+.practice {
+  position: relative;
+  background: var(--blue-deep);
+  color: #fff;
+  padding: 36px 34px 32px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.practice::before {
+  content: "";
+  position: absolute; left: 0; top: 0; bottom: 0; width: 4px;
+  background: var(--red);
+}
+.practice-num {
+  position: absolute; right: 30px; top: 26px;
+  font-family: var(--font-display); font-weight: 800; font-size: 44px;
+  color: rgba(255,255,255,0.08); line-height: 1;
+}
+.practice-tag {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #FF8A8D;
+  margin-bottom: 14px;
+}
+.practice h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 1.25;
+  margin: 0 0 14px;
+  color: #fff;
+  max-width: 22ch;
+}
+.practice p {
+  margin: 0 0 22px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: rgba(255,255,255,0.75);
+}
+.practice-list {
+  list-style: none;
+  margin: 0 0 28px;
+  padding: 18px 0 0;
+  border-top: 1px solid var(--hairline-dark);
+  display: grid;
+  gap: 9px;
+}
+.practice-list li {
+  font-size: 14px;
+  color: rgba(255,255,255,0.9);
+  display: flex; gap: 10px; align-items: baseline;
+}
+.practice-list li::before { content: ""; width: 5px; height: 5px; background: var(--red); flex-shrink: 0; transform: translateY(-2px); }
+.practice-links { margin-top: auto; display: flex; flex-wrap: wrap; gap: 8px 28px; }
+.practice-links a {
+  display: inline-flex; gap: 10px; align-items: center;
+  font-size: 14px; font-weight: 600; color: #fff; text-decoration: none;
+  padding-bottom: 4px; border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+.practice-links a span { color: #FF8A8D; transition: transform .15s ease; }
+.practice-links a:hover { border-bottom-color: #FF8A8D; }
+.practice-links a:hover span { transform: translateX(3px); }
+
+.core-label { margin-top: 48px; }
+.core-grid { grid-template-columns: repeat(3, 1fr); }
+
+@media (max-width: 900px) {
+  .topbar-mail { border-left: 0; padding-left: 0; }
+  .practice-grid { grid-template-columns: 1fr; }
+  .core-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 560px) {
+  .topbar-mail { font-size: 12px; }
+  .hero-actions { flex-direction: column; align-items: flex-start; }
+  .practice { padding: 30px 24px 26px; }
+}
