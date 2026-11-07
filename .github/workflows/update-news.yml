@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: site-data-commit
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest

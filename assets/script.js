@@ -70,3 +70,60 @@
       .replace(/"/g, '&quot;');
   }
 })();
+
+// Renders the market ticker strip from markets.json
+// (refreshed by .github/workflows/update-markets.yml).
+(async function loadMarkets() {
+  var listEl = document.getElementById('ticker-list');
+  var srcEl = document.getElementById('ticker-src');
+  var box = document.getElementById('ticker');
+  if (!listEl || !box) return;
+
+  var lang = (document.documentElement.lang || 'en').slice(0, 2);
+  var T = {
+    en: { gold: 'Gold', brent: 'Brent', wti: 'WTI', ecb: 'ECB reference rates', asof: 'as of', ind: 'Indicative, not for trading' },
+    de: { gold: 'Gold', brent: 'Brent', wti: 'WTI', ecb: 'EZB-Referenzkurse', asof: 'Stand', ind: 'Indikativ, nicht für den Handel' },
+    fr: { gold: 'Or', brent: 'Brent', wti: 'WTI', ecb: 'Taux de référence BCE', asof: 'au', ind: 'Indicatif, ne pas utiliser pour négocier' },
+    it: { gold: 'Oro', brent: 'Brent', wti: 'WTI', ecb: 'Tassi di riferimento BCE', asof: 'al', ind: 'Indicativo, non per la negoziazione' }
+  }[lang] || null;
+  T = T || { gold: 'Gold', brent: 'Brent', wti: 'WTI', ecb: 'ECB reference rates', asof: 'as of', ind: 'Indicative, not for trading' };
+  var base = (document.querySelector('meta[name="fcfc-base"]') || {}).content || '';
+
+  try {
+    var res = await fetch(base + 'markets.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('markets.json ' + res.status);
+    var data = await res.json();
+    var rows = [];
+    (data.commodities || []).forEach(function (c) {
+      rows.push(item(T[c.key] || c.key, fmt(c.value, 2), c.unit, c.change_pct));
+    });
+    (data.fx || []).forEach(function (f) {
+      rows.push(item(f.pair, fmt(f.value, 4), '', f.change_pct));
+    });
+    if (!rows.length) throw new Error('empty');
+    listEl.innerHTML = rows.join('');
+    var fxDate = (data.fx && data.fx[0] && data.fx[0].date) || '';
+    var src = T.ecb + (fxDate ? ' ' + T.asof + ' ' + niceDate(fxDate) : '');
+    if (data.commodities && data.commodities.length) src += ' · ' + 'OilPriceAPI';
+    srcEl.textContent = src + ' · ' + T.ind;
+    box.classList.add('is-ready');
+  } catch (e) {
+    box.hidden = true;
+    console.warn('[fcfc] markets unavailable', e);
+  }
+
+  function item(name, value, unit, ch) {
+    var cls = ch == null ? '' : (ch > 0 ? ' up' : (ch < 0 ? ' down' : ''));
+    var chTxt = ch == null ? '' : '<span class="tk-ch' + cls + '">' + (ch > 0 ? '▲' : (ch < 0 ? '▼' : '■')) + ' ' + Math.abs(ch).toFixed(2) + '%</span>';
+    return '<li><span class="tk-name">' + esc(name) + '</span><span class="tk-val">' + esc(value) + '</span>' +
+      (unit ? '<span class="tk-unit">' + esc(unit) + '</span>' : '') + chTxt + '</li>';
+  }
+  function fmt(v, d) { return (typeof v === 'number') ? v.toFixed(d) : String(v); }
+  function niceDate(iso) {
+    var d = new Date(iso + 'T00:00:00Z');
+    if (isNaN(d)) return iso;
+    var loc = { en: 'en-GB', de: 'de-CH', fr: 'fr-CH', it: 'it-CH' }[lang] || 'en-GB';
+    return d.toLocaleDateString(loc, { day: '2-digit', month: 'short', timeZone: 'UTC' });
+  }
+  function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+})();
