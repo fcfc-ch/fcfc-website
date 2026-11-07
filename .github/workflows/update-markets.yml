@@ -1,0 +1,42 @@
+name: Update market data
+
+on:
+  schedule:
+    # Every 2 hours on weekdays, 05:17–19:17 UTC
+    - cron: "17 5-19/2 * * 1-5"
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_markets.py
+      - .github/workflows/update-markets.yml
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-data-commit
+  cancel-in-progress: false
+
+jobs:
+  update-markets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.0
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Fetch market data
+        env:
+          OILPRICE_API_KEY: ${{ secrets.OILPRICE_API_KEY }}
+        run: python scripts/update_markets.py
+
+      - name: Commit and push if markets.json changed
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5.2.0
+        with:
+          commit_message: "Automated market data update"
+          file_pattern: markets.json

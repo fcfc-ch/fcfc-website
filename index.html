@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20261107e">
+<link rel="stylesheet" href="assets/style.css?v=20261107f">
 <link rel="icon" href="assets/favicon/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
@@ -24,13 +24,21 @@
     </a>
     <div class="topbar-links">
       <a href="#services">Advisory</a>
-      <a href="#footprint">Markets</a>
+      <a href="#footprint">Regions</a>
       <a href="#banks">Trade finance</a>
       <a href="#news">Desk notes</a>
     </div>
     <a class="topbar-mail" href="mailto:info@fcfc.ch">info@fcfc.ch</a>
   </div>
 </nav>
+
+<div class="ticker" id="ticker" aria-label="Indicative market data">
+  <div class="wrap ticker-inner">
+    <span class="ticker-label">Markets</span>
+    <ul class="ticker-list" id="ticker-list"></ul>
+    <span class="ticker-src" id="ticker-src"></span>
+  </div>
+</div>
 
 <header class="hero" id="top">
   <div class="wrap hero-grid">
@@ -428,6 +436,6 @@
   </div>
 </footer>
 
-<script src="assets/script.js?v=20261107"></script>
+<script src="assets/script.js?v=20261107f"></script>
 </body>
 </html>
