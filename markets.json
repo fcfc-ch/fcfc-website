@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-13T13:07:59Z",
+  "generated_at": "2026-11-13T20:29:47Z",
   "fx": [
     {
       "pair": "EUR/CHF",
-      "value": 0.9232,
-      "change_pct": -0.02,
-      "date": "2026-11-12"
+      "value": 0.9266,
+      "change_pct": 0.37,
+      "date": "2026-11-13"
     },
     {
       "pair": "USD/CHF",
-      "value": 0.8331,
-      "change_pct": 0.39,
-      "date": "2026-11-12"
+      "value": 0.8384,
+      "change_pct": 0.64,
+      "date": "2026-11-13"
     },
     {
       "pair": "GBP/CHF",
-      "value": 1.1044,
-      "change_pct": 0.01,
-      "date": "2026-11-12"
+      "value": 1.1089,
+      "change_pct": 0.41,
+      "date": "2026-11-13"
     },
     {
       "pair": "100 JPY/CHF",
-      "value": 0.5217,
-      "change_pct": 0.1,
-      "date": "2026-11-12"
+      "value": 0.524,
+      "change_pct": 0.44,
+      "date": "2026-11-13"
     }
   ],
   "commodities": [],
