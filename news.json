@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-11-14T12:48:25Z",
+  "generated_at": "2026-11-18T14:54:52Z",
   "items": [
+    {
+      "date": "2026-11-08",
+      "tag": "NOC",
+      "company": "NNPC Ltd",
+      "headline": "NNPC courts investors for Morocco gas pipeline",
+      "summary": "NNPC is actively seeking investors for a planned $25-26 billion gas pipeline to Morocco and expects Trans-Saharan pipeline FID talks to start in 2027, while also weighing a 5-10% domestic IPO.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-08:newsml_Zaw456BZd:0-nnpc-pitches-investors-on-nigeria-morocco-gas-pipeline-eyes-trans-saharan-fid-talks-in-2027/",
+      "i18n": {
+        "de": {
+          "headline": "NNPC wirbt Investoren für Marokko-Gaspipeline",
+          "summary": "NNPC sucht aktiv Investoren für eine geplante Gaspipeline nach Marokko im Wert von 25-26 Mrd. USD und erwartet 2027 erste FID-Gespräche zur Transsahara-Pipeline, während ein Börsengang von 5-10% geprüft wird."
+        },
+        "fr": {
+          "headline": "NNPC recherche des investisseurs pour le gazoduc marocain",
+          "summary": "NNPC recherche activement des investisseurs pour un gazoduc prévu de 25 à 26 milliards USD vers le Maroc et prévoit des discussions sur la décision finale d'investissement transsaharien en 2027, tout en envisageant une IPO de 5 à 10%."
+        },
+        "it": {
+          "headline": "NNPC cerca investitori per gasdotto verso il Marocco",
+          "summary": "NNPC cerca attivamente investitori per un gasdotto da 25-26 miliardi di dollari verso il Marocco e prevede discussioni sulla decisione finale d'investimento transahariana nel 2027, valutando anche una IPO del 5-10%."
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "tag": "FIN",
+      "company": "Afreximbank",
+      "headline": "Afreximbank commits $75m SME export finance facility",
+      "summary": "Afreximbank signed a $75 million finance facility with the Development Bank of Nigeria to expand funding access for export-oriented SMEs, including creative-economy businesses, announced at CANEX WKND 2026.",
+      "url": "https://www.thisdaylive.com/2026/11/16/afreximbank-commits-75m-sme-finance-facility-to-dbn/",
+      "i18n": {
+        "de": {
+          "headline": "Afreximbank gewährt KMU-Exportfinanzierung über 75 Mio. USD",
+          "summary": "Afreximbank hat mit der Development Bank of Nigeria eine Finanzierungsfazilität über 75 Mio. USD unterzeichnet, um exportorientierten KMU, einschliesslich der Kreativwirtschaft, den Zugang zu Finanzmitteln zu erleichtern."
+        },
+        "fr": {
+          "headline": "Afreximbank accorde 75 millions USD aux PME exportatrices",
+          "summary": "Afreximbank a signé avec la Development Bank of Nigeria une facilité de financement de 75 millions USD pour élargir l'accès au financement des PME exportatrices, y compris dans les industries créatives, annoncée lors du CANEX WKND 2026."
+        },
+        "it": {
+          "headline": "Afreximbank stanzia 75 milioni USD per PMI esportatrici",
+          "summary": "Afreximbank ha firmato con la Development Bank of Nigeria una linea di finanziamento da 75 milioni USD per ampliare l'accesso al credito delle PMI orientate all'export, incluse quelle del settore creativo."
+        }
+      }
+    },
     {
       "date": "2026-11-13",
       "tag": "GOLD",
       "company": "Ghana Gold Board (GoldBod)",
-      "headline": "GoldBod exported 88 tonnes of gold in 2026",
-      "summary": "GoldBod's artisanal and small-scale mining exports reached about 88 tonnes worth roughly $12 billion in 2026, boosting Ghana's forex supply and reserves.",
-      "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
+      "headline": "GoldBod exports $12bn gold, proposes FX discount",
+      "summary": "Ghana's Finance Minister reported GoldBod exported 88 tonnes of small-scale gold worth about $12 billion in 2026, with a proposed 3% purchase discount planned for 2027 to cut FX-generation costs.",
+      "url": "https://www.ghanaweb.com/GhanaHomePage/business/GoldBod-records-US-12-billion-in-gold-exports-in-2026-2061249",
       "i18n": {
         "de": {
-          "headline": "GoldBod exportierte 2026 88 Tonnen Gold",
-          "summary": "Die Exporte von GoldBod aus dem Kleinbergbau erreichten 2026 rund 88 Tonnen im Wert von etwa 12 Milliarden Dollar und stärkten Ghanas Devisenreserven."
+          "headline": "GoldBod exportiert Gold für 12 Mrd. USD, plant FX-Rabatt",
+          "summary": "Ghanas Finanzminister berichtete, dass GoldBod 2026 88 Tonnen Kleinbergbau-Gold im Wert von rund 12 Mrd. USD exportiert hat; für 2027 ist ein Ankaufsrabatt von 3% zur Senkung der Devisenkosten geplant."
         },
         "fr": {
-          "headline": "GoldBod a exporté 88 tonnes d'or en 2026",
-          "summary": "Les exportations d'or artisanal de GoldBod ont atteint environ 88 tonnes pour une valeur d'environ 12 milliards de dollars en 2026, renforçant les réserves de change du Ghana."
+          "headline": "GoldBod exporte 12 milliards USD d'or, propose une remise FX",
+          "summary": "Le ministre des Finances du Ghana a indiqué que GoldBod a exporté 88 tonnes d'or artisanal d'une valeur d'environ 12 milliards USD en 2026, avec une remise d'achat de 3% proposée pour 2027 afin de réduire les coûts de génération de devises."
         },
         "it": {
-          "headline": "GoldBod ha esportato 88 tonnellate d'oro nel 2026",
-          "summary": "Le esportazioni di oro artigianale di GoldBod hanno raggiunto circa 88 tonnellate per un valore di circa 12 miliardi di dollari nel 2026, rafforzando le riserve valutarie del Ghana."
+          "headline": "GoldBod esporta oro per 12 miliardi USD, propone sconto FX",
+          "summary": "Il ministro delle Finanze del Ghana ha riferito che GoldBod ha esportato 88 tonnellate di oro artigianale per circa 12 miliardi USD nel 2026, con uno sconto d'acquisto del 3% proposto per il 2027 per ridurre i costi di generazione valutaria."
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "tag": "REF",
+      "company": "SOCAR STAR Refinery",
+      "headline": "SOCAR invests $120m in STAR refinery jet-fuel unit",
+      "summary": "SOCAR launched a new Kero-Merox unit at its STAR refinery in Türkiye worth about $120 million to boost diesel and jet-fuel output, pushing SOCAR's total Turkish investment toward $20 billion.",
+      "url": "https://www.turkishminute.com/2026/11/10/socar-criticized-over-israel-oil-trade-puts-turkey-investments-at-20-billion/",
+      "i18n": {
+        "de": {
+          "headline": "SOCAR investiert 120 Mio. USD in STAR-Raffinerie",
+          "summary": "SOCAR hat in seiner türkischen STAR-Raffinerie eine neue Kero-Merox-Anlage im Wert von rund 120 Mio. USD für mehr Diesel- und Kerosinproduktion gestartet, womit sich SOCARs Gesamtinvestitionen in der Türkei auf rund 20 Mrd. USD belaufen."
+        },
+        "fr": {
+          "headline": "SOCAR investit 120 millions USD dans la raffinerie STAR",
+          "summary": "SOCAR a lancé une nouvelle unité Kero-Merox à sa raffinerie STAR en Türkiye, d'une valeur d'environ 120 millions USD, pour augmenter la production de diesel et de kérosène, portant ses investissements turcs totaux à environ 20 milliards USD."
+        },
+        "it": {
+          "headline": "SOCAR investe 120 milioni USD nella raffineria STAR",
+          "summary": "SOCAR ha avviato una nuova unità Kero-Merox presso la raffineria STAR in Türkiye, del valore di circa 120 milioni USD, per aumentare la produzione di diesel e cherosene, portando gli investimenti totali in Turchia a circa 20 miliardi USD."
         }
       }
     },
     {
       "date": "2026-11-13",
-      "tag": "NOC",
-      "company": "NNPC Ltd",
-      "headline": "NNPC receives land title for Edo refinery",
-      "summary": "Edo State's governor handed NNPC Ltd the land title for its proposed Oredo refinery, though project cost and start date remain unconfirmed.",
-      "url": "https://www.riotimesonline.com/edo-gives-state-oil-firm-refinery-land/",
-      "i18n": {
-        "de": {
-          "headline": "NNPC erhält Grundstückstitel für Raffinerie in Edo",
-          "summary": "Der Gouverneur des Bundesstaates Edo übergab NNPC Ltd den Grundstückstitel für die geplante Oredo-Raffinerie; Kosten und Starttermin sind noch unbestätigt."
-        },
-        "fr": {
-          "headline": "NNPC obtient le titre foncier pour la raffinerie d'Edo",
-          "summary": "Le gouverneur de l'État d'Edo a remis à NNPC Ltd le titre foncier pour sa raffinerie Oredo prévue; le coût et la date de démarrage restent à confirmer."
-        },
-        "it": {
-          "headline": "NNPC riceve il titolo fondiario per la raffineria di Edo",
-          "summary": "Il governatore dello Stato di Edo ha consegnato a NNPC Ltd il titolo fondiario per la prevista raffineria di Oredo; costi e data di avvio restano da confermare."
-        }
-      }
-    },
-    {
-      "date": "2026-11-14",
-      "tag": "FIN",
-      "company": "Afreximbank",
-      "headline": "Afreximbank commits $75m SME facility in Nigeria",
-      "summary": "Afreximbank signed a $75 million finance facility with the Development Bank of Nigeria to widen SME access to credit, including export-oriented and creative businesses.",
-      "url": "https://thesun.ng/afreximbank-commits-75m-sme-finance-facility-to-development-bank-of-nigeria/",
-      "i18n": {
-        "de": {
-          "headline": "Afreximbank sagt Nigeria 75-Mio.-Dollar-KMU-Fazilität zu",
-          "summary": "Afreximbank unterzeichnete mit der Development Bank of Nigeria eine Finanzierungsfazilität über 75 Millionen Dollar, um KMU, darunter exportorientierte und kreative Unternehmen, besseren Kreditzugang zu verschaffen."
-        },
-        "fr": {
-          "headline": "Afreximbank engage 75 millions de dollars pour les PME nigérianes",
-          "summary": "Afreximbank a signé une facilité de financement de 75 millions de dollars avec la Development Bank of Nigeria pour élargir l'accès au crédit des PME, y compris les entreprises exportatrices et créatives."
-        },
-        "it": {
-          "headline": "Afreximbank stanzia 75 milioni di dollari per le PMI nigeriane",
-          "summary": "Afreximbank ha firmato una linea di finanziamento da 75 milioni di dollari con la Development Bank of Nigeria per ampliare l'accesso al credito delle PMI, comprese quelle orientate all'export e al settore creativo."
-        }
-      }
-    },
-    {
-      "date": "2026-11-11",
-      "tag": "BANK",
-      "company": "Stanbic Bank Ghana",
-      "headline": "Stanbic Bank Ghana opens cedi-to-China payment corridor",
-      "summary": "Stanbic Bank Ghana launched a CIPS-based corridor letting local businesses pay Chinese suppliers directly in cedis without needing yuan, easing cross-border trade settlement.",
-      "url": "https://thechronicle.com.gh/stanbic-bank-facilitates-payments-in-ghana-china-trade/",
-      "i18n": {
-        "de": {
-          "headline": "Stanbic Bank Ghana eröffnet Cedi-China-Zahlungskorridor",
-          "summary": "Stanbic Bank Ghana lancierte einen CIPS-Korridor, mit dem lokale Unternehmen chinesische Lieferanten direkt in Cedi bezahlen können, ohne Yuan zu benötigen, und erleichtert so die grenzüberschreitende Handelsabwicklung."
-        },
-        "fr": {
-          "headline": "Stanbic Bank Ghana ouvre un corridor de paiement cedi-Chine",
-          "summary": "Stanbic Bank Ghana a lancé un corridor basé sur CIPS permettant aux entreprises locales de payer directement leurs fournisseurs chinois en cedis, sans besoin de yuans, facilitant le règlement commercial transfrontalier."
-        },
-        "it": {
-          "headline": "Stanbic Bank Ghana apre un corridoio di pagamento cedi-Cina",
-          "summary": "Stanbic Bank Ghana ha lanciato un corridoio basato su CIPS che consente alle aziende locali di pagare i fornitori cinesi direttamente in cedi, senza bisogno di yuan, facilitando i regolamenti commerciali transfrontalieri."
-        }
-      }
-    },
-    {
-      "date": "2026-11-11",
-      "tag": "FIN",
+      "tag": "CTRM",
       "company": "",
-      "headline": "AfDB and TDB sign $200 million trade finance line",
-      "summary": "The African Development Bank approved a $200 million trade finance line of credit for the Trade and Development Bank, expected to catalyse over $1 billion in intra-African trade, including fuel and fertiliser.",
-      "url": "https://www.gtreview.com/news/africa/afdb-agrees-us200mn-trade-finance-with-facility-with-tdb/",
+      "headline": "CTRM vendors race to meet EU deforestation rules",
+      "summary": "As commodity trading companies prepare for the EU Deforestation Regulation, CTRM vendors face growing pressure to support increasingly detailed, lot-level supply-chain traceability, industry analysis notes.",
+      "url": "https://www.ctrmcenter.com/",
       "i18n": {
         "de": {
-          "headline": "AfDB und TDB vereinbaren 200-Mio.-Dollar-Handelsfinanzierung",
-          "summary": "Die Afrikanische Entwicklungsbank genehmigte eine Handelsfinanzierungslinie über 200 Millionen Dollar für die Trade and Development Bank, die über 1 Milliarde Dollar an innerafrikanischem Handel, einschliesslich Treibstoff und Dünger, auslösen soll."
+          "headline": "CTRM-Anbieter rüsten für EU-Entwaldungsverordnung",
+          "summary": "Da sich Rohstoffhandelsfirmen auf die EU-Entwaldungsverordnung vorbereiten, stehen CTRM-Anbieter laut Branchenanalyse zunehmend unter Druck, eine detaillierte Rückverfolgbarkeit der Lieferkette bis auf Chargenebene zu unterstützen."
         },
         "fr": {
-          "headline": "La BAD et la TDB signent une ligne de 200 millions de dollars",
-          "summary": "La Banque africaine de développement a approuvé une ligne de crédit commerciale de 200 millions de dollars pour la Trade and Development Bank, censée catalyser plus d'un milliard de dollars de commerce intra-africain, dont carburant et engrais."
+          "headline": "Les éditeurs CTRM s'adaptent au règlement EUDR",
+          "summary": "Alors que les négociants de matières premières se préparent au règlement européen sur la déforestation, les éditeurs de CTRM sont de plus en plus sollicités pour assurer une traçabilité détaillée de la chaîne d'approvisionnement, selon une analyse sectorielle."
         },
         "it": {
-          "headline": "AfDB e TDB firmano una linea commerciale da 200 milioni",
-          "summary": "La Banca africana di sviluppo ha approvato una linea di credito commerciale da 200 milioni di dollari per la Trade and Development Bank, destinata a generare oltre un miliardo di dollari di scambi intra-africani, inclusi carburante e fertilizzanti."
+          "headline": "I fornitori CTRM si adeguano al regolamento EUDR",
+          "summary": "Mentre le società di trading di materie prime si preparano al regolamento UE sulla deforestazione, i fornitori di CTRM sono sempre più sollecitati a garantire una tracciabilità dettagliata della filiera, secondo un'analisi di settore."
         }
       }
     },
     {
-      "date": "2026-11-11",
-      "tag": "LOG",
+      "date": "2026-11-06",
+      "tag": "REG",
       "company": "",
-      "headline": "Red Sea shipping recovery strains European ports",
-      "summary": "As container lines resume Suez Canal routes, Rotterdam and Antwerp-Bruges expect over 145% of normal weekly capacity, risking renewed port congestion on the Asia-Europe lane.",
-      "url": "https://wwd.com/sourcing-journal/logistics/red-sea-return-suez-canal-port-congestion-european-ports-flexport-1239411825/",
+      "headline": "US tightens customs rules for foreign importers",
+      "summary": "US Customs and Border Protection published an interim final rule imposing new requirements on foreign importers of record, the parties legally responsible for import duties and compliance, ahead of a January deadline.",
+      "url": "https://www.shippingandfreightresource.com/trade-moves-16-nov-2026/",
       "i18n": {
         "de": {
-          "headline": "Rotkanal-Erholung belastet europäische Häfen",
-          "summary": "Da Containerlinien wieder die Suezkanal-Route nutzen, erwarten Rotterdam und Antwerpen-Brügge über 145% der normalen Wochenkapazität, was neue Hafenstaus auf der Asien-Europa-Route riskiert."
+          "headline": "USA verschärfen Zollregeln für ausländische Importeure",
+          "summary": "Die US-Zollbehörde CBP hat eine vorläufige Schlussregel veröffentlicht, die neue Anforderungen an ausländische Importeure als rechtlich Verantwortliche für Zölle und Compliance stellt, vor einer Frist im Januar."
         },
         "fr": {
-          "headline": "La reprise en mer Rouge sature les ports européens",
-          "summary": "Alors que les lignes de conteneurs reprennent la route du canal de Suez, Rotterdam et Anvers-Bruges s'attendent à plus de 145% de leur capacité hebdomadaire normale, risquant une nouvelle congestion sur la route Asie-Europe."
+          "headline": "Les États-Unis durcissent les règles douanières",
+          "summary": "La douane américaine (CBP) a publié une règle finale provisoire imposant de nouvelles exigences aux importateurs étrangers officiels, responsables légalement des droits de douane et de la conformité, avant une échéance en janvier."
         },
         "it": {
-          "headline": "La ripresa nel Mar Rosso congestiona i porti europei",
-          "summary": "Mentre le linee container tornano a usare il Canale di Suez, Rotterdam e Anversa-Bruges prevedono oltre il 145% della capacità settimanale normale, con rischio di nuova congestione sulla rotta Asia-Europa."
+          "headline": "Gli USA inaspriscono le regole doganali per gli importatori",
+          "summary": "La dogana statunitense (CBP) ha pubblicato una norma finale provvisoria che impone nuovi requisiti agli importatori esteri di record, responsabili legalmente di dazi e conformità, in vista di una scadenza a gennaio."
         }
       }
     }
