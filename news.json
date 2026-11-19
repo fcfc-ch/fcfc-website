@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-11-18T14:54:52Z",
+  "generated_at": "2026-11-19T15:00:39Z",
   "items": [
     {
-      "date": "2026-11-08",
-      "tag": "NOC",
-      "company": "NNPC Ltd",
-      "headline": "NNPC courts investors for Morocco gas pipeline",
-      "summary": "NNPC is actively seeking investors for a planned $25-26 billion gas pipeline to Morocco and expects Trans-Saharan pipeline FID talks to start in 2027, while also weighing a 5-10% domestic IPO.",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-11-08:newsml_Zaw456BZd:0-nnpc-pitches-investors-on-nigeria-morocco-gas-pipeline-eyes-trans-saharan-fid-talks-in-2027/",
-      "i18n": {
-        "de": {
-          "headline": "NNPC wirbt Investoren für Marokko-Gaspipeline",
-          "summary": "NNPC sucht aktiv Investoren für eine geplante Gaspipeline nach Marokko im Wert von 25-26 Mrd. USD und erwartet 2027 erste FID-Gespräche zur Transsahara-Pipeline, während ein Börsengang von 5-10% geprüft wird."
-        },
-        "fr": {
-          "headline": "NNPC recherche des investisseurs pour le gazoduc marocain",
-          "summary": "NNPC recherche activement des investisseurs pour un gazoduc prévu de 25 à 26 milliards USD vers le Maroc et prévoit des discussions sur la décision finale d'investissement transsaharien en 2027, tout en envisageant une IPO de 5 à 10%."
-        },
-        "it": {
-          "headline": "NNPC cerca investitori per gasdotto verso il Marocco",
-          "summary": "NNPC cerca attivamente investitori per un gasdotto da 25-26 miliardi di dollari verso il Marocco e prevede discussioni sulla decisione finale d'investimento transahariana nel 2027, valutando anche una IPO del 5-10%."
-        }
-      }
-    },
-    {
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "tag": "FIN",
-      "company": "Afreximbank",
-      "headline": "Afreximbank commits $75m SME export finance facility",
-      "summary": "Afreximbank signed a $75 million finance facility with the Development Bank of Nigeria to expand funding access for export-oriented SMEs, including creative-economy businesses, announced at CANEX WKND 2026.",
-      "url": "https://www.thisdaylive.com/2026/11/16/afreximbank-commits-75m-sme-finance-facility-to-dbn/",
+      "company": "NNPC Ltd",
+      "headline": "NNPC, Nigeria Central Bank Sign Financing Pact",
+      "summary": "<cite index=\"5-1\">Nigeria's central bank and state oil company NNPC Ltd signed an agreement on Wednesday to work more closely on foreign exchange inflows, energy funding and the development of oil and gas assets.</cite> <cite index=\"7-3\">The deal aims to develop financial structures allowing NNPC to raise capital using its balance sheet and assets, with CBN guidance.</cite>",
+      "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding",
       "i18n": {
         "de": {
-          "headline": "Afreximbank gewährt KMU-Exportfinanzierung über 75 Mio. USD",
-          "summary": "Afreximbank hat mit der Development Bank of Nigeria eine Finanzierungsfazilität über 75 Mio. USD unterzeichnet, um exportorientierten KMU, einschliesslich der Kreativwirtschaft, den Zugang zu Finanzmitteln zu erleichtern."
+          "headline": "NNPC und Zentralbank Nigerias unterzeichnen Finanzierungspakt",
+          "summary": "Die nigerianische Zentralbank und die Staatsölgesellschaft NNPC haben eine Vereinbarung zu Devisenzuflüssen, Energiefinanzierung und Entwicklung von Öl- und Gasanlagen unterzeichnet. Ziel ist es, NNPC den Zugang zu Kapital über ihre Bilanz und Vermögenswerte zu ermöglichen."
         },
         "fr": {
-          "headline": "Afreximbank accorde 75 millions USD aux PME exportatrices",
-          "summary": "Afreximbank a signé avec la Development Bank of Nigeria une facilité de financement de 75 millions USD pour élargir l'accès au financement des PME exportatrices, y compris dans les industries créatives, annoncée lors du CANEX WKND 2026."
+          "headline": "NNPC et la banque centrale nigériane signent un pacte financier",
+          "summary": "La banque centrale du Nigeria et la compagnie pétrolière publique NNPC ont signé un accord sur les flux de devises, le financement énergétique et le développement des actifs pétroliers et gaziers. L'accord vise à permettre à NNPC de lever des capitaux via son bilan."
         },
         "it": {
-          "headline": "Afreximbank stanzia 75 milioni USD per PMI esportatrici",
-          "summary": "Afreximbank ha firmato con la Development Bank of Nigeria una linea di finanziamento da 75 milioni USD per ampliare l'accesso al credito delle PMI orientate all'export, incluse quelle del settore creativo."
+          "headline": "NNPC e banca centrale nigeriana firmano accordo finanziario",
+          "summary": "La banca centrale nigeriana e la compagnia petrolifera statale NNPC hanno firmato un accordo su flussi valutari, finanziamento energetico e sviluppo di asset petroliferi e gas. L'intesa mira a far raccogliere capitale a NNPC tramite il proprio bilancio."
         }
       }
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-19",
       "tag": "GOLD",
       "company": "Ghana Gold Board (GoldBod)",
-      "headline": "GoldBod exports $12bn gold, proposes FX discount",
-      "summary": "Ghana's Finance Minister reported GoldBod exported 88 tonnes of small-scale gold worth about $12 billion in 2026, with a proposed 3% purchase discount planned for 2027 to cut FX-generation costs.",
-      "url": "https://www.ghanaweb.com/GhanaHomePage/business/GoldBod-records-US-12-billion-in-gold-exports-in-2026-2061249",
+      "headline": "GoldBod Deepens Local Gold Refining Push",
+      "summary": "<cite index=\"17-2,17-3\">The Ghana Gold Board refined 94.6 per cent of the small-scale gold it bought in October, 5.4 of 5.7 tonnes, as Ghana pushes to process its gold at home rather than ship it raw.</cite> <cite index=\"15-1\">GoldBod now intends to work with more refineries and is considering building its own facility.</cite>",
+      "url": "https://3news.com/business/goldbod-94-percent-small-scale-gold-refined-locally-october",
       "i18n": {
         "de": {
-          "headline": "GoldBod exportiert Gold für 12 Mrd. USD, plant FX-Rabatt",
-          "summary": "Ghanas Finanzminister berichtete, dass GoldBod 2026 88 Tonnen Kleinbergbau-Gold im Wert von rund 12 Mrd. USD exportiert hat; für 2027 ist ein Ankaufsrabatt von 3% zur Senkung der Devisenkosten geplant."
+          "headline": "GoldBod treibt lokale Goldraffinierung voran",
+          "summary": "Die Ghana Gold Board (GoldBod) liess im Oktober 94,6% des angekauften Kleinbergbau-Goldes im Inland raffinieren und will nun weitere Raffinerien einbinden oder eine eigene Anlage bauen."
         },
         "fr": {
-          "headline": "GoldBod exporte 12 milliards USD d'or, propose une remise FX",
-          "summary": "Le ministre des Finances du Ghana a indiqué que GoldBod a exporté 88 tonnes d'or artisanal d'une valeur d'environ 12 milliards USD en 2026, avec une remise d'achat de 3% proposée pour 2027 afin de réduire les coûts de génération de devises."
+          "headline": "GoldBod accélère le raffinage local de l'or",
+          "summary": "Le Ghana Gold Board (GoldBod) a fait raffiner localement 94,6% de l'or artisanal acheté en octobre et prévoit d'intégrer davantage de raffineries, voire de construire sa propre installation."
         },
         "it": {
-          "headline": "GoldBod esporta oro per 12 miliardi USD, propone sconto FX",
-          "summary": "Il ministro delle Finanze del Ghana ha riferito che GoldBod ha esportato 88 tonnellate di oro artigianale per circa 12 miliardi USD nel 2026, con uno sconto d'acquisto del 3% proposto per il 2027 per ridurre i costi di generazione valutaria."
+          "headline": "GoldBod rafforza la raffinazione locale dell'oro",
+          "summary": "Il Ghana Gold Board (GoldBod) ha fatto raffinare localmente il 94,6% dell'oro artigianale acquistato a ottobre e prevede di coinvolgere altre raffinerie o costruirne una propria."
+        }
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "tag": "FIN",
+      "company": "Afreximbank",
+      "headline": "Afreximbank, NEXIM Launch $30m SME Facility",
+      "summary": "<cite index=\"25-1\">Afreximbank will lend US$30 million to NEXIM for direct lending to eligible Nigerian SMEs and export-oriented businesses across key sectors.</cite> <cite index=\"29-3\">The facility will finance working capital and capital expenditure for export and intra-African trade activities.</cite>",
+      "url": "https://afreximbank.africa-newsroom.com/press/afreximbank-and-nigerian-exportimport-bank-nexim-announce-us30-million-facility-to-support-nigerian-small-and-mediumsized-enterprises-smes-exports?lang=en",
+      "i18n": {
+        "de": {
+          "headline": "Afreximbank und NEXIM lancieren 30-Mio.-Fazilität",
+          "summary": "Afreximbank vergibt NEXIM einen Kredit über 30 Millionen US-Dollar zur direkten Finanzierung exportorientierter nigerianischer KMU. Die Mittel decken Betriebskapital und Investitionen für Export- und innerafrikanischen Handel ab."
+        },
+        "fr": {
+          "headline": "Afreximbank et NEXIM lancent une facilité de 30 M$",
+          "summary": "Afreximbank accorde à NEXIM un prêt de 30 millions de dollars destiné au financement direct des PME nigérianes exportatrices. Les fonds couvrent le fonds de roulement et les investissements liés au commerce intra-africain."
+        },
+        "it": {
+          "headline": "Afreximbank e NEXIM lanciano facility da 30 mln $",
+          "summary": "Afreximbank concede a NEXIM un prestito di 30 milioni di dollari per finanziare direttamente le PMI nigeriane orientate all'export. I fondi copriranno capitale circolante e investimenti per il commercio intra-africano."
         }
       }
     },
@@ -71,21 +71,21 @@
       "date": "2026-11-10",
       "tag": "REF",
       "company": "SOCAR STAR Refinery",
-      "headline": "SOCAR invests $120m in STAR refinery jet-fuel unit",
-      "summary": "SOCAR launched a new Kero-Merox unit at its STAR refinery in Türkiye worth about $120 million to boost diesel and jet-fuel output, pushing SOCAR's total Turkish investment toward $20 billion.",
-      "url": "https://www.turkishminute.com/2026/11/10/socar-criticized-over-israel-oil-trade-puts-turkey-investments-at-20-billion/",
+      "headline": "SOCAR Invests $120m in New STAR Refinery Unit",
+      "summary": "<cite index=\"41-4,41-5\">SOCAR Türkiye is launching a roughly $120 million project at the STAR Oil Refinery, signing a contract with an international consortium for engineering, procurement and construction of a new unit.</cite> <cite index=\"41-3\">Total SOCAR investment in Türkiye will thereby reach $20 billion.</cite>",
+      "url": "https://www.trend.az/azerbaijan/4244881.html",
       "i18n": {
         "de": {
           "headline": "SOCAR investiert 120 Mio. USD in STAR-Raffinerie",
-          "summary": "SOCAR hat in seiner türkischen STAR-Raffinerie eine neue Kero-Merox-Anlage im Wert von rund 120 Mio. USD für mehr Diesel- und Kerosinproduktion gestartet, womit sich SOCARs Gesamtinvestitionen in der Türkei auf rund 20 Mrd. USD belaufen."
+          "summary": "SOCAR Türkiye startet ein rund 120-Millionen-Dollar-Projekt für eine neue Anlage in der STAR-Raffinerie und erhöht damit die Gesamtinvestitionen in der Türkei auf 20 Milliarden Dollar."
         },
         "fr": {
-          "headline": "SOCAR investit 120 millions USD dans la raffinerie STAR",
-          "summary": "SOCAR a lancé une nouvelle unité Kero-Merox à sa raffinerie STAR en Türkiye, d'une valeur d'environ 120 millions USD, pour augmenter la production de diesel et de kérosène, portant ses investissements turcs totaux à environ 20 milliards USD."
+          "headline": "SOCAR investit 120 M$ dans la raffinerie STAR",
+          "summary": "SOCAR Türkiye lance un projet d'environ 120 millions de dollars pour une nouvelle unité à la raffinerie STAR, portant ses investissements totaux en Turquie à 20 milliards de dollars."
         },
         "it": {
-          "headline": "SOCAR investe 120 milioni USD nella raffineria STAR",
-          "summary": "SOCAR ha avviato una nuova unità Kero-Merox presso la raffineria STAR in Türkiye, del valore di circa 120 milioni USD, per aumentare la produzione di diesel e cherosene, portando gli investimenti totali in Turchia a circa 20 miliardi USD."
+          "headline": "SOCAR investe 120 mln $ nella raffineria STAR",
+          "summary": "SOCAR Türkiye avvia un progetto da circa 120 milioni di dollari per una nuova unità nella raffineria STAR, portando gli investimenti totali in Turchia a 20 miliardi di dollari."
         }
       }
     },
@@ -93,43 +93,43 @@
       "date": "2026-11-13",
       "tag": "CTRM",
       "company": "",
-      "headline": "CTRM vendors race to meet EU deforestation rules",
-      "summary": "As commodity trading companies prepare for the EU Deforestation Regulation, CTRM vendors face growing pressure to support increasingly detailed, lot-level supply-chain traceability, industry analysis notes.",
+      "headline": "EUDR Pushes CTRM Vendors Toward Traceability",
+      "summary": "<cite index=\"62-1\">As commodity trading companies prepare for the EU Deforestation Regulation (EUDR), CTRM vendors face growing pressure to support increasingly detailed supply-chain traceability</cite> for traders handling at-risk commodities.",
       "url": "https://www.ctrmcenter.com/",
       "i18n": {
         "de": {
-          "headline": "CTRM-Anbieter rüsten für EU-Entwaldungsverordnung",
-          "summary": "Da sich Rohstoffhandelsfirmen auf die EU-Entwaldungsverordnung vorbereiten, stehen CTRM-Anbieter laut Branchenanalyse zunehmend unter Druck, eine detaillierte Rückverfolgbarkeit der Lieferkette bis auf Chargenebene zu unterstützen."
+          "headline": "EUDR zwingt CTRM-Anbieter zu mehr Rückverfolgbarkeit",
+          "summary": "Mit Blick auf die EU-Entwaldungsverordnung (EUDR) stehen CTRM-Softwareanbieter unter wachsendem Druck, detaillierte Rückverfolgbarkeit entlang der Lieferkette für Rohstoffhändler zu ermöglichen."
         },
         "fr": {
-          "headline": "Les éditeurs CTRM s'adaptent au règlement EUDR",
-          "summary": "Alors que les négociants de matières premières se préparent au règlement européen sur la déforestation, les éditeurs de CTRM sont de plus en plus sollicités pour assurer une traçabilité détaillée de la chaîne d'approvisionnement, selon une analyse sectorielle."
+          "headline": "L'EUDR pousse les éditeurs CTRM vers la traçabilité",
+          "summary": "Face au règlement européen sur la déforestation (EUDR), les éditeurs de logiciels CTRM subissent une pression croissante pour offrir une traçabilité détaillée de la chaîne d'approvisionnement aux négociants."
         },
         "it": {
-          "headline": "I fornitori CTRM si adeguano al regolamento EUDR",
-          "summary": "Mentre le società di trading di materie prime si preparano al regolamento UE sulla deforestazione, i fornitori di CTRM sono sempre più sollecitati a garantire una tracciabilità dettagliata della filiera, secondo un'analisi di settore."
+          "headline": "L'EUDR spinge i fornitori CTRM verso la tracciabilità",
+          "summary": "In vista del regolamento UE sulla deforestazione (EUDR), i fornitori di software CTRM subiscono crescente pressione per garantire una tracciabilità dettagliata della filiera ai trader di materie prime."
         }
       }
     },
     {
-      "date": "2026-11-06",
-      "tag": "REG",
+      "date": "2026-11-16",
+      "tag": "FIN",
       "company": "",
-      "headline": "US tightens customs rules for foreign importers",
-      "summary": "US Customs and Border Protection published an interim final rule imposing new requirements on foreign importers of record, the parties legally responsible for import duties and compliance, ahead of a January deadline.",
-      "url": "https://www.shippingandfreightresource.com/trade-moves-16-nov-2026/",
+      "headline": "Glencore Adopts FIS Platform for Receivables",
+      "summary": "<cite index=\"69-1\">Commodity trader Glencore has adopted FIS' Supply Chain Finance Platform to induct its oil and gas trade receivables securitisation programme.</cite>",
+      "url": "https://www.tradefinanceglobal.com/posts/weekly-trade-briefing/",
       "i18n": {
         "de": {
-          "headline": "USA verschärfen Zollregeln für ausländische Importeure",
-          "summary": "Die US-Zollbehörde CBP hat eine vorläufige Schlussregel veröffentlicht, die neue Anforderungen an ausländische Importeure als rechtlich Verantwortliche für Zölle und Compliance stellt, vor einer Frist im Januar."
+          "headline": "Glencore nutzt FIS-Plattform für Forderungen",
+          "summary": "Der Rohstoffhändler Glencore setzt die Supply-Chain-Finance-Plattform von FIS ein, um sein Verbriefungsprogramm für Öl- und Gashandelsforderungen abzuwickeln."
         },
         "fr": {
-          "headline": "Les États-Unis durcissent les règles douanières",
-          "summary": "La douane américaine (CBP) a publié une règle finale provisoire imposant de nouvelles exigences aux importateurs étrangers officiels, responsables légalement des droits de douane et de la conformité, avant une échéance en janvier."
+          "headline": "Glencore adopte la plateforme FIS pour ses créances",
+          "summary": "Le négociant en matières premières Glencore utilise la plateforme Supply Chain Finance de FIS pour son programme de titrisation des créances commerciales pétrole et gaz."
         },
         "it": {
-          "headline": "Gli USA inaspriscono le regole doganali per gli importatori",
-          "summary": "La dogana statunitense (CBP) ha pubblicato una norma finale provvisoria che impone nuovi requisiti agli importatori esteri di record, responsabili legalmente di dazi e conformità, in vista di una scadenza a gennaio."
+          "headline": "Glencore adotta la piattaforma FIS per i crediti",
+          "summary": "Il trader di materie prime Glencore utilizza la piattaforma Supply Chain Finance di FIS per gestire il proprio programma di cartolarizzazione dei crediti commerciali su petrolio e gas."
         }
       }
     }
