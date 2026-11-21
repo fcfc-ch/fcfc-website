@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-11-19T15:00:39Z",
+  "generated_at": "2026-11-21T13:58:45Z",
   "items": [
     {
       "date": "2026-11-18",
-      "tag": "FIN",
+      "tag": "NOC",
       "company": "NNPC Ltd",
-      "headline": "NNPC, Nigeria Central Bank Sign Financing Pact",
-      "summary": "<cite index=\"5-1\">Nigeria's central bank and state oil company NNPC Ltd signed an agreement on Wednesday to work more closely on foreign exchange inflows, energy funding and the development of oil and gas assets.</cite> <cite index=\"7-3\">The deal aims to develop financial structures allowing NNPC to raise capital using its balance sheet and assets, with CBN guidance.</cite>",
-      "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding",
+      "headline": "NNPC and Nigeria's Central Bank Sign Financing MoU",
+      "summary": "NNPC Ltd signed a memorandum of understanding with the Central Bank of Nigeria to align FX conversions and contractor payments and to develop asset-backed financing structures.",
+      "url": "https://nairametrics.com/2026/11/19/nnpc-plans-to-leverage-assets-to-raise-capital-under-new-cbn-deal/",
       "i18n": {
         "de": {
-          "headline": "NNPC und Zentralbank Nigerias unterzeichnen Finanzierungspakt",
-          "summary": "Die nigerianische Zentralbank und die Staatsölgesellschaft NNPC haben eine Vereinbarung zu Devisenzuflüssen, Energiefinanzierung und Entwicklung von Öl- und Gasanlagen unterzeichnet. Ziel ist es, NNPC den Zugang zu Kapital über ihre Bilanz und Vermögenswerte zu ermöglichen."
+          "headline": "NNPC und Nigerias Zentralbank unterzeichnen Finanzierungs-MoU",
+          "summary": "NNPC Ltd hat mit der Zentralbank Nigerias ein Memorandum unterzeichnet, um Devisenflüsse und Zahlungen an Auftragnehmer abzustimmen und vermögensbasierte Finanzierungsstrukturen zu entwickeln."
         },
         "fr": {
-          "headline": "NNPC et la banque centrale nigériane signent un pacte financier",
-          "summary": "La banque centrale du Nigeria et la compagnie pétrolière publique NNPC ont signé un accord sur les flux de devises, le financement énergétique et le développement des actifs pétroliers et gaziers. L'accord vise à permettre à NNPC de lever des capitaux via son bilan."
+          "headline": "NNPC et la banque centrale nigériane signent un accord de financement",
+          "summary": "NNPC Ltd a signé un protocole d'accord avec la banque centrale du Nigeria pour aligner les flux de change et les paiements aux entrepreneurs et développer un financement adossé aux actifs."
         },
         "it": {
-          "headline": "NNPC e banca centrale nigeriana firmano accordo finanziario",
-          "summary": "La banca centrale nigeriana e la compagnia petrolifera statale NNPC hanno firmato un accordo su flussi valutari, finanziamento energetico e sviluppo di asset petroliferi e gas. L'intesa mira a far raccogliere capitale a NNPC tramite il proprio bilancio."
+          "headline": "NNPC e banca centrale nigeriana firmano accordo di finanziamento",
+          "summary": "NNPC Ltd ha firmato un memorandum con la banca centrale della Nigeria per allineare i flussi valutari e i pagamenti agli appaltatori e sviluppare finanziamenti garantiti da asset."
         }
       }
     },
     {
-      "date": "2026-11-19",
-      "tag": "GOLD",
-      "company": "Ghana Gold Board (GoldBod)",
-      "headline": "GoldBod Deepens Local Gold Refining Push",
-      "summary": "<cite index=\"17-2,17-3\">The Ghana Gold Board refined 94.6 per cent of the small-scale gold it bought in October, 5.4 of 5.7 tonnes, as Ghana pushes to process its gold at home rather than ship it raw.</cite> <cite index=\"15-1\">GoldBod now intends to work with more refineries and is considering building its own facility.</cite>",
-      "url": "https://3news.com/business/goldbod-94-percent-small-scale-gold-refined-locally-october",
-      "i18n": {
-        "de": {
-          "headline": "GoldBod treibt lokale Goldraffinierung voran",
-          "summary": "Die Ghana Gold Board (GoldBod) liess im Oktober 94,6% des angekauften Kleinbergbau-Goldes im Inland raffinieren und will nun weitere Raffinerien einbinden oder eine eigene Anlage bauen."
-        },
-        "fr": {
-          "headline": "GoldBod accélère le raffinage local de l'or",
-          "summary": "Le Ghana Gold Board (GoldBod) a fait raffiner localement 94,6% de l'or artisanal acheté en octobre et prévoit d'intégrer davantage de raffineries, voire de construire sa propre installation."
-        },
-        "it": {
-          "headline": "GoldBod rafforza la raffinazione locale dell'oro",
-          "summary": "Il Ghana Gold Board (GoldBod) ha fatto raffinare localmente il 94,6% dell'oro artigianale acquistato a ottobre e prevede di coinvolgere altre raffinerie o costruirne una propria."
-        }
-      }
-    },
-    {
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "tag": "FIN",
       "company": "Afreximbank",
-      "headline": "Afreximbank, NEXIM Launch $30m SME Facility",
-      "summary": "<cite index=\"25-1\">Afreximbank will lend US$30 million to NEXIM for direct lending to eligible Nigerian SMEs and export-oriented businesses across key sectors.</cite> <cite index=\"29-3\">The facility will finance working capital and capital expenditure for export and intra-African trade activities.</cite>",
-      "url": "https://afreximbank.africa-newsroom.com/press/afreximbank-and-nigerian-exportimport-bank-nexim-announce-us30-million-facility-to-support-nigerian-small-and-mediumsized-enterprises-smes-exports?lang=en",
+      "headline": "Afreximbank Commits $75m SME Facility to Nigerian Bank",
+      "summary": "Afreximbank agreed a $75 million facility with the Development Bank of Nigeria to expand SME and export financing, including creative-economy businesses, via participating financial institutions.",
+      "url": "https://allafrica.com/stories/202611190461.html",
       "i18n": {
         "de": {
-          "headline": "Afreximbank und NEXIM lancieren 30-Mio.-Fazilität",
-          "summary": "Afreximbank vergibt NEXIM einen Kredit über 30 Millionen US-Dollar zur direkten Finanzierung exportorientierter nigerianischer KMU. Die Mittel decken Betriebskapital und Investitionen für Export- und innerafrikanischen Handel ab."
+          "headline": "Afreximbank gewährt nigerianischer Bank 75-Mio.-Fazilität",
+          "summary": "Afreximbank hat mit der Development Bank of Nigeria eine 75-Mio.-US-Dollar-Fazilität vereinbart, um über Partnerbanken die Finanzierung von KMU und Exporteuren, auch der Kreativwirtschaft, auszubauen."
         },
         "fr": {
-          "headline": "Afreximbank et NEXIM lancent une facilité de 30 M$",
-          "summary": "Afreximbank accorde à NEXIM un prêt de 30 millions de dollars destiné au financement direct des PME nigérianes exportatrices. Les fonds couvrent le fonds de roulement et les investissements liés au commerce intra-africain."
+          "headline": "Afreximbank accorde 75 millions $ à une banque nigériane",
+          "summary": "Afreximbank a conclu avec la Development Bank of Nigeria une facilité de 75 millions de dollars pour élargir le financement des PME et exportateurs, y compris l'économie créative, via des institutions partenaires."
         },
         "it": {
-          "headline": "Afreximbank e NEXIM lanciano facility da 30 mln $",
-          "summary": "Afreximbank concede a NEXIM un prestito di 30 milioni di dollari per finanziare direttamente le PMI nigeriane orientate all'export. I fondi copriranno capitale circolante e investimenti per il commercio intra-africano."
-        }
-      }
-    },
-    {
-      "date": "2026-11-10",
-      "tag": "REF",
-      "company": "SOCAR STAR Refinery",
-      "headline": "SOCAR Invests $120m in New STAR Refinery Unit",
-      "summary": "<cite index=\"41-4,41-5\">SOCAR Türkiye is launching a roughly $120 million project at the STAR Oil Refinery, signing a contract with an international consortium for engineering, procurement and construction of a new unit.</cite> <cite index=\"41-3\">Total SOCAR investment in Türkiye will thereby reach $20 billion.</cite>",
-      "url": "https://www.trend.az/azerbaijan/4244881.html",
-      "i18n": {
-        "de": {
-          "headline": "SOCAR investiert 120 Mio. USD in STAR-Raffinerie",
-          "summary": "SOCAR Türkiye startet ein rund 120-Millionen-Dollar-Projekt für eine neue Anlage in der STAR-Raffinerie und erhöht damit die Gesamtinvestitionen in der Türkei auf 20 Milliarden Dollar."
-        },
-        "fr": {
-          "headline": "SOCAR investit 120 M$ dans la raffinerie STAR",
-          "summary": "SOCAR Türkiye lance un projet d'environ 120 millions de dollars pour une nouvelle unité à la raffinerie STAR, portant ses investissements totaux en Turquie à 20 milliards de dollars."
-        },
-        "it": {
-          "headline": "SOCAR investe 120 mln $ nella raffineria STAR",
-          "summary": "SOCAR Türkiye avvia un progetto da circa 120 milioni di dollari per una nuova unità nella raffineria STAR, portando gli investimenti totali in Turchia a 20 miliardi di dollari."
+          "headline": "Afreximbank concede 75 milioni $ a banca nigeriana",
+          "summary": "Afreximbank ha concordato con la Development Bank of Nigeria una linea da 75 milioni di dollari per ampliare il finanziamento a PMI ed esportatori, inclusa l'economia creativa, tramite istituti partner."
         }
       }
     },
     {
       "date": "2026-11-13",
-      "tag": "CTRM",
-      "company": "",
-      "headline": "EUDR Pushes CTRM Vendors Toward Traceability",
-      "summary": "<cite index=\"62-1\">As commodity trading companies prepare for the EU Deforestation Regulation (EUDR), CTRM vendors face growing pressure to support increasingly detailed supply-chain traceability</cite> for traders handling at-risk commodities.",
-      "url": "https://www.ctrmcenter.com/",
+      "tag": "GOLD",
+      "company": "Ghana Gold Board",
+      "headline": "GoldBod Exports 88 Tonnes of Gold Worth $12 Billion",
+      "summary": "Ghana's Gold Board exported 88 tonnes of artisanal and small-scale gold valued at roughly $12 billion in 2026, boosting forex reserves and cedi stability, the finance minister reported.",
+      "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
       "i18n": {
         "de": {
-          "headline": "EUDR zwingt CTRM-Anbieter zu mehr Rückverfolgbarkeit",
-          "summary": "Mit Blick auf die EU-Entwaldungsverordnung (EUDR) stehen CTRM-Softwareanbieter unter wachsendem Druck, detaillierte Rückverfolgbarkeit entlang der Lieferkette für Rohstoffhändler zu ermöglichen."
+          "headline": "GoldBod exportiert 88 Tonnen Gold im Wert von 12 Mrd. USD",
+          "summary": "Ghanas Gold Board exportierte 2026 88 Tonnen handwerklich gefördertes Gold im Wert von rund 12 Mrd. USD, was laut Finanzminister die Devisenreserven und die Stabilität des Cedi stärkte."
         },
         "fr": {
-          "headline": "L'EUDR pousse les éditeurs CTRM vers la traçabilité",
-          "summary": "Face au règlement européen sur la déforestation (EUDR), les éditeurs de logiciels CTRM subissent une pression croissante pour offrir une traçabilité détaillée de la chaîne d'approvisionnement aux négociants."
+          "headline": "GoldBod exporte 88 tonnes d'or pour 12 milliards de dollars",
+          "summary": "Le Gold Board ghanéen a exporté en 2026 88 tonnes d'or artisanal pour environ 12 milliards de dollars, renforçant les réserves de change et la stabilité du cedi, selon le ministre des Finances."
         },
         "it": {
-          "headline": "L'EUDR spinge i fornitori CTRM verso la tracciabilità",
-          "summary": "In vista del regolamento UE sulla deforestazione (EUDR), i fornitori di software CTRM subiscono crescente pressione per garantire una tracciabilità dettagliata della filiera ai trader di materie prime."
+          "headline": "GoldBod esporta 88 tonnellate d'oro per 12 miliardi di dollari",
+          "summary": "Il Gold Board del Ghana ha esportato nel 2026 88 tonnellate d'oro artigianale per circa 12 miliardi di dollari, rafforzando le riserve valutarie e la stabilità del cedi, secondo il ministro delle Finanze."
         }
       }
     },
     {
-      "date": "2026-11-16",
-      "tag": "FIN",
-      "company": "",
-      "headline": "Glencore Adopts FIS Platform for Receivables",
-      "summary": "<cite index=\"69-1\">Commodity trader Glencore has adopted FIS' Supply Chain Finance Platform to induct its oil and gas trade receivables securitisation programme.</cite>",
-      "url": "https://www.tradefinanceglobal.com/posts/weekly-trade-briefing/",
+      "date": "2026-11-12",
+      "tag": "BANK",
+      "company": "First Abu Dhabi Bank",
+      "headline": "First Abu Dhabi Bank Launches $4.1bn Rights Issue",
+      "summary": "FAB's board approved raising up to AED 15 billion via a rights issue to fund growth in trade, cross-border capital flows and infrastructure investment across its franchise.",
+      "url": "https://www.breakingviews.com/columns/breaking-view/fab-rights-issue-may-suit-uae-more-than-investors-2026-11-12/",
       "i18n": {
         "de": {
-          "headline": "Glencore nutzt FIS-Plattform für Forderungen",
-          "summary": "Der Rohstoffhändler Glencore setzt die Supply-Chain-Finance-Plattform von FIS ein, um sein Verbriefungsprogramm für Öl- und Gashandelsforderungen abzuwickeln."
+          "headline": "First Abu Dhabi Bank lanciert Bezugsrechtsemission über 4,1 Mrd.",
+          "summary": "Der Verwaltungsrat der FAB genehmigte eine Kapitalerhöhung von bis zu 15 Mrd. AED, um Wachstum im Handel, grenzüberschreitende Kapitalflüsse und Infrastrukturinvestitionen zu finanzieren."
         },
         "fr": {
-          "headline": "Glencore adopte la plateforme FIS pour ses créances",
-          "summary": "Le négociant en matières premières Glencore utilise la plateforme Supply Chain Finance de FIS pour son programme de titrisation des créances commerciales pétrole et gaz."
+          "headline": "First Abu Dhabi Bank lance une émission de droits de 4,1 Mrd$",
+          "summary": "Le conseil de la FAB a approuvé une augmentation de capital pouvant atteindre 15 milliards d'AED pour financer la croissance du commerce, des flux de capitaux transfrontaliers et des infrastructures."
         },
         "it": {
-          "headline": "Glencore adotta la piattaforma FIS per i crediti",
-          "summary": "Il trader di materie prime Glencore utilizza la piattaforma Supply Chain Finance di FIS per gestire il proprio programma di cartolarizzazione dei crediti commerciali su petrolio e gas."
+          "headline": "First Abu Dhabi Bank lancia aumento di capitale da 4,1 mld$",
+          "summary": "Il consiglio di FAB ha approvato un aumento di capitale fino a 15 miliardi di AED per finanziare la crescita del commercio, i flussi di capitale transfrontalieri e gli investimenti infrastrutturali."
+        }
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "tag": "CTRM",
+      "company": "",
+      "headline": "AEGIS Hedging to Acquire Uplift Energy Strategy",
+      "summary": "AEGIS Hedging Solutions agreed to acquire Denver-based Uplift Energy Strategy, adding physical marketing and regional fundamentals expertise to its commodity risk technology platform.",
+      "url": "https://ctrmcenter.com/news/aegis-hedging-to-acquire-uplift-energy-strategy",
+      "i18n": {
+        "de": {
+          "headline": "AEGIS Hedging übernimmt Uplift Energy Strategy",
+          "summary": "AEGIS Hedging Solutions übernimmt die in Denver ansässige Uplift Energy Strategy und erweitert damit seine Plattform für Rohstoffrisiko-Technologie um physisches Marketing und regionale Marktexpertise."
+        },
+        "fr": {
+          "headline": "AEGIS Hedging va acquérir Uplift Energy Strategy",
+          "summary": "AEGIS Hedging Solutions a conclu l'acquisition d'Uplift Energy Strategy, basée à Denver, ajoutant à sa plateforme de risque matières premières une expertise en commercialisation physique et marchés régionaux."
+        },
+        "it": {
+          "headline": "AEGIS Hedging acquisirà Uplift Energy Strategy",
+          "summary": "AEGIS Hedging Solutions acquisirà Uplift Energy Strategy, con sede a Denver, aggiungendo alla sua piattaforma di rischio sulle materie prime competenze di marketing fisico e sui mercati regionali."
+        }
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "tag": "REG",
+      "company": "",
+      "headline": "EU Deforestation Rule Reshapes CTRM Compliance Needs",
+      "summary": "As the EU Deforestation Regulation takes effect, commodity trading firms are pushing CTRM vendors to deliver lot-level traceability and origin verification across supply chains.",
+      "url": "https://www.ctrmcenter.com/blog/regulations-blog/",
+      "i18n": {
+        "de": {
+          "headline": "EU-Entwaldungsverordnung verändert CTRM-Compliance-Anforderungen",
+          "summary": "Mit Inkrafttreten der EU-Entwaldungsverordnung verlangen Rohstoffhändler von CTRM-Anbietern eine Rückverfolgbarkeit auf Chargenebene und eine Herkunftsprüfung entlang der Lieferkette."
+        },
+        "fr": {
+          "headline": "Le règlement européen anti-déforestation transforme la conformité CTRM",
+          "summary": "Avec l'entrée en vigueur du règlement européen sur la déforestation, les négociants en matières premières exigent des éditeurs CTRM une traçabilité par lot et une vérification d'origine le long de la chaîne."
+        },
+        "it": {
+          "headline": "Regolamento UE deforestazione ridisegna la conformità CTRM",
+          "summary": "Con l'entrata in vigore del regolamento UE sulla deforestazione, i trader di materie prime chiedono ai fornitori CTRM tracciabilità a livello di lotto e verifica dell'origine lungo la filiera."
         }
       }
     }
