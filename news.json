@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-11-21T13:58:45Z",
+  "generated_at": "2026-11-23T17:00:16Z",
   "items": [
+    {
+      "date": "2026-11-13",
+      "tag": "GOLD",
+      "company": "Ghana Gold Board (GoldBod)",
+      "headline": "GoldBod gold exports reach $12 billion in 2026",
+      "summary": "<cite index=\"7-1\">GoldBod exported 88 tonnes of gold from Ghana's artisanal and small-scale mining sector, valued at approximately $12 billion, in 2026</cite>, underscoring its growing role in national FX generation.",
+      "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
+      "i18n": {
+        "de": {
+          "headline": "GoldBod-Goldexporte erreichen 2026 12 Milliarden Dollar",
+          "summary": "Die Ghana Gold Board (GoldBod) exportierte 2026 rund 88 Tonnen Gold im Wert von rund 12 Milliarden US-Dollar aus dem Kleinbergbau und stärkt damit die Devisengenerierung des Landes."
+        },
+        "fr": {
+          "headline": "GoldBod exporte pour 12 milliards de dollars d'or en 2026",
+          "summary": "Le Ghana Gold Board (GoldBod) a exporté 88 tonnes d'or issues de l'exploitation minière artisanale, pour une valeur d'environ 12 milliards de dollars en 2026, renforçant son rôle dans la génération de devises."
+        },
+        "it": {
+          "headline": "GoldBod esporta oro per 12 miliardi di dollari nel 2026",
+          "summary": "Il Ghana Gold Board (GoldBod) ha esportato 88 tonnellate d'oro dal settore minerario artigianale, per un valore di circa 12 miliardi di dollari nel 2026, rafforzando la generazione di valuta estera del paese."
+        }
+      }
+    },
     {
       "date": "2026-11-18",
       "tag": "NOC",
       "company": "NNPC Ltd",
-      "headline": "NNPC and Nigeria's Central Bank Sign Financing MoU",
-      "summary": "NNPC Ltd signed a memorandum of understanding with the Central Bank of Nigeria to align FX conversions and contractor payments and to develop asset-backed financing structures.",
-      "url": "https://nairametrics.com/2026/11/19/nnpc-plans-to-leverage-assets-to-raise-capital-under-new-cbn-deal/",
+      "headline": "NNPC and Nigeria's central bank sign financing pact",
+      "summary": "<cite index=\"15-1\">Nigeria's central bank and state oil company NNPC Ltd signed an agreement to work more closely on foreign exchange inflows, energy funding and oil and gas asset development.</cite> NNPC also plans asset-backed capital raising under the deal.",
+      "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding",
       "i18n": {
         "de": {
-          "headline": "NNPC und Nigerias Zentralbank unterzeichnen Finanzierungs-MoU",
-          "summary": "NNPC Ltd hat mit der Zentralbank Nigerias ein Memorandum unterzeichnet, um Devisenflüsse und Zahlungen an Auftragnehmer abzustimmen und vermögensbasierte Finanzierungsstrukturen zu entwickeln."
+          "headline": "NNPC und Nigerias Zentralbank schliessen Finanzierungsabkommen",
+          "summary": "Nigerias Zentralbank und die staatliche NNPC Ltd haben eine Vereinbarung zur engeren Zusammenarbeit bei Devisenzuflüssen, Energiefinanzierung und der Entwicklung von Öl- und Gasanlagen unterzeichnet. NNPC plant zudem eine vermögensbasierte Kapitalbeschaffung im Rahmen des Deals."
         },
         "fr": {
-          "headline": "NNPC et la banque centrale nigériane signent un accord de financement",
-          "summary": "NNPC Ltd a signé un protocole d'accord avec la banque centrale du Nigeria pour aligner les flux de change et les paiements aux entrepreneurs et développer un financement adossé aux actifs."
+          "headline": "NNPC et la banque centrale nigériane signent un accord",
+          "summary": "La banque centrale du Nigeria et la compagnie pétrolière publique NNPC Ltd ont signé un accord visant à mieux coordonner les flux de devises, le financement énergétique et le développement d'actifs pétroliers et gaziers. NNPC prévoit aussi de lever des capitaux adossés à ses actifs."
         },
         "it": {
-          "headline": "NNPC e banca centrale nigeriana firmano accordo di finanziamento",
-          "summary": "NNPC Ltd ha firmato un memorandum con la banca centrale della Nigeria per allineare i flussi valutari e i pagamenti agli appaltatori e sviluppare finanziamenti garantiti da asset."
+          "headline": "NNPC e banca centrale nigeriana firmano accordo finanziario",
+          "summary": "La banca centrale nigeriana e la compagnia petrolifera statale NNPC Ltd hanno firmato un accordo per collaborare su afflussi valutari, finanziamento energetico e sviluppo di asset petroliferi e del gas. NNPC prevede anche di raccogliere capitale garantito dai propri asset."
         }
       }
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "tag": "FIN",
       "company": "Afreximbank",
-      "headline": "Afreximbank Commits $75m SME Facility to Nigerian Bank",
-      "summary": "Afreximbank agreed a $75 million facility with the Development Bank of Nigeria to expand SME and export financing, including creative-economy businesses, via participating financial institutions.",
-      "url": "https://allafrica.com/stories/202611190461.html",
+      "headline": "Afreximbank backs $30m Nigerian SME export facility",
+      "summary": "<cite index=\"21-1\">Afreximbank and NEXIM announced a $30 million facility to expand access to finance for Nigerian SMEs and export-oriented businesses, including the creative economy.</cite>",
+      "url": "https://www.afreximbank.com/afreximbank-and-nexim-announce-us30-million-facility-to-support-nigerian-sme-exports/",
       "i18n": {
         "de": {
-          "headline": "Afreximbank gewährt nigerianischer Bank 75-Mio.-Fazilität",
-          "summary": "Afreximbank hat mit der Development Bank of Nigeria eine 75-Mio.-US-Dollar-Fazilität vereinbart, um über Partnerbanken die Finanzierung von KMU und Exporteuren, auch der Kreativwirtschaft, auszubauen."
+          "headline": "Afreximbank fördert nigerianische KMU-Exporte mit 30 Mio.",
+          "summary": "Afreximbank und NEXIM haben eine Fazilität über 30 Millionen US-Dollar angekündigt, um nigerianischen KMU und exportorientierten Unternehmen, einschliesslich der Kreativwirtschaft, den Zugang zu Finanzierung zu erleichtern."
         },
         "fr": {
-          "headline": "Afreximbank accorde 75 millions $ à une banque nigériane",
-          "summary": "Afreximbank a conclu avec la Development Bank of Nigeria une facilité de 75 millions de dollars pour élargir le financement des PME et exportateurs, y compris l'économie créative, via des institutions partenaires."
+          "headline": "Afreximbank finance les PME exportatrices nigérianes à 30 M$",
+          "summary": "Afreximbank et NEXIM ont annoncé une facilité de 30 millions de dollars destinée à élargir l'accès au financement pour les PME nigérianes et les entreprises exportatrices, y compris dans l'industrie créative."
         },
         "it": {
-          "headline": "Afreximbank concede 75 milioni $ a banca nigeriana",
-          "summary": "Afreximbank ha concordato con la Development Bank of Nigeria una linea da 75 milioni di dollari per ampliare il finanziamento a PMI ed esportatori, inclusa l'economia creativa, tramite istituti partner."
+          "headline": "Afreximbank finanzia PMI esportatrici nigeriane con 30 mln",
+          "summary": "Afreximbank e NEXIM hanno annunciato una linea di finanziamento da 30 milioni di dollari per ampliare l'accesso al credito per le PMI nigeriane e le imprese esportatrici, incluse quelle dell'economia creativa."
         }
       }
     },
     {
-      "date": "2026-11-13",
-      "tag": "GOLD",
-      "company": "Ghana Gold Board",
-      "headline": "GoldBod Exports 88 Tonnes of Gold Worth $12 Billion",
-      "summary": "Ghana's Gold Board exported 88 tonnes of artisanal and small-scale gold valued at roughly $12 billion in 2026, boosting forex reserves and cedi stability, the finance minister reported.",
-      "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
+      "date": "2026-11-22",
+      "tag": "LOG",
+      "company": "",
+      "headline": "Iran attacks sharply cut Strait of Hormuz oil flows",
+      "summary": "<cite index=\"74-3\">Strait of Hormuz shipping traffic dropped 15% to 263 vessels in the week to November 18 as Iranian attacks intensified, with oil tanker numbers falling to 37 from 52</cite>, disrupting physical crude trading flows.",
+      "url": "https://tradersunion.com/news/commodities/show/4352617-hormuz-oil-shipments-fall-iran-attacks",
       "i18n": {
         "de": {
-          "headline": "GoldBod exportiert 88 Tonnen Gold im Wert von 12 Mrd. USD",
-          "summary": "Ghanas Gold Board exportierte 2026 88 Tonnen handwerklich gefördertes Gold im Wert von rund 12 Mrd. USD, was laut Finanzminister die Devisenreserven und die Stabilität des Cedi stärkte."
+          "headline": "Iran-Angriffe reduzieren Ölflüsse durch die Straße von Hormus",
+          "summary": "Der Schiffsverkehr durch die Straße von Hormus sank in der Woche bis zum 18. November infolge intensivierter iranischer Angriffe um 15 Prozent, die Zahl der Öltanker fiel von 52 auf 37 und störte physische Rohölhandelsströme."
         },
         "fr": {
-          "headline": "GoldBod exporte 88 tonnes d'or pour 12 milliards de dollars",
-          "summary": "Le Gold Board ghanéen a exporté en 2026 88 tonnes d'or artisanal pour environ 12 milliards de dollars, renforçant les réserves de change et la stabilité du cedi, selon le ministre des Finances."
+          "headline": "Les attaques iraniennes réduisent les flux pétroliers d'Ormuz",
+          "summary": "Le trafic maritime dans le détroit d'Ormuz a chuté de 15% à 263 navires lors de la semaine du 18 novembre suite à l'intensification des attaques iraniennes, le nombre de pétroliers passant de 52 à 37, perturbant les flux physiques de brut."
         },
         "it": {
-          "headline": "GoldBod esporta 88 tonnellate d'oro per 12 miliardi di dollari",
-          "summary": "Il Gold Board del Ghana ha esportato nel 2026 88 tonnellate d'oro artigianale per circa 12 miliardi di dollari, rafforzando le riserve valutarie e la stabilità del cedi, secondo il ministro delle Finanze."
+          "headline": "Attacchi iraniani riducono i flussi petroliferi a Hormuz",
+          "summary": "Il traffico marittimo nello Stretto di Hormuz è calato del 15% a 263 navi nella settimana al 18 novembre a causa dell'intensificarsi degli attacchi iraniani, con le petroliere scese da 52 a 37, disturbando i flussi fisici di greggio."
         }
       }
     },
     {
-      "date": "2026-11-12",
-      "tag": "BANK",
-      "company": "First Abu Dhabi Bank",
-      "headline": "First Abu Dhabi Bank Launches $4.1bn Rights Issue",
-      "summary": "FAB's board approved raising up to AED 15 billion via a rights issue to fund growth in trade, cross-border capital flows and infrastructure investment across its franchise.",
-      "url": "https://www.breakingviews.com/columns/breaking-view/fab-rights-issue-may-suit-uae-more-than-investors-2026-11-12/",
+      "date": "2026-11-16",
+      "tag": "FIN",
+      "company": "",
+      "headline": "Glencore adopts FIS platform for receivables finance",
+      "summary": "<cite index=\"47-1\">Commodity trader Glencore adopted FIS' Supply Chain Finance Platform to induct its oil and gas trade receivables securitisation programme</cite>, reflecting growing fintech use in structured commodity finance.",
+      "url": "https://www.tradefinanceglobal.com/posts/weekly-trade-briefing/",
       "i18n": {
         "de": {
-          "headline": "First Abu Dhabi Bank lanciert Bezugsrechtsemission über 4,1 Mrd.",
-          "summary": "Der Verwaltungsrat der FAB genehmigte eine Kapitalerhöhung von bis zu 15 Mrd. AED, um Wachstum im Handel, grenzüberschreitende Kapitalflüsse und Infrastrukturinvestitionen zu finanzieren."
+          "headline": "Glencore nutzt FIS-Plattform für Forderungsfinanzierung",
+          "summary": "Der Rohstoffhändler Glencore hat die Supply-Chain-Finance-Plattform von FIS für sein Verbriefungsprogramm für Öl- und Gasforderungen eingeführt, was den zunehmenden Einsatz von Fintech in der strukturierten Rohstofffinanzierung widerspiegelt."
         },
         "fr": {
-          "headline": "First Abu Dhabi Bank lance une émission de droits de 4,1 Mrd$",
-          "summary": "Le conseil de la FAB a approuvé une augmentation de capital pouvant atteindre 15 milliards d'AED pour financer la croissance du commerce, des flux de capitaux transfrontaliers et des infrastructures."
+          "headline": "Glencore adopte la plateforme FIS pour ses créances",
+          "summary": "Le négociant en matières premières Glencore a adopté la plateforme de financement de la chaîne d'approvisionnement de FIS pour son programme de titrisation des créances pétrolières et gazières, illustrant l'essor de la fintech dans le financement structuré des matières premières."
         },
         "it": {
-          "headline": "First Abu Dhabi Bank lancia aumento di capitale da 4,1 mld$",
-          "summary": "Il consiglio di FAB ha approvato un aumento di capitale fino a 15 miliardi di AED per finanziare la crescita del commercio, i flussi di capitale transfrontalieri e gli investimenti infrastrutturali."
+          "headline": "Glencore adotta piattaforma FIS per i crediti commerciali",
+          "summary": "Il trader di materie prime Glencore ha adottato la piattaforma Supply Chain Finance di FIS per il suo programma di cartolarizzazione dei crediti commerciali petroliferi e del gas, segno della crescente adozione fintech nella finanza strutturata delle materie prime."
         }
       }
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-10-19",
       "tag": "CTRM",
       "company": "",
-      "headline": "AEGIS Hedging to Acquire Uplift Energy Strategy",
-      "summary": "AEGIS Hedging Solutions agreed to acquire Denver-based Uplift Energy Strategy, adding physical marketing and regional fundamentals expertise to its commodity risk technology platform.",
-      "url": "https://ctrmcenter.com/news/aegis-hedging-to-acquire-uplift-energy-strategy",
+      "headline": "Murex tops 2026 CTRM and ETRM software rankings",
+      "summary": "<cite index=\"42-8\">Murex's ability to understand and meet its customer needs is reflected in this year's rankings, receiving multiple first places across C/ETRM software providers</cite> in Energy Risk's annual survey amid demand for resilient trading systems.",
+      "url": "https://www.energyrisk.com/risk-management/7957020/energy-risk-2026-software-rankings-ctrm-landscape-needs-to-support-resilience",
       "i18n": {
         "de": {
-          "headline": "AEGIS Hedging übernimmt Uplift Energy Strategy",
-          "summary": "AEGIS Hedging Solutions übernimmt die in Denver ansässige Uplift Energy Strategy und erweitert damit seine Plattform für Rohstoffrisiko-Technologie um physisches Marketing und regionale Marktexpertise."
+          "headline": "Murex führt CTRM/ETRM-Software-Ranking 2026 an",
+          "summary": "In der jährlichen Umfrage von Energy Risk belegt Murex mehrere erste Plätze unter den C/ETRM-Softwareanbietern, da Rohstoffunternehmen zunehmend auf widerstandsfähige Handelssysteme angewiesen sind."
         },
         "fr": {
-          "headline": "AEGIS Hedging va acquérir Uplift Energy Strategy",
-          "summary": "AEGIS Hedging Solutions a conclu l'acquisition d'Uplift Energy Strategy, basée à Denver, ajoutant à sa plateforme de risque matières premières une expertise en commercialisation physique et marchés régionaux."
+          "headline": "Murex en tête du classement CTRM/ETRM 2026",
+          "summary": "Dans l'enquête annuelle d'Energy Risk, Murex obtient plusieurs premières places parmi les fournisseurs de logiciels C/ETRM, alors que les entreprises de matières premières recherchent des systèmes de trading plus résilients."
         },
         "it": {
-          "headline": "AEGIS Hedging acquisirà Uplift Energy Strategy",
-          "summary": "AEGIS Hedging Solutions acquisirà Uplift Energy Strategy, con sede a Denver, aggiungendo alla sua piattaforma di rischio sulle materie prime competenze di marketing fisico e sui mercati regionali."
-        }
-      }
-    },
-    {
-      "date": "2026-11-13",
-      "tag": "REG",
-      "company": "",
-      "headline": "EU Deforestation Rule Reshapes CTRM Compliance Needs",
-      "summary": "As the EU Deforestation Regulation takes effect, commodity trading firms are pushing CTRM vendors to deliver lot-level traceability and origin verification across supply chains.",
-      "url": "https://www.ctrmcenter.com/blog/regulations-blog/",
-      "i18n": {
-        "de": {
-          "headline": "EU-Entwaldungsverordnung verändert CTRM-Compliance-Anforderungen",
-          "summary": "Mit Inkrafttreten der EU-Entwaldungsverordnung verlangen Rohstoffhändler von CTRM-Anbietern eine Rückverfolgbarkeit auf Chargenebene und eine Herkunftsprüfung entlang der Lieferkette."
-        },
-        "fr": {
-          "headline": "Le règlement européen anti-déforestation transforme la conformité CTRM",
-          "summary": "Avec l'entrée en vigueur du règlement européen sur la déforestation, les négociants en matières premières exigent des éditeurs CTRM une traçabilité par lot et une vérification d'origine le long de la chaîne."
-        },
-        "it": {
-          "headline": "Regolamento UE deforestazione ridisegna la conformità CTRM",
-          "summary": "Con l'entrata in vigore del regolamento UE sulla deforestazione, i trader di materie prime chiedono ai fornitori CTRM tracciabilità a livello di lotto e verifica dell'origine lungo la filiera."
+          "headline": "Murex in testa alla classifica software CTRM/ETRM 2026",
+          "summary": "Nell'indagine annuale di Energy Risk, Murex ottiene diversi primi posti tra i fornitori di software C/ETRM, mentre le aziende delle materie prime cercano sistemi di trading più resilienti."
         }
       }
     }
