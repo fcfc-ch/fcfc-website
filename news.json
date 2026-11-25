@@ -1,113 +1,91 @@
 {
-  "generated_at": "2026-11-23T17:00:16Z",
+  "generated_at": "2026-11-25T16:36:18Z",
   "items": [
-    {
-      "date": "2026-11-13",
-      "tag": "GOLD",
-      "company": "Ghana Gold Board (GoldBod)",
-      "headline": "GoldBod gold exports reach $12 billion in 2026",
-      "summary": "<cite index=\"7-1\">GoldBod exported 88 tonnes of gold from Ghana's artisanal and small-scale mining sector, valued at approximately $12 billion, in 2026</cite>, underscoring its growing role in national FX generation.",
-      "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
-      "i18n": {
-        "de": {
-          "headline": "GoldBod-Goldexporte erreichen 2026 12 Milliarden Dollar",
-          "summary": "Die Ghana Gold Board (GoldBod) exportierte 2026 rund 88 Tonnen Gold im Wert von rund 12 Milliarden US-Dollar aus dem Kleinbergbau und stärkt damit die Devisengenerierung des Landes."
-        },
-        "fr": {
-          "headline": "GoldBod exporte pour 12 milliards de dollars d'or en 2026",
-          "summary": "Le Ghana Gold Board (GoldBod) a exporté 88 tonnes d'or issues de l'exploitation minière artisanale, pour une valeur d'environ 12 milliards de dollars en 2026, renforçant son rôle dans la génération de devises."
-        },
-        "it": {
-          "headline": "GoldBod esporta oro per 12 miliardi di dollari nel 2026",
-          "summary": "Il Ghana Gold Board (GoldBod) ha esportato 88 tonnellate d'oro dal settore minerario artigianale, per un valore di circa 12 miliardi di dollari nel 2026, rafforzando la generazione di valuta estera del paese."
-        }
-      }
-    },
     {
       "date": "2026-11-18",
       "tag": "NOC",
       "company": "NNPC Ltd",
-      "headline": "NNPC and Nigeria's central bank sign financing pact",
-      "summary": "<cite index=\"15-1\">Nigeria's central bank and state oil company NNPC Ltd signed an agreement to work more closely on foreign exchange inflows, energy funding and oil and gas asset development.</cite> NNPC also plans asset-backed capital raising under the deal.",
+      "headline": "NNPC and Central Bank Sign Energy Financing Pact",
+      "summary": "Nigeria's central bank and NNPC signed an MoU to coordinate forex inflows, energy-project financing and asset-backed capital raising using NNPC's balance sheet.",
       "url": "https://www.cnbcafrica.com/2026/nigerias-central-bank-nnpc-sign-deal-to-support-forex-inflows-energy-funding",
       "i18n": {
         "de": {
-          "headline": "NNPC und Nigerias Zentralbank schliessen Finanzierungsabkommen",
-          "summary": "Nigerias Zentralbank und die staatliche NNPC Ltd haben eine Vereinbarung zur engeren Zusammenarbeit bei Devisenzuflüssen, Energiefinanzierung und der Entwicklung von Öl- und Gasanlagen unterzeichnet. NNPC plant zudem eine vermögensbasierte Kapitalbeschaffung im Rahmen des Deals."
+          "headline": "NNPC und Zentralbank unterzeichnen Energie-Finanzierungspakt",
+          "summary": "Nigerias Zentralbank und NNPC haben eine Vereinbarung unterzeichnet, um Devisenzuflüsse, Energieprojektfinanzierung und bilanzgestützte Kapitalbeschaffung von NNPC besser zu koordinieren."
         },
         "fr": {
-          "headline": "NNPC et la banque centrale nigériane signent un accord",
-          "summary": "La banque centrale du Nigeria et la compagnie pétrolière publique NNPC Ltd ont signé un accord visant à mieux coordonner les flux de devises, le financement énergétique et le développement d'actifs pétroliers et gaziers. NNPC prévoit aussi de lever des capitaux adossés à ses actifs."
+          "headline": "NNPC et la banque centrale signent un pacte de financement énergétique",
+          "summary": "La banque centrale du Nigeria et NNPC ont signé un protocole d'accord pour coordonner les flux de devises, le financement de projets énergétiques et la levée de capitaux adossés aux actifs de NNPC."
         },
         "it": {
-          "headline": "NNPC e banca centrale nigeriana firmano accordo finanziario",
-          "summary": "La banca centrale nigeriana e la compagnia petrolifera statale NNPC Ltd hanno firmato un accordo per collaborare su afflussi valutari, finanziamento energetico e sviluppo di asset petroliferi e del gas. NNPC prevede anche di raccogliere capitale garantito dai propri asset."
+          "headline": "NNPC e banca centrale firmano patto di finanziamento energetico",
+          "summary": "La banca centrale nigeriana e NNPC hanno firmato un accordo per coordinare afflussi di valuta estera, finanziamento di progetti energetici e raccolta di capitale garantita dagli asset di NNPC."
         }
       }
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-25",
+      "tag": "GOLD",
+      "company": "Ghana Gold Board (GoldBod)",
+      "headline": "GoldBod Gold Exports Reach $11.6 Billion in 2026",
+      "summary": "GoldBod reported facilitating 85.4 tonnes of artisanal gold exports worth about $11.6 billion from January to October 2026, with 27 tonnes refined locally.",
+      "url": "https://www.gbcghanaonline.com/news/business/goldbod-records/2026/",
+      "i18n": {
+        "de": {
+          "headline": "GoldBod meldet Goldexporte von 11,6 Mrd. Dollar 2026",
+          "summary": "GoldBod gab an, von Januar bis Oktober 2026 den Export von 85,4 Tonnen artisanalem Gold im Wert von rund 11,6 Mrd. Dollar begleitet zu haben, davon 27 Tonnen lokal raffiniert."
+        },
+        "fr": {
+          "headline": "GoldBod déclare des exportations d'or de 11,6 milliards de dollars",
+          "summary": "GoldBod indique avoir facilité l'exportation de 85,4 tonnes d'or artisanal pour une valeur d'environ 11,6 milliards de dollars entre janvier et octobre 2026, dont 27 tonnes raffinées localement."
+        },
+        "it": {
+          "headline": "GoldBod: esportazioni d'oro a 11,6 miliardi di dollari nel 2026",
+          "summary": "GoldBod ha dichiarato di aver facilitato l'esportazione di 85,4 tonnellate di oro artigianale per circa 11,6 miliardi di dollari tra gennaio e ottobre 2026, con 27 tonnellate raffinate localmente."
+        }
+      }
+    },
+    {
+      "date": "2026-11-24",
       "tag": "FIN",
       "company": "Afreximbank",
-      "headline": "Afreximbank backs $30m Nigerian SME export facility",
-      "summary": "<cite index=\"21-1\">Afreximbank and NEXIM announced a $30 million facility to expand access to finance for Nigerian SMEs and export-oriented businesses, including the creative economy.</cite>",
-      "url": "https://www.afreximbank.com/afreximbank-and-nexim-announce-us30-million-facility-to-support-nigerian-sme-exports/",
+      "headline": "Afreximbank Extends First Credit Line to Ugandan Bank",
+      "summary": "Afreximbank signed a €30 million revolving short-term credit facility with Uganda's dfcu Bank, its first such line to a Ugandan lender, to support export-value-chain lending.",
+      "url": "https://afreximbank.com/afreximbank-extends-e30-million-line-of-credit-to-dfcu-bank-uganda",
       "i18n": {
         "de": {
-          "headline": "Afreximbank fördert nigerianische KMU-Exporte mit 30 Mio.",
-          "summary": "Afreximbank und NEXIM haben eine Fazilität über 30 Millionen US-Dollar angekündigt, um nigerianischen KMU und exportorientierten Unternehmen, einschliesslich der Kreativwirtschaft, den Zugang zu Finanzierung zu erleichtern."
+          "headline": "Afreximbank gewährt erste Kreditlinie an ugandische Bank",
+          "summary": "Afreximbank hat mit der ugandischen dfcu Bank eine revolvierende kurzfristige Kreditfazilität über 30 Mio. Euro unterzeichnet, die erste dieser Art für eine ugandische Bank, zur Förderung der Exportfinanzierung."
         },
         "fr": {
-          "headline": "Afreximbank finance les PME exportatrices nigérianes à 30 M$",
-          "summary": "Afreximbank et NEXIM ont annoncé une facilité de 30 millions de dollars destinée à élargir l'accès au financement pour les PME nigérianes et les entreprises exportatrices, y compris dans l'industrie créative."
+          "headline": "Afreximbank accorde sa première ligne de crédit en Ouganda",
+          "summary": "Afreximbank a signé avec la banque ougandaise dfcu une facilité de crédit renouvelable à court terme de 30 millions d'euros, une première pour une banque ougandaise, afin de soutenir le financement des exportations."
         },
         "it": {
-          "headline": "Afreximbank finanzia PMI esportatrici nigeriane con 30 mln",
-          "summary": "Afreximbank e NEXIM hanno annunciato una linea di finanziamento da 30 milioni di dollari per ampliare l'accesso al credito per le PMI nigeriane e le imprese esportatrici, incluse quelle dell'economia creativa."
+          "headline": "Afreximbank concede prima linea di credito a banca ugandese",
+          "summary": "Afreximbank ha firmato con la banca ugandese dfcu una linea di credito revolving a breve termine da 30 milioni di euro, la prima verso una banca ugandese, per sostenere il finanziamento delle esportazioni."
         }
       }
     },
     {
-      "date": "2026-11-22",
-      "tag": "LOG",
-      "company": "",
-      "headline": "Iran attacks sharply cut Strait of Hormuz oil flows",
-      "summary": "<cite index=\"74-3\">Strait of Hormuz shipping traffic dropped 15% to 263 vessels in the week to November 18 as Iranian attacks intensified, with oil tanker numbers falling to 37 from 52</cite>, disrupting physical crude trading flows.",
-      "url": "https://tradersunion.com/news/commodities/show/4352617-hormuz-oil-shipments-fall-iran-attacks",
+      "date": "2026-11-06",
+      "tag": "REF",
+      "company": "Tüpraş",
+      "headline": "Tüpraş Sharply Raises 2026 Refining Margin Guidance",
+      "summary": "Turkish refiner Tüpraş lifted its 2026 net refining margin guidance to $20-22 per barrel from $13-15, citing strong product margins and solid third-quarter performance.",
+      "url": "https://www.tipranks.com/news/company-announcements/tupras-raises-2026-refining-margin-guidance-to-usd-20-22",
       "i18n": {
         "de": {
-          "headline": "Iran-Angriffe reduzieren Ölflüsse durch die Straße von Hormus",
-          "summary": "Der Schiffsverkehr durch die Straße von Hormus sank in der Woche bis zum 18. November infolge intensivierter iranischer Angriffe um 15 Prozent, die Zahl der Öltanker fiel von 52 auf 37 und störte physische Rohölhandelsströme."
+          "headline": "Tüpraş hebt Raffineriemargen-Prognose 2026 deutlich an",
+          "summary": "Die türkische Raffinerie Tüpraş hat ihre Netto-Raffineriemargen-Prognose für 2026 von 13-15 auf 20-22 USD je Barrel angehoben, gestützt auf starke Produktmargen und ein solides drittes Quartal."
         },
         "fr": {
-          "headline": "Les attaques iraniennes réduisent les flux pétroliers d'Ormuz",
-          "summary": "Le trafic maritime dans le détroit d'Ormuz a chuté de 15% à 263 navires lors de la semaine du 18 novembre suite à l'intensification des attaques iraniennes, le nombre de pétroliers passant de 52 à 37, perturbant les flux physiques de brut."
+          "headline": "Tüpraş relève nettement ses prévisions de marges 2026",
+          "summary": "Le raffineur turc Tüpraş a relevé ses prévisions de marge de raffinage nette 2026 de 13-15 à 20-22 dollars le baril, grâce à de solides marges produits et un bon troisième trimestre."
         },
         "it": {
-          "headline": "Attacchi iraniani riducono i flussi petroliferi a Hormuz",
-          "summary": "Il traffico marittimo nello Stretto di Hormuz è calato del 15% a 263 navi nella settimana al 18 novembre a causa dell'intensificarsi degli attacchi iraniani, con le petroliere scese da 52 a 37, disturbando i flussi fisici di greggio."
-        }
-      }
-    },
-    {
-      "date": "2026-11-16",
-      "tag": "FIN",
-      "company": "",
-      "headline": "Glencore adopts FIS platform for receivables finance",
-      "summary": "<cite index=\"47-1\">Commodity trader Glencore adopted FIS' Supply Chain Finance Platform to induct its oil and gas trade receivables securitisation programme</cite>, reflecting growing fintech use in structured commodity finance.",
-      "url": "https://www.tradefinanceglobal.com/posts/weekly-trade-briefing/",
-      "i18n": {
-        "de": {
-          "headline": "Glencore nutzt FIS-Plattform für Forderungsfinanzierung",
-          "summary": "Der Rohstoffhändler Glencore hat die Supply-Chain-Finance-Plattform von FIS für sein Verbriefungsprogramm für Öl- und Gasforderungen eingeführt, was den zunehmenden Einsatz von Fintech in der strukturierten Rohstofffinanzierung widerspiegelt."
-        },
-        "fr": {
-          "headline": "Glencore adopte la plateforme FIS pour ses créances",
-          "summary": "Le négociant en matières premières Glencore a adopté la plateforme de financement de la chaîne d'approvisionnement de FIS pour son programme de titrisation des créances pétrolières et gazières, illustrant l'essor de la fintech dans le financement structuré des matières premières."
-        },
-        "it": {
-          "headline": "Glencore adotta piattaforma FIS per i crediti commerciali",
-          "summary": "Il trader di materie prime Glencore ha adottato la piattaforma Supply Chain Finance di FIS per il suo programma di cartolarizzazione dei crediti commerciali petroliferi e del gas, segno della crescente adozione fintech nella finanza strutturata delle materie prime."
+          "headline": "Tüpraş alza nettamente le previsioni sui margini 2026",
+          "summary": "La raffineria turca Tüpraş ha rivisto al rialzo le previsioni sui margini di raffinazione netti 2026 da 13-15 a 20-22 dollari al barile, grazie a solidi margini di prodotto e un terzo trimestre robusto."
         }
       }
     },
@@ -115,21 +93,43 @@
       "date": "2026-10-19",
       "tag": "CTRM",
       "company": "",
-      "headline": "Murex tops 2026 CTRM and ETRM software rankings",
-      "summary": "<cite index=\"42-8\">Murex's ability to understand and meet its customer needs is reflected in this year's rankings, receiving multiple first places across C/ETRM software providers</cite> in Energy Risk's annual survey amid demand for resilient trading systems.",
+      "headline": "Murex Tops 2026 CTRM Software Rankings Survey",
+      "summary": "Energy Risk's 21st annual Software Rankings survey found Murex taking multiple first places among CTRM and ETRM software providers for 2025-2026.",
       "url": "https://www.energyrisk.com/risk-management/7957020/energy-risk-2026-software-rankings-ctrm-landscape-needs-to-support-resilience",
       "i18n": {
         "de": {
-          "headline": "Murex führt CTRM/ETRM-Software-Ranking 2026 an",
-          "summary": "In der jährlichen Umfrage von Energy Risk belegt Murex mehrere erste Plätze unter den C/ETRM-Softwareanbietern, da Rohstoffunternehmen zunehmend auf widerstandsfähige Handelssysteme angewiesen sind."
+          "headline": "Murex führt CTRM-Software-Ranking 2026 an",
+          "summary": "Die 21. jährliche Software-Rankings-Umfrage von Energy Risk zeigt, dass Murex bei CTRM- und ETRM-Softwareanbietern für 2025-2026 mehrfach den ersten Platz belegt."
         },
         "fr": {
-          "headline": "Murex en tête du classement CTRM/ETRM 2026",
-          "summary": "Dans l'enquête annuelle d'Energy Risk, Murex obtient plusieurs premières places parmi les fournisseurs de logiciels C/ETRM, alors que les entreprises de matières premières recherchent des systèmes de trading plus résilients."
+          "headline": "Murex en tête du classement CTRM 2026",
+          "summary": "La 21e enquête annuelle Software Rankings d'Energy Risk montre que Murex occupe plusieurs premières places parmi les fournisseurs de logiciels CTRM et ETRM pour 2025-2026."
         },
         "it": {
-          "headline": "Murex in testa alla classifica software CTRM/ETRM 2026",
-          "summary": "Nell'indagine annuale di Energy Risk, Murex ottiene diversi primi posti tra i fornitori di software C/ETRM, mentre le aziende delle materie prime cercano sistemi di trading più resilienti."
+          "headline": "Murex in testa alla classifica software CTRM 2026",
+          "summary": "Il 21° sondaggio annuale Software Rankings di Energy Risk mostra che Murex ottiene molteplici primi posti tra i fornitori di software CTRM ed ETRM per il 2025-2026."
+        }
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "tag": "LOG",
+      "company": "",
+      "headline": "US Extends Jones Act Waiver for Commodity Shipping",
+      "summary": "The US extended for 90 days a waiver of the Jones Act, letting foreign-flagged ships move oil and other commodities between US ports to ease transport bottlenecks.",
+      "url": "https://www.investing.com/news/commodities-news/us-extends-shipping-law-waiver-90-days-to-allow-freer-movement-of-oil-commodities-5026364",
+      "i18n": {
+        "de": {
+          "headline": "USA verlängern Jones-Act-Ausnahme für Rohstofftransporte",
+          "summary": "Die USA haben eine Ausnahme vom Jones Act um 90 Tage verlängert, damit ausländisch geflaggte Schiffe Öl und andere Rohstoffe zwischen US-Häfen transportieren können, um Engpässe zu lindern."
+        },
+        "fr": {
+          "headline": "Les États-Unis prolongent la dérogation au Jones Act",
+          "summary": "Les États-Unis ont prolongé de 90 jours une dérogation au Jones Act, permettant à des navires sous pavillon étranger de transporter du pétrole et d'autres matières premières entre ports américains pour réduire les goulots d'étranglement."
+        },
+        "it": {
+          "headline": "Gli USA prorogano l'esenzione dal Jones Act",
+          "summary": "Gli Stati Uniti hanno prorogato di 90 giorni un'esenzione dal Jones Act, permettendo a navi battenti bandiera estera di trasportare petrolio e altre materie prime tra porti statunitensi per alleviare le strozzature logistiche."
         }
       }
     }
